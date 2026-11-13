@@ -1,8 +1,11 @@
 """FastAPI backend for the S7 FMPO Study, Exam Simulator, Clinical Situations & Scan Digitizer Platform."""
 from __future__ import annotations
 
+import base64
 import json
 import mimetypes
+import os
+import secrets
 import shutil
 import subprocess
 import sys
@@ -10,9 +13,9 @@ import uuid
 from pathlib import Path
 from typing import Any
 
-from fastapi import Body, FastAPI, File, Form, HTTPException, Query, UploadFile
+from fastapi import Body, FastAPI, File, Form, HTTPException, Query, Request, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse, JSONResponse
+from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -38,6 +41,31 @@ app.add_middleware(
 )
 
 
+@app.middleware("http")
+async def optional_basic_auth(request: Request, call_next):
+    """Enforce HTTP Basic Auth on cloud deploys when APP_ACCESS_PASSWORD is set."""
+    expected_pw = os.environ.get("APP_ACCESS_PASSWORD", "")
+    if not expected_pw or request.url.path == "/api/health":
+        return await call_next(request)
+
+    expected_user = os.environ.get("APP_ACCESS_USER", "medprep")
+    auth_header = request.headers.get("Authorization", "")
+    if auth_header.startswith("Basic "):
+        try:
+            decoded = base64.b64decode(auth_header[6:].strip()).decode("utf-8")
+            user, _, pw = decoded.partition(":")
+            if secrets.compare_digest(user, expected_user) and secrets.compare_digest(pw, expected_pw):
+                return await call_next(request)
+        except Exception:
+            pass
+
+    return Response(
+        status_code=401,
+        headers={"WWW-Authenticate": 'Basic realm="FMPO S7 MedPrep Studio"'},
+        content="Authentification requise",
+    )
+
+
 def _ensure_drive_file_local(conn, file_id: str) -> Path:
     row = conn.execute("SELECT id, name, local_path FROM drive_files WHERE id = ?", (file_id,)).fetchone()
     if not row:
@@ -50,12 +78,18 @@ def _ensure_drive_file_local(conn, file_id: str) -> Path:
     dest = CACHE_BY_ID / file_id / row["name"]
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(dest.suffix + ".part")
-    res = subprocess.run(
-        ["gdrive", "readonly", "download", file_id, "--out", str(tmp)],
-        capture_output=True,
-        text=True,
-        timeout=120,
-    )
+    try:
+        res = subprocess.run(
+            ["gdrive", "readonly", "download", file_id, "--out", str(tmp)],
+            capture_output=True,
+            text=True,
+            timeout=120,
+        )
+    except FileNotFoundError as exc:
+        raise HTTPException(
+            status_code=503,
+            detail="Téléchargement Drive à la demande indisponible sans le CLI gdrive local.",
+        ) from exc
     if res.returncode != 0 or not tmp.exists():
         raise HTTPException(status_code=502, detail=f"Échec téléchargement Drive : {res.stderr.strip()}")
     tmp.rename(dest)

@@ -2,12 +2,13 @@
 from __future__ import annotations
 
 import json
+import os
 import sqlite3
 from pathlib import Path
 from typing import Any
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT_DIR / "data"
+DATA_DIR = Path(os.environ.get("S7_DATA_DIR", str(ROOT_DIR / "data")))
 DB_PATH = DATA_DIR / "s7_platform.db"
 
 SCHEMA_SQL = """
