@@ -1,0 +1,240 @@
+{
+  "page_header": "Épreuve d'Hématologie Clinique – Oncologie générale, 4ème année Médecine, 1ère session Février 2025",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Diagnostic de la leucémie aigue repose sur:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Taux de blastes médullaires moins de 5%"
+        },
+        {
+          "letter": "B",
+          "text": "L'immunophénotypage médullaire"
+        },
+        {
+          "letter": "C",
+          "text": "Taux de blastes sur le frottis sanguin ≥ 20%"
+        },
+        {
+          "letter": "D",
+          "text": "Taux de blastes sur le myélogramme ≥ 20%"
+        },
+        {
+          "letter": "E",
+          "text": "Présence de myélémie sur le frottis sanguin"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le diagnostic de leucémie aiguë est défini par la présence d'au moins 20% de blastes dans la moelle osseuse (myélogramme)."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Traitement des leucémies aigue est basé sur:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Allogreffe de cellules souches hématopoïétiques chez les patients ≤65 ans"
+        },
+        {
+          "letter": "B",
+          "text": "Autogreffe"
+        },
+        {
+          "letter": "C",
+          "text": "Immunothérapie"
+        },
+        {
+          "letter": "D",
+          "text": "Radiothérapie"
+        },
+        {
+          "letter": "E",
+          "text": "Chimiothérapie cytotoxique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le traitement repose principalement sur la chimiothérapie cytotoxique pour induire la rémission, et l'allogreffe est une option thérapeutique majeure pour les patients éligibles."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Bilan d'extension d'un lymphome non Hodgkinien:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est nécessaire pour stadifier le lymphome"
+        },
+        {
+          "letter": "B",
+          "text": "Oriente le choix thérapeutique"
+        },
+        {
+          "letter": "C",
+          "text": "Repose sur la réalisation de Biopsie ostéomédullaire"
+        },
+        {
+          "letter": "D",
+          "text": "Nécessite la réalisation d'un Scanner thoraco- abdominopelvien"
+        },
+        {
+          "letter": "E",
+          "text": "Est basé sur la Tomographie par émission de positons couplée au scanner"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le bilan d'extension complet d'un lymphome inclut l'imagerie (scanner, TEP-scan), la biopsie ostéomédullaire et est indispensable pour la stadification et la stratégie thérapeutique."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Une gammapathie Monoclonale est présente dans les pathologies suivantes:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Myélome multiple"
+        },
+        {
+          "letter": "B",
+          "text": "Maladie de waldenstrom"
+        },
+        {
+          "letter": "C",
+          "text": "MGUS"
+        },
+        {
+          "letter": "D",
+          "text": "Amylose AL"
+        },
+        {
+          "letter": "E",
+          "text": "LLC"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le myélome, la maladie de Waldenström, la MGUS et l'amylose AL sont des hémopathies ou pathologies associées à un pic monoclonal. La LLC est une prolifération lymphoïde B mature qui n'est pas classiquement définie par une gammapathie monoclonale."
+    },
+    {
+      "question_number": 5,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Un patient ayant un groupe sanguin O Rh - peut recevoir des:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Culots globulaires AB Rh -"
+        },
+        {
+          "letter": "B",
+          "text": "Culots globulaires B Rh -"
+        },
+        {
+          "letter": "C",
+          "text": "Culots plaquettaires O Rh-"
+        },
+        {
+          "letter": "D",
+          "text": "Culots plaquettaires A Rh +"
+        },
+        {
+          "letter": "E",
+          "text": "Plasma frais congelé A Rh -"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Un patient de groupe O Rh- est donneur universel de globules rouges mais ne peut recevoir que des globules rouges de groupe O Rh-. Pour les plaquettes, la compatibilité est plus souple, mais le O Rh- est compatible avec le O."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

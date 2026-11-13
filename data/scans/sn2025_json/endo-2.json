@@ -1,0 +1,292 @@
+{
+  "page_header": "EXAMEN ENDOCRINO 2025 SN - Faculté de Médecine d'Oujda - 4e année S7",
+  "questions": [
+    {
+      "question_number": 7,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Vous prescrivez de la L-Thyroxine à la dose de:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 ug/kg/jour"
+        },
+        {
+          "letter": "B",
+          "text": "4 ug/kg/jour"
+        },
+        {
+          "letter": "C",
+          "text": "1.4ug/kg/jour"
+        },
+        {
+          "letter": "D",
+          "text": "0.5 ug/kg/jour"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La dose substitutive usuelle de la L-thyroxine dans l'hypothyroïdie primaire de l'adulte est d'environ 1,6 µg/kg/j. L'option C (1,4 µg/kg/j) est la réponse standard acceptée ici."
+    },
+    {
+      "question_number": 8,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le traitement par L-Thyroxine",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "doit être pris le matin à jeun"
+        },
+        {
+          "letter": "B",
+          "text": "doit être pris au milieu du repas"
+        },
+        {
+          "letter": "C",
+          "text": "doit être pris le matin à jeun, au moins 30 minutes avant le repas"
+        },
+        {
+          "letter": "D",
+          "text": "doit être arrêté en cas de grossesse ou d'allaitement"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La L-thyroxine doit être prise à jeun, idéalement 30 à 60 minutes avant le petit-déjeuner pour optimiser l'absorption intestinale gastrique acide."
+    },
+    {
+      "question_number": 9,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La surveillance se base sur :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les signes cliniques"
+        },
+        {
+          "letter": "B",
+          "text": "Le dosage de la TSHus dans 4 semaines"
+        },
+        {
+          "letter": "C",
+          "text": "Le dosage de la TSHus dans 6 semaines"
+        },
+        {
+          "letter": "D",
+          "text": "Le dosage de la T3Libre"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La surveillance de l'hypothyroïdie primaire repose sur la clinique et le dosage de la TSHus, effectué 6 à 8 semaines après l'instauration ou le changement de dose."
+    },
+    {
+      "question_number": 10,
+      "vignette_text": "Elle revient vous voir 6 mois après, enceinte de 5 semaines d'aménorrhée avec une bonne observance thérapeutique. La TSHus : 4,5 mUI/L (N :0.25- 4.5)",
+      "question_type": "qcm_multi",
+      "stem": "Vous décidez alors :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "de garder la même dose du traitement par L-thyroxine"
+        },
+        {
+          "letter": "B",
+          "text": "d'arrêter le traitement par L-thyroxine car il est tératogène"
+        },
+        {
+          "letter": "C",
+          "text": "d'augmenter la dose du traitement par L-thyroxine"
+        },
+        {
+          "letter": "D",
+          "text": "de diminuer la dose du traitement par L-thyroxine"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Pendant la grossesse, les besoins en hormones thyroïdiennes augmentent. La cible de TSH au 1er trimestre est généralement < 2,5 mUI/L, donc une TSH à 4,5 nécessite une augmentation de dose."
+    },
+    {
+      "question_number": 11,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les critères du traitement d'une hypothyroïdie fruste, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La présence d'un taux de TSHus inférieur à 10 mUI/l"
+        },
+        {
+          "letter": "B",
+          "text": "Age jeune"
+        },
+        {
+          "letter": "C",
+          "text": "L'absence d'un goitre"
+        },
+        {
+          "letter": "D",
+          "text": "La présence d'anticorps anti-TPO positifs"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le traitement de l'hypothyroïdie fruste (TSH < 10) est indiqué en cas de grossesse, désir de grossesse, présence d'anti-TPO, goitre, ou chez le sujet jeune avec facteurs de risque cardiovasculaire."
+    },
+    {
+      "question_number": 12,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "On évoque une insuffisance surrénalienne chronique d'origine hypophysaire devant :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asthénie"
+        },
+        {
+          "letter": "B",
+          "text": "Hypotension orthostatique"
+        },
+        {
+          "letter": "C",
+          "text": "Mélanodermie"
+        },
+        {
+          "letter": "D",
+          "text": "Un taux de cortisol de 08h inférieur à 30ng/ml"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'insuffisance surrénalienne secondaire (hypophysaire) se manifeste par une asthénie, une hypotension et un cortisol bas, mais sans mélanodermie (qui est spécifique à l'origine périphérique/Addison par excès d'ACTH)."
+    },
+    {
+      "question_number": 13,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le diagnostic d'un hypogonadisme chez le garçon est suspecté devant :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'absence de développement testiculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Voix infantile"
+        },
+        {
+          "letter": "C",
+          "text": "Obésité gynoïde"
+        },
+        {
+          "letter": "D",
+          "text": "Gynécomastie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'étudiant a fait une erreur (X à gauche) en omettant l'option C. L'hypogonadisme masculin se manifeste par un impubérisme (A, B), une gynécomastie (D) et souvent une répartition des graisses de type gynoïde (C)."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

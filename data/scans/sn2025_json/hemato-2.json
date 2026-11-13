@@ -1,0 +1,303 @@
+{
+  "page_header": "EXAMEN HEMATO-ONCO 2025 SN",
+  "questions": [
+    {
+      "question_number": 6,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les complications d'une transfusion sanguine :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syndrome de lyse"
+        },
+        {
+          "letter": "B",
+          "text": "Hypokaliémie"
+        },
+        {
+          "letter": "C",
+          "text": "Hémolyse"
+        },
+        {
+          "letter": "D",
+          "text": "Choc hémolytique avec CIVD"
+        },
+        {
+          "letter": "E",
+          "text": "Œdème aiguë du poumon"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Les complications transfusionnelles incluent l'hémolyse (immédiate ou retardée), le choc hémolytique avec CIVD, et l'OAP (surcharge volémique). Le syndrome de lyse et l'hypokaliémie ne sont pas des complications directes de la transfusion."
+    },
+    {
+      "question_number": 7,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le ou les éléments suivants sont nécessaires pour poser le diagnostic de la maladie de waldenstrom :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une gammapathie monoclonale à Ig M"
+        },
+        {
+          "letter": "B",
+          "text": "Un Taux d'IgA supérieure à 50 g/l"
+        },
+        {
+          "letter": "C",
+          "text": "Plasmocytose médullaire à 10%"
+        },
+        {
+          "letter": "D",
+          "text": "Infiltration médullaire ou ganglionnaire lympho-plasmocytaire"
+        },
+        {
+          "letter": "E",
+          "text": "Envahissement de la moelle par des lymphocytes"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le diagnostic de la maladie de Waldenström repose sur la présence d'une gammapathie monoclonale IgM et une infiltration médullaire par des cellules lympho-plasmocytaires."
+    },
+    {
+      "question_number": 8,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La polyglobulie de vaquez :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le diagnostic est basé sur la mise en évidence du transcrit BCR-ABL"
+        },
+        {
+          "letter": "B",
+          "text": "La thrombose est l'une des principales complications"
+        },
+        {
+          "letter": "C",
+          "text": "L'imatinib est efficace"
+        },
+        {
+          "letter": "D",
+          "text": "La vitesse de sédimentation est habituellement haute"
+        },
+        {
+          "letter": "E",
+          "text": "Le diagnostic différentiel peut se poser avec une situation d'hypoxie"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "basse",
+      "verified_correct_letters": [
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La polyglobulie de Vaquez est une néoplasie myéloproliférative (mutation JAK2). La VS est basse (et non haute), et le diagnostic différentiel inclut les polyglobulies secondaires (hypoxie). BCR-ABL est spécifique de la LMC."
+    },
+    {
+      "question_number": 9,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les molécules efficaces dans le traitement de la leucémie myéloïde chronique :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'ibrutinib"
+        },
+        {
+          "letter": "B",
+          "text": "Le nilotinib"
+        },
+        {
+          "letter": "C",
+          "text": "Le bortezomib"
+        },
+        {
+          "letter": "D",
+          "text": "Le dasatinib"
+        },
+        {
+          "letter": "E",
+          "text": "Le ruxolitinib"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le nilotinib et le dasatinib sont des inhibiteurs de tyrosine kinase (ITK) de deuxième génération utilisés dans la LMC. L'ibrutinib, le bortezomib et le ruxolitinib ne sont pas des traitements de première intention de la LMC."
+    },
+    {
+      "question_number": 10,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le risque d'acutisation d'une leucémie myéloïde chronique non traitée avoisine :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "30%"
+        },
+        {
+          "letter": "B",
+          "text": "40%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "70%"
+        },
+        {
+          "letter": "E",
+          "text": "100%"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Sans traitement, la phase chronique de la LMC évolue inéluctablement vers une phase accélérée puis une crise blastique (acutisation) à 100%."
+    },
+    {
+      "question_number": 11,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La drépanocytose :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "est une anémie hémolytique corpusculaire"
+        },
+        {
+          "letter": "B",
+          "text": "est une anémie hémolytique extra-corpusculaire"
+        },
+        {
+          "letter": "C",
+          "text": "est responsable d'une asplénie fonctionnelle"
+        },
+        {
+          "letter": "D",
+          "text": "est évoquée devant la présence de dacryocytes sur le frottis sanguin"
+        },
+        {
+          "letter": "E",
+          "text": "le diagnostic repose sur l'électrophorèse des protides"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La drépanocytose est une hémoglobinopathie (anémie corpusculaire) entraînant des infarctus spléniques répétés (asplénie fonctionnelle). Le diagnostic repose sur l'électrophorèse de l'hémoglobine."
+    },
+    {
+      "question_number": 12,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La thrombopathie peut être observée dans :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Leucémie myéloïde chronique"
+        },
+        {
+          "letter": "B",
+          "text": "La Leucémie lymphoïde chronique"
+        },
+        {
+          "letter": "C",
+          "text": "La thrombocytémie essentielle"
+        },
+        {
+          "letter": "D",
+          "text": "La myélofibrose"
+        },
+        {
+          "letter": "E",
+          "text": "La polyglobulie de vaquez"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Les syndromes myéloprolifératifs (LMC, TE, Myélofibrose, Vaquez) sont fréquemment associés à des anomalies fonctionnelles plaquettaires (thrombopathies acquises)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

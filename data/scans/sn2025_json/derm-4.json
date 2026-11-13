@@ -1,0 +1,249 @@
+{
+  "page_header": "EXAMEN DERMATO 2025 SN (Dermatologie Q38-42)",
+  "questions": [
+    {
+      "question_number": 38,
+      "vignette_text": "La rosacée :",
+      "question_type": "qcm_multi",
+      "stem": "La rosacée :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une dermatose atteignant avec prédilection les patients de phototype foncé."
+        },
+        {
+          "letter": "B",
+          "text": "Est caractérisée cliniquement par 4 stades successifs."
+        },
+        {
+          "letter": "C",
+          "text": "Peut être responsable de complications oculaires."
+        },
+        {
+          "letter": "D",
+          "text": "Dans sa forme papulo-pustuleuse peut prêter confusion avec l'acné."
+        },
+        {
+          "letter": "E",
+          "text": "Le rhinophyma peut avoir une dégénérescence maligne."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La rosacée touche préférentiellement les phototypes clairs (I et II). Elle comporte 4 stades (érythémato-télangiectasique, papulo-pustuleux, hypertrophique, oculaire). Le rhinophyma est une forme hypertrophique bénigne."
+    },
+    {
+      "question_number": 39,
+      "vignette_text": "La dermatite séborrhéique :",
+      "question_type": "qcm_multi",
+      "stem": "La dermatite séborrhéique :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dermatose érythémato-squameuse siégeant au niveau des zones séborrhéiques."
+        },
+        {
+          "letter": "B",
+          "text": "Se localise le plus souvent au niveau centro-facial."
+        },
+        {
+          "letter": "C",
+          "text": "Chez le nouveau-né peut se manifester sous-forme d'érythrodermie."
+        },
+        {
+          "letter": "D",
+          "text": "Le Malassezia Furfur est incriminé dans pathogénèse."
+        },
+        {
+          "letter": "E",
+          "text": "La forme du nouveau-né est bénigne."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La dermatite séborrhéique est une pathologie inflammatoire liée à la prolifération de levures du genre Malassezia. Toutes les propositions sont exactes, y compris la forme érythrodermique chez le nourrisson (maladie de Leiner-Moussous)."
+    },
+    {
+      "question_number": 40,
+      "vignette_text": "Eczéma de contact :",
+      "question_type": "qcm_multi",
+      "stem": "Eczéma de contact :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'éviction de l'allergène constitue le traitement de base."
+        },
+        {
+          "letter": "B",
+          "text": "Nécessite une phase de sensibilisation avec des manifestations cliniques graves."
+        },
+        {
+          "letter": "C",
+          "text": "Les 4 phases d'un eczéma chronique sont la phase érythémateuse, vésiculeuse, suintante, croûteuse et desquamative."
+        },
+        {
+          "letter": "D",
+          "text": "Les tests épi-cutanés n'ont aucune place."
+        },
+        {
+          "letter": "E",
+          "text": "En cas de suspicion d'un eczéma de contact, une biopsie cutanée est nécessaire pour confirmer le diagnostic."
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "L'éviction est le traitement curatif. La phase de sensibilisation est asymptomatique. Le diagnostic est clinique et confirmé par les patch-tests (tests épicutanés), non par biopsie."
+    },
+    {
+      "question_number": 41,
+      "vignette_text": "L'urticaire :",
+      "question_type": "qcm_multi",
+      "stem": "L'urticaire :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dermatose inflammatoire très rare."
+        },
+        {
+          "letter": "B",
+          "text": "Cliniquement, le prurit est le plus souvent présent."
+        },
+        {
+          "letter": "C",
+          "text": "Dans sa forme aigue, peut se manifester par un Œdème de Quincke ou un Angioedème pouvant mettre en jeu le pronostic vital."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être d'origine infectieuse."
+        },
+        {
+          "letter": "E",
+          "text": "Son traitement repose sur les antihistaminiques."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'urticaire est une pathologie très fréquente. Elle est caractérisée par un prurit intense, peut être déclenchée par des infections, et les antihistaminiques sont le traitement de première intention."
+    },
+    {
+      "question_number": 42,
+      "vignette_text": "Le psoriasis :",
+      "question_type": "qcm_multi",
+      "stem": "Le psoriasis :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une dermatose érythémato-squameuse."
+        },
+        {
+          "letter": "B",
+          "text": "Peut parfois engager le pronostic fonctionnel."
+        },
+        {
+          "letter": "C",
+          "text": "Est une dermatose inflammatoire aigue."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être héréditaire."
+        },
+        {
+          "letter": "E",
+          "text": "Les corticoïdes par voie générale peuvent constituer une bonne alternative thérapeutique pour les formes érythémato-squameuses du cuir chevelu."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le psoriasis est une dermatose inflammatoire chronique (non aiguë). Les corticoïdes par voie générale sont formellement contre-indiqués dans le psoriasis car ils exposent à un risque de poussée pustuleuse grave à l'arrêt."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

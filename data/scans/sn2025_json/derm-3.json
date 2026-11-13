@@ -1,0 +1,235 @@
+{
+  "page_header": "EXAMEN DERMATO 2025 SN (Dermatologie Q33-37)",
+  "questions": [
+    {
+      "question_number": 33,
+      "vignette_text": "Le carcinome baso-cellulaire",
+      "question_type": "qcm_multi",
+      "stem": "Le carcinome baso-cellulaire :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une tumeur épithéliale bénigne développée aux dépens du follicule pileux."
+        },
+        {
+          "letter": "B",
+          "text": "Peut s'ulcérer."
+        },
+        {
+          "letter": "C",
+          "text": "A une malignité surtout locale."
+        },
+        {
+          "letter": "D",
+          "text": "Est une tumeur bénigne."
+        },
+        {
+          "letter": "E",
+          "text": "Peut être pigmenté."
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome baso-cellulaire est une tumeur maligne (donc D est faux) à malignité locale (C vrai), pouvant s'ulcérer (B vrai) ou être pigmenté (E vrai). Il ne s'agit pas d'une tumeur bénigne."
+    },
+    {
+      "question_number": 34,
+      "vignette_text": "Le carcinome épidermoïde : (CE)",
+      "question_type": "qcm_multi",
+      "stem": "Le carcinome épidermoïde : (CE)",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tumeurs malignes développées à partir des glandes sébacées."
+        },
+        {
+          "letter": "B",
+          "text": "Le tabac et les radiations ionisantes peuvent être considéré comme des facteurs favorisants le développement des CE."
+        },
+        {
+          "letter": "C",
+          "text": "Les CE se développent le plus souvent sur une peau saine."
+        },
+        {
+          "letter": "D",
+          "text": "La kératose actinique est une forme clinique du carcinome épidermoïde du visage."
+        },
+        {
+          "letter": "E",
+          "text": "Le traitement est basé sur la chirurgie."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le CE se développe à partir des kératinocytes (pas des glandes sébacées) et souvent sur des lésions précancéreuses (kératose actinique). Le traitement de référence est chirurgical."
+    },
+    {
+      "question_number": 35,
+      "vignette_text": "Le mélanome",
+      "question_type": "qcm_multi",
+      "stem": "Le mélanome :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'Indice de Breslow : basé sur le franchissement des couches anatomiques."
+        },
+        {
+          "letter": "B",
+          "text": "L'indice de Clark : c'est la mesure à l'oculaire micrométrique sur coupe d'histologie standard de l'épaisseur en mm comprise entre les cellules superficielles de la couche granuleuse et la base profonde de la Tm."
+        },
+        {
+          "letter": "C",
+          "text": "Le mélanome peut être non pigmenté."
+        },
+        {
+          "letter": "D",
+          "text": "Le mélanome est une tumeur maligne."
+        },
+        {
+          "letter": "E",
+          "text": "Peut toucher les muqueuses et les phanères."
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'indice de Breslow mesure l'épaisseur en mm (inversé avec Clark dans les options A et B). Le mélanome est malin, peut être achromique (non pigmenté) et atteindre les muqueuses."
+    },
+    {
+      "question_number": 36,
+      "vignette_text": "La dermatite atopique",
+      "question_type": "qcm_multi",
+      "stem": "La dermatite atopique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chez le nourrisson de moins de 2 ans est marquée par l'atteinte des plis."
+        },
+        {
+          "letter": "B",
+          "text": "Le prurit est souvent retrouvé."
+        },
+        {
+          "letter": "C",
+          "text": "la pustulose varioliforme de Kaposi-Juliusberg est une complication redoutable secondaire à l'infection par Herpes virus."
+        },
+        {
+          "letter": "D",
+          "text": "Les dermocorticoïdes constituent la base du traitement."
+        },
+        {
+          "letter": "E",
+          "text": "Persiste souvent à l'âge adulte."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Chez le nourrisson, l'atteinte est préférentiellement convexe (visage, faces d'extension) et non des plis. Le prurit, les complications infectieuses (Kaposi-Juliusberg) et les dermocorticoïdes sont des éléments clés."
+    },
+    {
+      "question_number": 37,
+      "vignette_text": "L'acné",
+      "question_type": "qcm_multi",
+      "stem": "L'acné :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Epargne les adolescents."
+        },
+        {
+          "letter": "B",
+          "text": "Epargne les sujets dont l'âge est supérieur à 30 ans."
+        },
+        {
+          "letter": "C",
+          "text": "L'isotrétinoïne peut être prescrite chez la femme enceinte avec surveillance rapprochée."
+        },
+        {
+          "letter": "D",
+          "text": "Parmi les lésions inflammatoires, on retrouve les papules, pustules et nodules."
+        },
+        {
+          "letter": "E",
+          "text": "Peut être responsable de cicatrices irréversibles."
+        }
+      ],
+      "marked_letters": [
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'isotrétinoïne est strictement contre-indiquée chez la femme enceinte en raison de son effet tératogène majeur. Les lésions inflammatoires incluent bien papules, pustules et nodules, et l'acné peut laisser des cicatrices."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

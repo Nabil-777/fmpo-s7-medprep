@@ -1,0 +1,91 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 16,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le groupe alimentaire des fruits et des légumes est riche en :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fer"
+        },
+        {
+          "letter": "B",
+          "text": "Vitamine D"
+        },
+        {
+          "letter": "C",
+          "text": "Vitamine B9 et vitamine C"
+        },
+        {
+          "letter": "D",
+          "text": "Fibres"
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "+ Eau, + Glucides simples, + Minéraux",
+      "verified_correct_letters": [
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les fruits et légumes sont des sources majeures de vitamines hydrosolubles (C, B9), de fibres, d'eau et de minéraux. Le fer et la vitamine D ne sont pas caractéristiques de ce groupe alimentaire."
+    },
+    {
+      "question_number": 17,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La consommation conseillée des lipides doit inclure des aliments contenant :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acides gras mono-insaturés"
+        },
+        {
+          "letter": "B",
+          "text": "Oméga 6"
+        },
+        {
+          "letter": "C",
+          "text": "Acides gras poly-insaturés"
+        },
+        {
+          "letter": "D",
+          "text": "Acides gras saturés"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Les recommandations nutritionnelles privilégient les acides gras insaturés (mono et poly-insaturés, incluant les oméga-6) pour la santé cardiovasculaire. Les acides gras saturés doivent être limités."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

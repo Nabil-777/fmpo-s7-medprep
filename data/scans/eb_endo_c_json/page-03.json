@@ -1,0 +1,88 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 5,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'insuline humaine Mix 30:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "correspond à l'association de 30% d'insuline ultra rapide et de 70% d'insuline intermédiaire"
+        },
+        {
+          "letter": "B",
+          "text": "correspond à l'association de 30% d'insuline rapide humaine et de 70% d'insuline intermédiaire"
+        },
+        {
+          "letter": "C",
+          "text": "doit être injectée 30 min avant le repas"
+        },
+        {
+          "letter": "D",
+          "text": "doit être injectée au moment du repas"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'insuline Mix 30 contient 30% d'insuline rapide (et non ultra-rapide) et 70% d'insuline intermédiaire (NPH). En raison de sa composante intermédiaire, elle doit être injectée 30 minutes avant le repas."
+    },
+    {
+      "question_number": 6,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Concernant l'insuline rapide :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "peut être humaine recombinante ou analogue"
+        },
+        {
+          "letter": "B",
+          "text": "est injectée pour corriger une hyperglycémie"
+        },
+        {
+          "letter": "C",
+          "text": "doit être injectée 30 min avant le repas pour l'insuline rapide analogue humaine"
+        },
+        {
+          "letter": "D",
+          "text": "doit être injectée 40 min avant le repas pour l'insuline rapide humaine recombinante"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "humaine, 30 min",
+      "verified_correct_letters": [
+        "A",
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "L'insuline rapide humaine recombinante (insuline régulière) doit être injectée 30 minutes avant le repas, tandis que les analogues rapides peuvent être injectés juste avant ou au moment du repas. Les options C et D sont incorrectes car elles inversent ou modifient les délais d'action standards."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

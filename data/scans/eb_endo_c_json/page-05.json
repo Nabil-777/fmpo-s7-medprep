@@ -1,0 +1,89 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 10,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les causes iatrogènes d'hypothyroïdie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'amiodarone"
+        },
+        {
+          "letter": "B",
+          "text": "le lithium"
+        },
+        {
+          "letter": "C",
+          "text": "l'interféron alpha"
+        },
+        {
+          "letter": "D",
+          "text": "la L-thyroxine"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'amiodarone, le lithium et l'interféron alpha sont des causes classiques d'hypothyroïdie iatrogène. La L-thyroxine est le traitement substitutif de l'hypothyroïdie et non une cause."
+    },
+    {
+      "question_number": 11,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les complications de l'acromégalie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'hypertension artérielle"
+        },
+        {
+          "letter": "B",
+          "text": "les polypes coliques"
+        },
+        {
+          "letter": "C",
+          "text": "le syndrome d'apnées du sommeil"
+        },
+        {
+          "letter": "D",
+          "text": "le diabète"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'acromégalie est une pathologie systémique entraînant des complications métaboliques (diabète), cardiovasculaires (HTA), respiratoires (SAOS) et néoplasiques (polypes coliques)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

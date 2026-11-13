@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+
+# Large cached Drive mirror & runtime render caches (restored/fetched on demand)
+data/drive_cache/
+data/scans/preview/
+data/scans/jobs/
+*.part
+
+# Secrets & OS artifacts
+.env
+.env.*
+.DS_Store

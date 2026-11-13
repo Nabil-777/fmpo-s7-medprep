@@ -1,0 +1,44 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 24,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les signes de l'hypercalcémie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crise de tétanie"
+        },
+        {
+          "letter": "B",
+          "text": "Coma"
+        },
+        {
+          "letter": "C",
+          "text": "Convulsions"
+        },
+        {
+          "letter": "D",
+          "text": "Allongement de l'espace QT à l'ECG"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "A: Hypocalcémie, B+C: + confusion, D: Raccourcissement",
+      "verified_correct_letters": [
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypercalcémie sévère peut entraîner des troubles neurologiques comme la confusion, le coma et les convulsions. La tétanie est un signe d'hypocalcémie, et l'hypercalcémie provoque un raccourcissement de l'espace QT à l'ECG, et non un allongement."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

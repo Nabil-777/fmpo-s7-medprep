@@ -1,0 +1,85 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 18,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les carences vitaminiques les plus fréquentes, il y a la carence en:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vitamine D"
+        },
+        {
+          "letter": "B",
+          "text": "Vitamine B12"
+        },
+        {
+          "letter": "C",
+          "text": "Vitamine C"
+        },
+        {
+          "letter": "D",
+          "text": "Vitamine B9"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "La carence en vitamine D est la carence vitaminique la plus fréquente à l'échelle mondiale, notamment en raison d'une exposition solaire insuffisante et d'apports alimentaires limités."
+    },
+    {
+      "question_number": 19,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le carcinome médullaire de la thyroïde est suspecté devant un nodule thyroïdien suspect associé à :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antécédent personnel d'irradiation cervicale"
+        },
+        {
+          "letter": "B",
+          "text": "Antécédent familial de néoplasie endocrinienne multiple"
+        },
+        {
+          "letter": "C",
+          "text": "Calcitonine > 100 pg/ml"
+        },
+        {
+          "letter": "D",
+          "text": "Thyroglobuline élevée"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "Carcinome papillaire (pour A), Type 2 (pour B)",
+      "verified_correct_letters": [
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome médullaire de la thyroïde (CMT) est associé aux NEM 2 (mutation RET). La calcitonine est le marqueur spécifique du CMT, et un taux > 100 pg/ml est hautement évocateur. L'irradiation cervicale est un facteur de risque du carcinome papillaire."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

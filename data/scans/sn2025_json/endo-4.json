@@ -1,0 +1,44 @@
+{
+  "page_header": "EXAMEN ENDOCRINO 2025 SN (Endocrinologie, QCM multi-réponses)",
+  "questions": [
+    {
+      "question_number": 22,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La carence en vitamine A est responsable de :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hémorragie"
+        },
+        {
+          "letter": "B",
+          "text": "Anémie"
+        },
+        {
+          "letter": "C",
+          "text": "Rachitisme"
+        },
+        {
+          "letter": "D",
+          "text": "Atteinte oculaire"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "Coche rouge de validation à gauche, lettre D manuscrite en vert à droite.",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "La carence en vitamine A est classiquement responsable de troubles de la vision (héméralopie, xérophtalmie) pouvant mener à la cécité. L'hémorragie est liée à la vitamine K, le rachitisme à la vitamine D et l'anémie peut être liée au fer, B12 ou B9."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

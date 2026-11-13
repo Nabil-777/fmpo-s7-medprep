@@ -1,0 +1,141 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 20,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le carcinome papillaire",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cancer différencié le plus fréquent de la thyroïde"
+        },
+        {
+          "letter": "B",
+          "text": "Evoqué devant un nodule suspect associé à une thyroglobuline élevée"
+        },
+        {
+          "letter": "C",
+          "text": "Son diagnostic est histologique"
+        },
+        {
+          "letter": "D",
+          "text": "Le traitement associe une thyroïdectomie partielle associée à une irathérapie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "totale",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome papillaire est le cancer différencié le plus fréquent. Le traitement de référence est la thyroïdectomie totale (et non partielle) suivie d'une irathérapie si nécessaire."
+    },
+    {
+      "question_number": 21,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les étiologies des dyslipidémies secondaires on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grossesse"
+        },
+        {
+          "letter": "B",
+          "text": "Insuffisance hépatique"
+        },
+        {
+          "letter": "C",
+          "text": "Hypercholestérolémie pure"
+        },
+        {
+          "letter": "D",
+          "text": "Hypothyroïdie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "La grossesse, l'insuffisance hépatique et l'hypothyroïdie sont des causes classiques de dyslipidémies secondaires. L'hypercholestérolémie pure est un type de dyslipidémie, pas une étiologie."
+    },
+    {
+      "question_number": 23,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Une hyperparathyroïdie primaire est évoquée devant l'association de :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hypercalciurie"
+        },
+        {
+          "letter": "B",
+          "text": "Taux de PTH normal ou élevé"
+        },
+        {
+          "letter": "C",
+          "text": "Hyperphosphatémie"
+        },
+        {
+          "letter": "D",
+          "text": "Hypophosphatémie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "+ Hypercalciurie",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hyperparathyroïdie primaire se caractérise par une hypercalcémie, une hypercalciurie, une PTH élevée ou inappropriée, et une hypophosphatémie (due à l'effet phosphaturique de la PTH)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

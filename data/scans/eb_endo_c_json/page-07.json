@@ -1,0 +1,83 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 14,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Concernant l'insuffisance surrénalienne chronique :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'hypoglycémie, hypotension artérielle et l'amaigrissement sont les principaux signes cliniques"
+        },
+        {
+          "letter": "B",
+          "text": "un taux de cortisol de 8h supérieur à 200 ng/ml confirme son diagnostic"
+        },
+        {
+          "letter": "C",
+          "text": "Une stimulation par le synacthène immédiat est nécessaire si le taux de la cortisolémie est entre 30 et 200 ng/ml"
+        },
+        {
+          "letter": "D",
+          "text": "Une dépigmentation oriente vers une origine périphérique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "B: <30 ng/ml; D: centrale",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'insuffisance surrénalienne chronique périphérique se manifeste par une hyperpigmentation (mélanodermie) et non une dépigmentation. Un cortisol de 8h < 30 ng/ml confirme le diagnostic, tandis qu'entre 30 et 200 ng/ml, le test au Synacthène est indispensable."
+    },
+    {
+      "question_number": 15,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La dénutrition :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elle associe une perte pondérale avec un taux d'albumine < 30g/l"
+        },
+        {
+          "letter": "B",
+          "text": "Elle peut se survenir après une chirurgie digestive"
+        },
+        {
+          "letter": "C",
+          "text": "Elle peut survenir chez les patients souffrant d'une anorexie mentale"
+        },
+        {
+          "letter": "D",
+          "text": "Son traitement fait appel uniquement aux compléments alimentaires par voie orale"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La dénutrition est un état pathologique résultant d'un déséquilibre entre les apports et les besoins. Elle peut être causée par des pathologies digestives ou psychiatriques (anorexie). Le traitement est multidisciplinaire et ne se limite pas aux compléments oraux (nutrition entérale ou parentérale possible)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

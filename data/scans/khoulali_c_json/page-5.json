@@ -1,0 +1,25 @@
+{
+  "page_header": "COMPRESSIONS MÉDULLAIRES LENTES",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "LES MANIFESTATIONS CLINIQUES D'UNE CML DÉBUTANTE",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Syndrome rachidien : Douleurs localisées au rachis, fixes et permanentes (attitude antalgique), Déformation du rachis, limitation des mouvements actifs et passifs",
+        "Syndrome lésionnel (radiculaire) : Douleurs radiculaires en bande (résistantes au repos, permanentes avec paroxysmes nocturnes), Paresthésies ou hypoesthésie en bande radiculaire, Paralysie, amyotrophie, fasciculations, abolition des ROT dans le territoire concerné",
+        "Syndrome sous lésionnel : Troubles moteurs (sd pyramidal complet), Troubles sensitifs (atteinte cordonale postérieure et troubles sensitifs), Troubles génito-sphinctériens (retard de la miction et incontinence urinaire)"
+      ],
+      "explanation": "Cette section détaille la triade classique du syndrome de compression médullaire lente : le syndrome rachidien (localisateur), le syndrome lésionnel (radiculaire, valeur localisatrice précise) et le syndrome sous-lésionnel (témoin de l'atteinte des voies longues)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

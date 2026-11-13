@@ -1,0 +1,1282 @@
+{
+  "quiz_amphi_p3": {
+    "id": "quiz_amphi_p3",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Le psoriasis en plaques (psoriasis vulgaire) est la forme clinique la plus fréquente, représentant environ 80% des cas."
+  },
+  "quiz_amphi_p4": {
+    "id": "quiz_amphi_p4",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Le phénomène de Koebner correspond à l'apparition de lésions psoriasiques sur une zone de peau saine ayant subi un traumatisme (mécanique, physique ou chimique)."
+  },
+  "quiz_amphi_p5": {
+    "id": "quiz_amphi_p5",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le psoriasis est une maladie multifactorielle avec une prévalence de 2-3%, une composante génétique forte, deux pics d'âge (type I et II) et des facteurs environnementaux aggravants comme le tabac et l'alcool."
+  },
+  "quiz_amphi_p6": {
+    "id": "quiz_amphi_p6",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le psoriasis de type I débute avant 40 ans, est souvent associé à des antécédents familiaux et à l'antigène HLA-Cw6, et présente une sévérité plus marquée."
+  },
+  "quiz_amphi_p7": {
+    "id": "quiz_amphi_p7",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Les zones d'extension (coudes, genoux), le cuir chevelu et la région lombaire sont les sites de prédilection classiques du psoriasis en plaques."
+  },
+  "quiz_amphi_p8": {
+    "id": "quiz_amphi_p8",
+    "correct": [
+      "A"
+    ],
+    "explanation": "Le psoriasis en gouttes est classiquement déclenché par une infection streptococcique, le plus souvent une angine, survenant 2 à 3 semaines avant l'éruption."
+  },
+  "quiz_amphi_p9": {
+    "id": "quiz_amphi_p9",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le score PASI évalue la sévérité du psoriasis en combinant l'étendue des lésions (surface) et l'intensité des signes cliniques : érythème, induration et desquamation."
+  },
+  "quiz_amphi_p10": {
+    "id": "quiz_amphi_p10",
+    "correct": [
+      "A"
+    ],
+    "explanation": "Les dermocorticoïdes sont le traitement de première intention pour les formes localisées de psoriasis en plaques."
+  },
+  "quiz_amphi_p12": {
+    "id": "quiz_amphi_p12",
+    "correct": [
+      "A",
+      "C",
+      "G"
+    ],
+    "explanation": "L'érythème noueux est une hypodermite septale souvent idiopathique ou réactionnelle, guérissant spontanément en quelques semaines, et s'accompagnant fréquemment d'arthralgies."
+  },
+  "quiz_amphi_p13": {
+    "id": "quiz_amphi_p13",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'érythème noueux est défini histologiquement comme une hypodermite septale aiguë sans vascularite nécrosante."
+  },
+  "quiz_amphi_p14": {
+    "id": "quiz_amphi_p14",
+    "correct": [
+      "C"
+    ],
+    "explanation": "La localisation élective et quasi constante de l'érythème noueux est la face antérieure des jambes (région prétibiale)."
+  },
+  "quiz_amphi_p15": {
+    "id": "quiz_amphi_p15",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Cliniquement, il se présente sous forme de nodules dermo-hypodermiques rouges, chauds, douloureux et non ulcérés."
+  },
+  "quiz_amphi_p16": {
+    "id": "quiz_amphi_p16",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La sarcoïdose est l'une des étiologies classiques de l'érythème noueux, aux côtés des infections streptococciques et des tuberculoses."
+  },
+  "quiz_amphi_p17": {
+    "id": "quiz_amphi_p17",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le syndrome de Löfgren associe un érythème noueux, des adénopathies hilaires bilatérales et des arthralgies, typique de la sarcoïdose aiguë."
+  },
+  "quiz_amphi_p18": {
+    "id": "quiz_amphi_p18",
+    "correct": [
+      "D"
+    ],
+    "explanation": "L'érythème noueux guérit sans cicatrice ni atrophie ; il n'évolue pas vers une nécrose cutanée (contrairement aux vascularites)."
+  },
+  "quiz_amphi_p19": {
+    "id": "quiz_amphi_p19",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Les contraceptifs oestro-progestatifs sont des causes médicamenteuses reconnues de l'érythème noueux."
+  },
+  "quiz_amphi_p20": {
+    "id": "quiz_amphi_p20",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'histologie montre une inflammation du septum (hypodermite septale) sans atteinte vasculaire primaire."
+  },
+  "quiz_amphi_p21": {
+    "id": "quiz_amphi_p21",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le traitement est symptomatique : repos, surélévation des membres et AINS en l'absence de contre-indication."
+  },
+  "quiz_amphi_p23": {
+    "id": "quiz_amphi_p23",
+    "correct": [
+      "F"
+    ],
+    "explanation": "Les HPV à haut risque sont impliqués dans la carcinogenèse de nombreux sites muqueux (col, anus, oropharynx, pénis)."
+  },
+  "quiz_amphi_p24": {
+    "id": "quiz_amphi_p24",
+    "correct": [
+      "F"
+    ],
+    "explanation": "La transmission des HPV se fait par contact cutanéo-muqueux direct, incluant tous les types de rapports sexuels et la transmission verticale lors de l'accouchement."
+  },
+  "quiz_amphi_p25": {
+    "id": "quiz_amphi_p25",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Les condylomes peuvent siéger sur l'ensemble de la zone anogénitale, incluant les muqueuses génitales internes et externes."
+  },
+  "quiz_amphi_p26": {
+    "id": "quiz_amphi_p26",
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation": "Les HPV 6 et 11 sont à bas risque (condylomes), tandis que les 16 et 18 sont les principaux génotypes oncogènes."
+  },
+  "quiz_amphi_p27": {
+    "id": "quiz_amphi_p27",
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation": "La transmission est possible par contact direct ; le préservatif réduit le risque mais ne le supprime pas totalement car il ne couvre pas toutes les zones cutanées."
+  },
+  "quiz_amphi_p28": {
+    "id": "quiz_amphi_p28",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "La majorité des infections à HPV sont transitoires et asymptomatiques, mais une minorité peut persister et évoluer vers des lésions précancéreuses."
+  },
+  "quiz_amphi_p29": {
+    "id": "quiz_amphi_p29",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Les condylomes sont souvent asymptomatiques ou causent un prurit, et leur aspect clinique est variable (plans, papuleux ou exophytiques)."
+  },
+  "quiz_amphi_p30": {
+    "id": "quiz_amphi_p30",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Les traitements des condylomes incluent la destruction physique (cryothérapie, électrochirurgie) ou chimique (podophyllotoxine, imiquimod). L'amoxicilline est un antibiotique sans action sur les virus HPV."
+  },
+  "quiz_amphi_p31": {
+    "id": "quiz_amphi_p31",
+    "correct": [
+      "D"
+    ],
+    "explanation": "La vaccination anti-HPV est recommandée chez les filles et les garçons de 11 à 14 ans, idéalement avant le début de la vie sexuelle."
+  },
+  "quiz_amphi_p32": {
+    "id": "quiz_amphi_p32",
+    "correct": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "C'est un vaccin prophylactique efficace avant exposition. Il ne traite pas les lésions existantes, ne dispense pas du dépistage (car il ne couvre pas tous les génotypes) et ne protège pas contre tous les virus oncogènes."
+  },
+  "quiz_amphi_p41": {
+    "id": "quiz_amphi_p41",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'urticaire aiguë dure moins de 6 semaines et peut être déclenchée par des infections, des médicaments ou des aliments. Elle ne nécessite pas systématiquement un bilan allergologique."
+  },
+  "quiz_amphi_p42": {
+    "id": "quiz_amphi_p42",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'histamine est le médiateur principal libéré par les mastocytes, responsable du prurit et de la vasodilatation dans l'urticaire."
+  },
+  "quiz_amphi_p43": {
+    "id": "quiz_amphi_p43",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le mastocyte est la cellule effectrice clé dont la dégranulation libère des médiateurs vasoactifs provoquant la papule."
+  },
+  "quiz_amphi_p44": {
+    "id": "quiz_amphi_p44",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La papule urticarienne résulte d'un œdème dermique superficiel dû à une vasodilatation et une augmentation de la perméabilité vasculaire."
+  },
+  "quiz_amphi_p45": {
+    "id": "quiz_amphi_p45",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Dans l'urticaire allergique, la dégranulation mastocytaire est médiée par le pontage d'IgE spécifiques sur les récepteurs FcεRI."
+  },
+  "quiz_amphi_p46": {
+    "id": "quiz_amphi_p46",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Des lésions fixes, douloureuses, persistant plus de 24-48h doivent faire suspecter une vascularite urticarienne et justifier une biopsie cutanée."
+  },
+  "quiz_amphi_p47": {
+    "id": "quiz_amphi_p47",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Les antihistaminiques H1 de deuxième génération (non sédatifs) sont le traitement de première intention de l'urticaire chronique."
+  },
+  "quiz_amphi_p48": {
+    "id": "quiz_amphi_p48",
+    "correct": [
+      "B"
+    ],
+    "explanation": "En cas d'échec à dose standard, la recommandation est d'augmenter la posologie des antihistaminiques H1 jusqu'à 4 fois la dose standard."
+  },
+  "quiz_amphi_p49": {
+    "id": "quiz_amphi_p49",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'urticaire chronique est un diagnostic clinique. Un bilan extensif n'est pas recommandé en routine, sauf si des signes d'alerte sont présents."
+  },
+  "quiz_amphi_p50": {
+    "id": "quiz_amphi_p50",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'atteinte muqueuse (langue), la dyspnée ou l'hypotension sont des signes de gravité évoquant une anaphylaxie, contrairement à l'urticaire isolée."
+  },
+  "quiz_amphi_p52": {
+    "id": "quiz_amphi_p52",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'acné est une pathologie inflammatoire chronique de l'unité pilo-sébacée, multifactorielle et non limitée à l'adolescence."
+  },
+  "quiz_amphi_p53": {
+    "id": "quiz_amphi_p53",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "La physiopathologie repose sur l'hyperséborrhée, l'hyperkératinisation, la prolifération de C. acnes et l'inflammation."
+  },
+  "quiz_amphi_p54": {
+    "id": "quiz_amphi_p54",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Les androgènes stimulent la production de sébum et la prolifération des kératinocytes, jouant un rôle central dans l'acné."
+  },
+  "quiz_amphi_p55": {
+    "id": "quiz_amphi_p55",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Les comédons sont des bouchons de kératine et sébum. Les ouverts sont noirs par oxydation, et ils ne sont pas inflammatoires par définition."
+  },
+  "quiz_amphi_p56": {
+    "id": "quiz_amphi_p56",
+    "correct": [
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Les papules, pustules et nodules sont des lésions inflammatoires, contrairement aux comédons qui sont des lésions rétentionnelles."
+  },
+  "quiz_amphi_p57": {
+    "id": "quiz_amphi_p57",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'acné conglobata est la forme la plus sévère, caractérisée par des nodules, abcès et fistules avec un risque cicatriciel élevé."
+  },
+  "quiz_amphi_p58": {
+    "id": "quiz_amphi_p58",
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "L'isotrétinoïne est un dérivé de la vitamine A très efficace mais tératogène, nécessitant une contraception stricte."
+  },
+  "quiz_amphi_p59": {
+    "id": "quiz_amphi_p59",
+    "correct": [
+      "B"
+    ],
+    "explanation": "En raison de son risque tératogène majeur, un test de grossesse négatif et une contraception efficace sont obligatoires avant toute prescription."
+  },
+  "quiz_amphi_p60": {
+    "id": "quiz_amphi_p60",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le traitement de première intention de l'acné comédonienne légère repose sur les rétinoïdes topiques, éventuellement associés au peroxyde de benzoyle."
+  },
+  "quiz_amphi_p61": {
+    "id": "quiz_amphi_p61",
+    "correct": [
+      "D"
+    ],
+    "explanation": "L'efficacité des traitements de l'acné ne peut être évaluée avant 8 à 12 semaines de traitement bien conduit."
+  },
+  "quiz_amphi_p62": {
+    "id": "quiz_amphi_p62",
+    "correct": [
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "L'hyperséborrhée est stimulée par les androgènes, touche les zones riches en glandes sébacées et s'accompagne souvent d'une dysséborrhée."
+  },
+  "quiz_amphi_p63": {
+    "id": "quiz_amphi_p63",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Les androgènes augmentent la taille et l'activité sécrétoire des glandes sébacées, favorisant ainsi le développement de l'acné."
+  },
+  "quiz_amphi_p64": {
+    "id": "quiz_amphi_p64",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "L'hyperkératinisation infundibulaire entraîne une rétention de sébum et de kératine, formant le microcomédon, précurseur des comédons ouverts et fermés."
+  },
+  "quiz_amphi_p66": {
+    "id": "quiz_amphi_p66",
+    "correct": [
+      "D"
+    ],
+    "explanation": "L'eczéma de contact allergique est une réaction d'hypersensibilité retardée de type IV, médiée par les lymphocytes T sensibilisés."
+  },
+  "quiz_amphi_p67": {
+    "id": "quiz_amphi_p67",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'haptène est une petite molécule qui doit se coupler à une protéine porteuse endogène pour devenir immunogène (allergène complet)."
+  },
+  "quiz_amphi_p68": {
+    "id": "quiz_amphi_p68",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Les cellules de Langerhans (épiderme) et les cellules dendritiques dermiques sont les cellules présentatrices d'antigène professionnelles de la peau."
+  },
+  "quiz_amphi_p69": {
+    "id": "quiz_amphi_p69",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La phase de sensibilisation est cliniquement silencieuse et dure généralement 10 à 15 jours lors du premier contact."
+  },
+  "quiz_amphi_p70": {
+    "id": "quiz_amphi_p70",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Chez un sujet déjà sensibilisé, la réaction de type IV survient après un délai de 24 à 48 heures après le contact avec l'allergène."
+  },
+  "quiz_amphi_p71": {
+    "id": "quiz_amphi_p71",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Le diagnostic d'eczéma de contact est avant tout clinique (aspect des lésions) et anamnestique (recherche de l'exposition)."
+  },
+  "quiz_amphi_p72": {
+    "id": "quiz_amphi_p72",
+    "correct": [
+      "A"
+    ],
+    "explanation": "L'eczéma de contact se manifeste par une plaque érythémato-vésiculeuse, prurigineuse, aux limites souvent mal définies."
+  },
+  "quiz_amphi_p73": {
+    "id": "quiz_amphi_p73",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'interrogatoire doit être exhaustif sur l'environnement professionnel, les loisirs et les produits appliqués sur la peau."
+  },
+  "quiz_amphi_p74": {
+    "id": "quiz_amphi_p74",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Les patch-tests (tests épicutanés) sont la méthode de référence pour explorer l'hypersensibilité retardée de type IV."
+  },
+  "quiz_amphi_p75": {
+    "id": "quiz_amphi_p75",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Les tests doivent être réalisés sur une peau saine, à distance d'une poussée et sans interférence de corticoïdes locaux."
+  },
+  "quiz_amphi_p76": {
+    "id": "quiz_amphi_p76",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La spongiose (oedème intercellulaire dans l'épiderme) est la lésion histologique caractéristique de l'eczéma aigu."
+  },
+  "quiz_amphi_p77": {
+    "id": "quiz_amphi_p77",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'eczéma irritatif est une réaction non immunologique liée à une agression directe de la barrière cutanée par un agent chimique ou physique."
+  },
+  "quiz_amphi_p78": {
+    "id": "quiz_amphi_p78",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'éviction de l'allergène est la mesure thérapeutique fondamentale et indispensable pour la guérison."
+  },
+  "quiz_amphi_p79": {
+    "id": "quiz_amphi_p79",
+    "correct": [
+      "A"
+    ],
+    "explanation": "Les émollients permettent de restaurer la barrière cutanée altérée en dehors des phases inflammatoires aiguës."
+  },
+  "quiz_amphi_p80": {
+    "id": "quiz_amphi_p80",
+    "correct": [
+      "A"
+    ],
+    "explanation": "Les dermocorticoïdes sont le traitement de première intention pour réduire l'inflammation dans l'eczéma de contact."
+  },
+  "quiz_amphi_p81": {
+    "id": "quiz_amphi_p81",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Une application quotidienne en couche fine suffit généralement, limitant ainsi les effets secondaires locaux."
+  },
+  "quiz_amphi_p82": {
+    "id": "quiz_amphi_p82",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Sur les zones fragiles (visage, plis), on utilise des dermocorticoïdes de classe faible à modérée pour éviter l'atrophie cutanée."
+  },
+  "quiz_amphi_p83": {
+    "id": "quiz_amphi_p83",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La corticothérapie systémique est réservée aux formes très étendues ou invalidantes, pour une durée courte."
+  },
+  "halaoui_nc_1": {
+    "id": "halaoui_nc_1",
+    "correct": [
+      "A",
+      "B",
+      "E"
+    ],
+    "explanation": "La cytoponction est guidée par échographie, utilise des colorations MGG/Papanicolaou et nécessite un matériel cellulaire suffisant (au moins 5 amas de >10 cellules)."
+  },
+  "halaoui_nc_2": {
+    "id": "halaoui_nc_2",
+    "correct": [],
+    "explanation": "La classification de Bethesda comporte 6 catégories, pas 2."
+  },
+  "halaoui_nc_3": {
+    "id": "halaoui_nc_3",
+    "correct": [
+      "D"
+    ],
+    "explanation": "La catégorie 'Malin' (Bethesda VI) impose une prise en charge chirurgicale (lobectomie ou thyroïdectomie totale)."
+  },
+  "halaoui_nc_4": {
+    "id": "halaoui_nc_4",
+    "correct": [],
+    "explanation": "La question est incomplète, mais la catégorie 'Malin' nécessite bien une chirurgie."
+  },
+  "halaoui_nc_5": {
+    "id": "halaoui_nc_5",
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation": "Le carcinome papillaire se dissémine surtout par voie lymphatique, BRAF est la mutation la plus fréquente, et l'histologie repose sur l'architecture papillaire et les noyaux caractéristiques."
+  },
+  "halaoui_nc_6": {
+    "id": "halaoui_nc_6",
+    "correct": [
+      "D"
+    ],
+    "explanation": "Les anomalies nucléaires (chevauchement, incisures, pseudo-inclusions) sont les critères diagnostiques histologiques majeurs du carcinome papillaire."
+  },
+  "halaoui_nc_7": {
+    "id": "halaoui_nc_7",
+    "correct": [
+      "E"
+    ],
+    "explanation": "La variante vésiculaire du carcinome papillaire se caractérise par une architecture folliculaire mais conserve les anomalies nucléaires typiques (noyaux clairs, pseudo-inclusions)."
+  },
+  "halaoui_nc_8": {
+    "id": "halaoui_nc_8",
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation": "Le carcinome papillaire diffuse préférentiellement par voie lymphatique et se définit par son architecture papillaire et ses noyaux caractéristiques."
+  },
+  "halaoui_nc_9": {
+    "id": "halaoui_nc_9",
+    "correct": [
+      "E"
+    ],
+    "explanation": "Les pseudo-inclusions nucléaires et les rainures nucléaires sont des critères diagnostiques majeurs du carcinome papillaire."
+  },
+  "halaoui_nc_10": {
+    "id": "halaoui_nc_10",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Le carcinome vésiculaire est une tumeur folliculaire, souvent associée à une mutation RAS, avec une diffusion hématogène fréquente."
+  },
+  "halaoui_nc_11": {
+    "id": "halaoui_nc_11",
+    "correct": [
+      "A",
+      "D"
+    ],
+    "explanation": "Le carcinome papillaire est le plus fréquent. L'échographie est indispensable pour guider la cytoponction et classer le nodule selon le score EU-TIRADS."
+  },
+  "halaoui_nc_12": {
+    "id": "halaoui_nc_12",
+    "correct": [
+      "E"
+    ],
+    "explanation": "Selon les recommandations EU-TIRADS, la cytoponction est indiquée pour un nodule TIRADS 5 dès 10 mm (ou 7-9 mm selon les protocoles locaux)."
+  },
+  "halaoui_nc_13": {
+    "id": "halaoui_nc_13",
+    "correct": [
+      "F"
+    ],
+    "explanation": "Pour un nodule EU-TIRADS 3, le seuil de cytoponction est généralement fixé à 20 mm."
+  },
+  "halaoui_nc_14": {
+    "id": "halaoui_nc_14",
+    "correct": [
+      "C",
+      "D"
+    ],
+    "explanation": "Le CHC est le cancer primitif du foie le plus fréquent chez l'adulte, fortement lié aux virus des hépatites B et C."
+  },
+  "halaoui_nc_15": {
+    "id": "halaoui_nc_15",
+    "correct": [
+      "E"
+    ],
+    "explanation": "Le CHC survient majoritairement sur un terrain de cirrhose, donc plus fréquemment chez le sujet âgé."
+  },
+  "halaoui_nc_16": {
+    "id": "halaoui_nc_16",
+    "correct": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Le CHC survient presque toujours sur cirrhose (sauf fibrolamellaire), le nodule satellite est un facteur pronostic, et tout nodule sur cirrhose est suspect."
+  },
+  "halaoui_nc_17": {
+    "id": "halaoui_nc_17",
+    "correct": [
+      "E"
+    ],
+    "explanation": "La règle est de considérer tout nodule sur foie cirrhotique comme un CHC jusqu'à preuve du contraire (imagerie ou biopsie)."
+  },
+  "halaoui_nc_18": {
+    "id": "halaoui_nc_18",
+    "correct": [
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "L'hépatoblastome est pédiatrique, le CHC est le plus fréquent chez l'adulte, et la dysplasie à petites cellules est une lésion précancéreuse."
+  },
+  "halaoui_nc_19": {
+    "id": "halaoui_nc_19",
+    "correct": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "Le sarcome d'Ewing est une tumeur à petites cellules rondes bleues avec la translocation caractéristique t(11;22)."
+  },
+  "halaoui_nc_20": {
+    "id": "halaoui_nc_20",
+    "correct": [
+      "F",
+      "H",
+      "J"
+    ],
+    "explanation": "Le léiomyosarcome se caractérise par des faisceaux de cellules fusiformes, des atypies marquées et l'expression de marqueurs musculaires lisses."
+  },
+  "halaoui_nc_21": {
+    "id": "halaoui_nc_21",
+    "correct": [
+      "A"
+    ],
+    "explanation": "La production de matrice ostéoïde par les cellules tumorales est le critère diagnostique indispensable de l'ostéosarcome."
+  },
+  "halaoui_nc_22": {
+    "id": "halaoui_nc_22",
+    "correct": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "Le diagnostic repose sur l'architecture fusiforme, les atypies cyto-nucléaires et le profil immunohistochimique (Desmine, AML, H-caldesmone)."
+  },
+  "halaoui_nc_23": {
+    "id": "halaoui_nc_23",
+    "correct": [
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Le liposarcome bien différencié est une tumeur adipeuse, souvent rétro-péritonéale ou des membres, avec amplification de MDM2 et CDK4."
+  },
+  "halaoui_nc_24": {
+    "id": "halaoui_nc_24",
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le chondroblastome, l'ostéochondrome et le fibrome chondromyxoïde sont des tumeurs osseuses à différenciation cartilagineuse bénignes."
+  },
+  "halaoui_nc_25": {
+    "id": "halaoui_nc_25",
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'ostéosarcome est une tumeur maligne de l'enfant et l'adolescent, siégeant préférentiellement au niveau métaphysaire des os longs (genou)."
+  },
+  "halaoui_nc_26": {
+    "id": "halaoui_nc_26",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Le carcinome à cellules claires est le plus fréquent, macroscopiquement jaune chamois, et le grade ISUP est le facteur pronostic histologique clé."
+  },
+  "halaoui_nc_27": {
+    "id": "halaoui_nc_27",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le grade ISUP est obligatoire dans le compte rendu anatomopathologique car il corrèle avec le pronostic."
+  },
+  "halaoui_nc_28": {
+    "id": "halaoui_nc_28",
+    "correct": [
+      "E"
+    ],
+    "explanation": "L'envahissement macroscopique de la veine rénale (thrombus tumoral) est un élément de stadification TNM (T3)."
+  },
+  "halaoui_nc_29": {
+    "id": "halaoui_nc_29",
+    "correct": [
+      "E"
+    ],
+    "explanation": "L'envahissement veineux est un critère de T3 dans la classification TNM du cancer du rein."
+  },
+  "halaoui_nc_30": {
+    "id": "halaoui_nc_30",
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation": "L'oncocytome est une tumeur bénigne. Une lésion jaune chamois évoque un carcinome à cellules claires, et l'envahissement veineux est pronostique."
+  },
+  "halaoui_nc_31": {
+    "id": "halaoui_nc_31",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'envahissement de la veine rénale est un facteur pronostique majeur à préciser dans le compte rendu."
+  },
+  "halaoui_nc_32": {
+    "id": "halaoui_nc_32",
+    "correct": [
+      "D"
+    ],
+    "explanation": "Le carcinome à cellules claires est le type histologique le plus fréquent (environ 70-80%)."
+  },
+  "halaoui_nc_33": {
+    "id": "halaoui_nc_33",
+    "correct": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Le curage ganglionnaire est un geste chirurgical, pas un facteur pronostique histologique en soi (bien que le statut ganglionnaire pN le soit)."
+  },
+  "halaoui_nc_34": {
+    "id": "halaoui_nc_34",
+    "correct": [
+      "B",
+      "D"
+    ],
+    "explanation": "Le carcinome à cellules claires est le plus fréquent et la différenciation sarcomatoïde est un facteur de mauvais pronostic majeur."
+  },
+  "halaoui_nc_35": {
+    "id": "halaoui_nc_35",
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "La couleur n'est pas un facteur pronostique standardisé dans le compte rendu anatomopathologique."
+  },
+  "halaoui_nc_36": {
+    "id": "halaoui_nc_36",
+    "correct": [
+      "C",
+      "D"
+    ],
+    "explanation": "Le carcinome à cellules claires est le plus fréquent et le pronostic varie selon le sous-type histologique."
+  },
+  "halaoui_nc_37": {
+    "id": "halaoui_nc_37",
+    "correct": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "La composante sarcomatoïde est un facteur de très mauvais pronostic (grade 4)."
+  },
+  "halaoui_nc_38": {
+    "id": "halaoui_nc_38",
+    "correct": [
+      "A"
+    ],
+    "explanation": "L'âge est un facteur pronostique clinique, mais pas un facteur histologique intrinsèque à la tumeur."
+  },
+  "halaoui_nc_39": {
+    "id": "halaoui_nc_39",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le cancer du rein est une pathologie de l'adulte avec des formes sporadiques et héréditaires, et un pronostic histodépendant."
+  },
+  "halaoui_nc_40": {
+    "id": "halaoui_nc_40",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Le grade de Fuhrman (ou ISUP) repose sur l'aspect nucléaire et nucléolaire des cellules tumorales."
+  },
+  "halaoui_nc_41": {
+    "id": "halaoui_nc_41",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Les dysplasies dans les MICI incluent les lésions planes et les lésions surélevées (DALM/ALM)."
+  },
+  "halaoui_nc_42": {
+    "id": "halaoui_nc_42",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Les granulomes sont spécifiques à Crohn et l'atteinte est continue dans la RCH."
+  },
+  "halaoui_nc_43": {
+    "id": "halaoui_nc_43",
+    "correct": [
+      "A",
+      "D"
+    ],
+    "explanation": "La maladie de Crohn est transmurale et segmentaire."
+  },
+  "halaoui_nc_44": {
+    "id": "halaoui_nc_44",
+    "correct": [
+      "F",
+      "G"
+    ],
+    "explanation": "Le granulome est présent dans 20-30% des cas de Crohn et la surveillance est indispensable."
+  },
+  "halaoui_nc_45": {
+    "id": "halaoui_nc_45",
+    "correct": [
+      "A"
+    ],
+    "explanation": "La RCH se caractérise par une atteinte muqueuse continue et ascendante à partir du rectum."
+  },
+  "halaoui_nc_46": {
+    "id": "halaoui_nc_46",
+    "correct": [
+      "B"
+    ],
+    "explanation": "L'aspect en pavé est plus évocateur de Crohn, mais la RCH présente une muqueuse érythémateuse et friable."
+  },
+  "halaoui_nc_47": {
+    "id": "halaoui_nc_47",
+    "correct": [
+      "C",
+      "E"
+    ],
+    "explanation": "L'inflammation dans la RCH est limitée à la muqueuse et sous-muqueuse, avec un risque élevé de dysplasie."
+  },
+  "halaoui_nc_48": {
+    "id": "halaoui_nc_48",
+    "correct": [
+      "B"
+    ],
+    "explanation": "La muqueuse 'pleurant le sang' est typique de la poussée aiguë de RCH."
+  },
+  "halaoui_nc_49": {
+    "id": "halaoui_nc_49",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Les pseudo-polypes sont fréquents dans la RCH, mais les granulomes sont absents."
+  },
+  "halaoui_nc_50": {
+    "id": "halaoui_nc_50",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'adénocarcinome représente la très grande majorité des cancers colorectaux."
+  },
+  "halaoui_nc_51": {
+    "id": "halaoui_nc_51",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Tous ces éléments sont des facteurs pronostiques et de qualité de résection essentiels pour le compte rendu."
+  },
+  "bouichrat_nc_1": {
+    "id": "bouichrat_nc_1",
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Les sueurs sont froides (hypoglycémie), pas chaudes."
+  },
+  "bouichrat_nc_2": {
+    "id": "bouichrat_nc_2",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "La triade de Whipple définit l'hypoglycémie organique par la clinique et la réponse au resucrage."
+  },
+  "bouichrat_nc_3": {
+    "id": "bouichrat_nc_3",
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation": "L'insulinome et l'insuffisance hépatocellulaire sont des causes d'hypoglycémie organique."
+  },
+  "bouichrat_nc_4": {
+    "id": "bouichrat_nc_4",
+    "correct": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "La dénutrition est une cause fonctionnelle, pas une cause organique au sens strict de la triade."
+  },
+  "bouichrat_nc_5": {
+    "id": "bouichrat_nc_5",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'insulinome est une tumeur endocrine rare, le plus souvent bénigne, sécrétant de l'insuline."
+  },
+  "bouichrat_nc_6": {
+    "id": "bouichrat_nc_6",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "L'obésité est un facteur de risque majeur du syndrome métabolique incluant HTA, diabète de type 2 et dyslipidémie (hypertriglycéridémie)."
+  },
+  "bouichrat_nc_7": {
+    "id": "bouichrat_nc_7",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Selon la classification de l'OMS, un IMC entre 35 et 39,9 correspond à une obésité de classe II, dite sévère."
+  },
+  "bouichrat_nc_8": {
+    "id": "bouichrat_nc_8",
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation": "Le phéochromocytome est une cause rare mais curable d'HTA secondaire, nécessitant une prise en charge spécialisée en raison de sa gravité potentielle."
+  },
+  "bouichrat_nc_9": {
+    "id": "bouichrat_nc_9",
+    "correct": [
+      "C",
+      "D"
+    ],
+    "explanation": "La majorité des phéochromocytomes sont sporadiques, mais environ 30-40% s'intègrent dans des syndromes génétiques (NEM2, VHL, NF1)."
+  },
+  "bouichrat_nc_10": {
+    "id": "bouichrat_nc_10",
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le phéochromocytome est une tumeur rare, maligne dans 10% des cas, familiale dans 10-30% des cas, et se révèle classiquement par une HTA."
+  },
+  "bouichrat_nc_11": {
+    "id": "bouichrat_nc_11",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le paragangliome partage les mêmes risques que le phéochromocytome, incluant le risque de choc adrénalique, et impose une préparation médicale par alpha-bloquants avant chirurgie."
+  },
+  "bouichrat_nc_12": {
+    "id": "bouichrat_nc_12",
+    "correct": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Les paragangliomes sont extra-surrénaliens (sympathiques ou parasympathiques). La préparation médicale est indispensable pour prévenir les crises hypertensives per-opératoires."
+  },
+  "bouichrat_nc_13": {
+    "id": "bouichrat_nc_13",
+    "correct": [
+      "A",
+      "D",
+      "G"
+    ],
+    "explanation": "La triade de Ménard classique associe céphalées, sueurs et palpitations chez un patient hypertendu."
+  },
+  "bouichrat_nc_14": {
+    "id": "bouichrat_nc_14",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le choc adrénalique est une urgence vitale liée à une décharge massive de catécholamines, pouvant survenir spontanément ou lors d'un examen/chirurgie sans préparation."
+  },
+  "bouichrat_nc_16": {
+    "id": "bouichrat_nc_16",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "L'insuffisance corticotrope entraîne une carence en cortisol, se manifestant par une asthénie, une hypotension, une hypoglycémie et un amaigrissement (sans mélanodermie)."
+  },
+  "bouichrat_nc_17": {
+    "id": "bouichrat_nc_17",
+    "correct": [
+      "B",
+      "C"
+    ],
+    "explanation": "L'insuffisance thyréotrope se définit par une T4 libre basse avec une TSH inappropriée (basse, normale ou légèrement élevée mais non fonctionnelle)."
+  },
+  "bouichrat_nc_18": {
+    "id": "bouichrat_nc_18",
+    "correct": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "L'insuffisance somatotrope chez l'enfant cause un retard de croissance et chez l'adulte une augmentation de la masse grasse abdominale."
+  },
+  "bouichrat_nc_19": {
+    "id": "bouichrat_nc_19",
+    "correct": [
+      "A",
+      "D"
+    ],
+    "explanation": "Les signes cliniques incluent le retard statural chez l'enfant et l'obésité androïde (abdominale) chez l'adulte."
+  },
+  "bouichrat_nc_20": {
+    "id": "bouichrat_nc_20",
+    "correct": [
+      "D"
+    ],
+    "explanation": "L'adiposité abdominale est un signe caractéristique de déficit en hormone de croissance chez l'adulte."
+  },
+  "bouichrat_nc_21": {
+    "id": "bouichrat_nc_21",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "explanation": "Le déficit en GH chez l'enfant se manifeste par un retard de croissance, un faciès poupin, une ensellure nasale marquée et une adiposité abdominale."
+  },
+  "bouichrat_nc_22": {
+    "id": "bouichrat_nc_22",
+    "correct": [
+      "C"
+    ],
+    "explanation": "Le diagnostic de certitude repose sur l'échec de l'élévation de la GH lors d'un test de stimulation (hypoglycémie insulinique étant le gold standard)."
+  },
+  "bouichrat_nc_24": {
+    "id": "bouichrat_nc_24",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Le diagnostic de confirmation chez l'enfant nécessite obligatoirement un test de stimulation, le dosage basal étant insuffisant."
+  },
+  "bouichrat_nc_25": {
+    "id": "bouichrat_nc_25",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Toutes ces étiologies (tumorales, infiltratives ou traumatiques) peuvent détruire l'hypophyse et causer une insuffisance antéhypophysaire."
+  },
+  "bouichrat_nc_26": {
+    "id": "bouichrat_nc_26",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "Toutes les options listées sont des causes reconnues d'insuffisance antéhypophysaire."
+  },
+  "bouichrat_nc_27": {
+    "id": "bouichrat_nc_27",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'insuffisance hypophysaire peut être d'origine tumorale, infectieuse, inflammatoire ou vasculaire (ex: Sheehan)."
+  },
+  "bouichrat_nc_28": {
+    "id": "bouichrat_nc_28",
+    "correct": [
+      "A",
+      "D",
+      "E"
+    ],
+    "explanation": "Les causes de déficit en GH chez l'enfant incluent les tumeurs (craniopharyngiome) et les malformations congénitales (interruption de la tige pituitaire)."
+  },
+  "bouichrat_nc_29": {
+    "id": "bouichrat_nc_29",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Le syndrome de Sheehan est une nécrose hypophysaire post-partum par choc hémorragique, se révélant par une agalactie et une aménorrhée."
+  },
+  "bouichrat_nc_30": {
+    "id": "bouichrat_nc_30",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'apoplexie hypophysaire est une urgence neurochirurgicale par hémorragie/nécrose tumorale, provoquant des signes compressifs et des déficits hormonaux."
+  },
+  "bouichrat_nc_31": {
+    "id": "bouichrat_nc_31",
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation": "Le syndrome tumoral hypophysaire peut entraîner une compression du chiasma optique (atrophie optique) ou une obstruction des voies du LCR (hydrocéphalie)."
+  },
+  "bouichrat_nc_32": {
+    "id": "bouichrat_nc_32",
+    "correct": [
+      "A",
+      "B"
+    ],
+    "explanation": "L'hyperprolactinémie induit un hypogonadisme hypogonadotrope, se manifestant par une aménorrhée-galactorrhée chez la femme et des troubles sexuels chez l'homme."
+  },
+  "bouichrat_nc_33": {
+    "id": "bouichrat_nc_33",
+    "correct": [
+      "C",
+      "D"
+    ],
+    "explanation": "Le taux de prolactine est corrélé au volume tumoral (sauf effet crochet) et les prolactinomes sont nettement plus fréquents chez la femme en période d'activité génitale."
+  },
+  "bouichrat_nc_34": {
+    "id": "bouichrat_nc_34",
+    "correct": [
+      "A",
+      "C",
+      "D",
+      "F",
+      "G",
+      "I",
+      "J"
+    ],
+    "explanation": "L'hyperprolactinémie est causée par des causes physiologiques (grossesse), médicamenteuses (psychotropes), endocriniennes (hypothyroïdie périphérique), tumorales (prolactinome) ou systémiques (IRC, insuffisance hépatique)."
+  },
+  "bouichrat_nc_35": {
+    "id": "bouichrat_nc_35",
+    "correct": [
+      "C"
+    ],
+    "explanation": "L'acromégalie se caractérise par une hypertrophie des extrémités (augmentation de la pointure) et non par une tête allongée ou un micrognathisme."
+  },
+  "bouichrat_nc_36": {
+    "id": "bouichrat_nc_36",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'acromégalie entraîne un syndrome dysmorphique (prognathisme, arcades sourcilières saillantes), des complications compressives (paresthésies/canal carpien) et respiratoires (ronflements/SAOS)."
+  },
+  "bouichrat_nc_37": {
+    "id": "bouichrat_nc_37",
+    "correct": [
+      "B"
+    ],
+    "explanation": "Le diagnostic biologique de l'acromégalie repose sur l'élévation de l'IGF-1, reflet de l'hypersécrétion de GH, confirmée par l'absence de freinage de la GH après HGPO."
+  },
+  "bouichrat_nc_38": {
+    "id": "bouichrat_nc_38",
+    "correct": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "L'acromégalie est une maladie systémique responsable d'arthropathies, de troubles métaboliques (diabète, HTA), de SAOS et d'une augmentation du risque de polypes coliques."
+  },
+  "bouichrat_nc_39": {
+    "id": "bouichrat_nc_39",
+    "correct": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Les complications classiques incluent le diabète, l'HTA et le risque accru de cancer colique; la cirrhose n'est pas une complication directe de l'acromégalie."
+  },
+  "bouichrat_nc_40": {
+    "id": "bouichrat_nc_40",
+    "correct": [
+      "A",
+      "C"
+    ],
+    "explanation": "Les agonistes dopaminergiques ont une double action : anti-hormonale (inhibition de la sécrétion) et anti-tumorale (réduction du volume tumoral), et constituent le traitement de 1ère intention des prolactinomes."
+  },
+  "bouichrat_nc_15": {
+    "id": "bouichrat_nc_15",
+    "correct": [
+      "D"
+    ],
+    "explanation": "Le choc adrénalique est une complication aiguë grave liée à une décharge massive de catécholamines, souvent déclenchée par une manipulation tumorale, une induction anesthésique ou une prise médicamenteuse inappropriée."
+  },
+  "bouichrat_nc_23": {
+    "id": "bouichrat_nc_23",
+    "correct": [
+      "F"
+    ],
+    "explanation": "Le diagnostic d'insuffisance somatotrope repose sur des tests de stimulation (hypoglycémie insulinique) et l'IRM cérébrale est l'examen de référence pour rechercher une étiologie hypothalamo-hypophysaire."
+  }
+}

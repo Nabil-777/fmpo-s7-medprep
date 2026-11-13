@@ -1,0 +1,26 @@
+{
+  "page_header": "ABCÈS CÉRÉBRALES",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Synthèse sur le diagnostic et le traitement des abcès cérébraux",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Triade de Bergman : HTIC, syndrome infectieux, syndrome neurologique focal",
+        "Contre-indication formelle de la ponction lombaire",
+        "Imagerie de référence : TDM cérébral injecté (capsule hyperdense) et IRM",
+        "Principes thérapeutiques : évacuation de la collection, antibiothérapie adaptée, traitement de la porte d'entrée"
+      ],
+      "explanation": "Cette page constitue une fiche de synthèse sur les abcès cérébraux. Elle souligne l'importance de la triade de Bergman, la contre-indication de la PL pour éviter l'engagement, et la nécessité d'une imagerie injectée pour visualiser la prise de contraste capsulaire."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

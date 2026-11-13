@@ -1,0 +1,118 @@
+{
+  "page_header": "Epreuve d'Endocrinologie 2018 Durée 30 min Une ou plusieurs réponses justes",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le diabète type 1 :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "est plus fréquent que le diabète type 2"
+        },
+        {
+          "letter": "B",
+          "text": "survient le plus souvent chez un patient jeune"
+        },
+        {
+          "letter": "C",
+          "text": "touche essentiellement les sujets obèses"
+        },
+        {
+          "letter": "D",
+          "text": "est souvent asymptomatique d'où l'intérêt de son dépistage devant des facteurs de risque"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "moins (pour A), DT2 (pour D)",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le diabète de type 1 est une maladie auto-immune survenant préférentiellement chez le sujet jeune, contrairement au type 2 qui est plus fréquent, associé à l'obésité et souvent asymptomatique au début."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le diabète type 2 :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "est une maladie auto-immune"
+        },
+        {
+          "letter": "B",
+          "text": "comporte la présence systématique d'une insulinorésistance"
+        },
+        {
+          "letter": "C",
+          "text": "est dû à un déficit de la sécrétion d'insuline à des degrés variables"
+        },
+        {
+          "letter": "D",
+          "text": "est un facteur de risque cardio-vasculaire"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "DT1 (pour A), independant de la prise pondérale (pour B)",
+      "verified_correct_letters": [
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le diabète de type 2 est caractérisé par une insulinorésistance (souvent associée à l'obésité) et un déficit progressif de la sécrétion d'insuline. C'est un facteur de risque cardiovasculaire majeur."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les effets secondaires des inhibiteurs de DPP4, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un risque mineur d'hypoglycémie"
+        },
+        {
+          "letter": "B",
+          "text": "Une prise du poids"
+        },
+        {
+          "letter": "C",
+          "text": "une intolérance digestive"
+        },
+        {
+          "letter": "D",
+          "text": "une cytolyse hépatique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Les inhibiteurs de la DPP-4 (gliptines) sont neutres sur le poids et présentent un risque d'hypoglycémie très faible en monothérapie. Des troubles digestifs (nausées, diarrhées) sont parfois rapportés."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

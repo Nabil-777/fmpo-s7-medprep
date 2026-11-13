@@ -1,0 +1,189 @@
+{
+  "page_header": "Royaume du Maroc Université Mohammed Premier Faculté de Médecine et de Pharmacie Oujda EPREUVE DE L'ELEMENT DU MODULE DERMATOLOGIE Première SESSION - PREMIER SEMESTRE QUATRIEME ANNEE - 2024-2025",
+  "questions": [
+    {
+      "question_number": 23,
+      "vignette_text": "La gale :",
+      "question_type": "qcm_multi",
+      "stem": "La gale :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une infection mycosique."
+        },
+        {
+          "letter": "B",
+          "text": "L'atteinte du visage et du dos est fréquente et habituelle."
+        },
+        {
+          "letter": "C",
+          "text": "Est considérée comme une infection sexuellement transmissible mineure."
+        },
+        {
+          "letter": "D",
+          "text": "N'est pas prurigineuse."
+        },
+        {
+          "letter": "E",
+          "text": "Est contagieuse."
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La gale est une parasitose cutanée (Sarcoptes scabiei) hautement contagieuse, classée comme IST, caractérisée par un prurit intense. Elle épargne classiquement le visage et le dos chez l'adulte immunocompétent."
+    },
+    {
+      "question_number": 24,
+      "vignette_text": "La leishmaniose cutanée :",
+      "question_type": "qcm_multi",
+      "stem": "La leishmaniose cutanée :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une infection parasitaire."
+        },
+        {
+          "letter": "B",
+          "text": "Est causée par la piqûre d'un phlébotome."
+        },
+        {
+          "letter": "C",
+          "text": "Peut être contagieuse."
+        },
+        {
+          "letter": "D",
+          "text": "Les lésions sont le plus souvent situées au niveau des zones découvertes."
+        },
+        {
+          "letter": "E",
+          "text": "Peut laisser une cicatrice indélébile."
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La leishmaniose cutanée est une parasitose transmise par le phlébotome, touchant les zones découvertes. Elle évolue vers une cicatrisation souvent atrophique et indélébile. Elle n'est pas contagieuse d'homme à homme."
+    },
+    {
+      "question_number": 25,
+      "vignette_text": "Les pédiculoses :",
+      "question_type": "qcm_multi",
+      "stem": "Les pédiculoses :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont des infections touchant les pieds."
+        },
+        {
+          "letter": "B",
+          "text": "Ne sont pas contagieuses."
+        },
+        {
+          "letter": "C",
+          "text": "Au cours de la pédiculose du cuir chevelu, les lentes peuvent être mises en évidence collées aux cheveux."
+        },
+        {
+          "letter": "D",
+          "text": "Une seule espèce peut être responsable de l'atteinte du cuir chevelu, du corps et du pubis."
+        },
+        {
+          "letter": "E",
+          "text": "Au cours de la phtyriase pubienne, l'atteinte des poils des régions périanales, axillaire et pectorale est possible."
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Les pédiculoses sont des ectoparasitoses contagieuses. Les lentes sont fixées aux cheveux. La phtyriase (morpion) peut s'étendre aux zones pileuses adjacentes. Il existe des espèces spécifiques pour chaque localisation (Pediculus humanus capitis, corporis et Pthirus pubis)."
+    },
+    {
+      "question_number": 26,
+      "vignette_text": "Le candida albicans :",
+      "question_type": "qcm_multi",
+      "stem": "Le candida albicans :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est saprophyte des muqueuses."
+        },
+        {
+          "letter": "B",
+          "text": "Touche souvent les cheveux."
+        },
+        {
+          "letter": "C",
+          "text": "Au niveau des ongles, l'atteinte débute en distalité."
+        },
+        {
+          "letter": "D",
+          "text": "Peut toucher les plis interdigitaux."
+        },
+        {
+          "letter": "E",
+          "text": "Au cours d'une atteinte de la muqueuse buccale, on peut retrouver un enduit blanchâtre fixe non détachable."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Candida albicans est un champignon saprophyte opportuniste. Il touche les plis (intertrigo) et les muqueuses. L'atteinte unguéale débute classiquement en proximal (périonyxis). Le muguet buccal se présente par un enduit blanchâtre détachable."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

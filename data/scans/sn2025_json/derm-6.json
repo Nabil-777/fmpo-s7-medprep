@@ -1,0 +1,250 @@
+{
+  "page_header": "EXAMEN DERMATO 2025 SN (Dermatologie Q48-52)",
+  "questions": [
+    {
+      "question_number": 48,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'herpès :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "HSV1 est responsable de 90% des herpès buccaux et la majorité des atteintes oculaires"
+        },
+        {
+          "letter": "B",
+          "text": "HSV2 est responsable de 90% des herpès génitaux et 80% des herpès du nouveau-né"
+        },
+        {
+          "letter": "C",
+          "text": "La primo infection herpétique est le 1er contact infectant muqueux ou cutané, symptomatique ou asymptomatique, avec HSV1 ou HSV2"
+        },
+        {
+          "letter": "D",
+          "text": "Les Récurrences sont des expressions cliniques d'une réactivation virale chez un patient préalablement infecté par le même type viral"
+        },
+        {
+          "letter": "E",
+          "text": "Les formes patentes de la primo-infection herpétique sont habituellement plus sévères que les récurrences"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Toutes les propositions sont exactes. L'herpès est une infection virale dont la primo-infection est souvent plus sévère que les récurrences, et les types HSV1/HSV2 ont des tropismes préférentiels bien établis."
+    },
+    {
+      "question_number": 49,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La varicelle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se manifeste par des macules rosées de petite taille, rapidement surmontées de papules prurigineuses"
+        },
+        {
+          "letter": "B",
+          "text": "Se manifeste par des vésicules superficielles, entourées d'un liseré rouge donnant un aspect de «goutte de rosée»"
+        },
+        {
+          "letter": "C",
+          "text": "Respecte les paumes et les plantes"
+        },
+        {
+          "letter": "D",
+          "text": "Se caractérise par un prurit important"
+        },
+        {
+          "letter": "E",
+          "text": "Elle peut être grave chez la femme enceinte"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La varicelle ne respecte pas les paumes et les plantes (elle est généralisée). Les autres propositions décrivent correctement la sémiologie et les risques de la varicelle."
+    },
+    {
+      "question_number": 50,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le zona :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est une Ganglioradiculite postérieure aigue"
+        },
+        {
+          "letter": "B",
+          "text": "Un zona chez un sujet jeune impose la recherche d'une immunodépression"
+        },
+        {
+          "letter": "C",
+          "text": "Eruption vésiculo-bulleuse douloureuse"
+        },
+        {
+          "letter": "D",
+          "text": "Doit être traiter un antibiotique à large spectre"
+        },
+        {
+          "letter": "E",
+          "text": "Le traitement antiviral permet d'éradiquer le virus"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le zona est une réactivation du VZV (ganglioradiculite). Les antibiotiques sont inutiles (infection virale) et les antiviraux ne permettent pas l'éradication du virus latent."
+    },
+    {
+      "question_number": 51,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'impétigo :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chez l'enfant, l'impétigo est le plus souvent primitif"
+        },
+        {
+          "letter": "B",
+          "text": "Le Staphylococcus aureus et le Streptococcus B hémolytique du Groupe A sont les germes le plus souvent en cause"
+        },
+        {
+          "letter": "C",
+          "text": "L'impétigo non bulleux est plus fréquent chez le nouveau-né et le nourrisson"
+        },
+        {
+          "letter": "D",
+          "text": "Le diagnostic positif repose sur des prélèvements bactériologiques"
+        },
+        {
+          "letter": "E",
+          "text": "Peut se compliquer d'une glomérulonéphrite aigue"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'impétigo bulleux est plus fréquent chez le nourrisson. Le diagnostic est clinique, non bactériologique en routine. La GNA est une complication classique des souches néphritogènes."
+    },
+    {
+      "question_number": 52,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les dermo- hypodermites bactériennes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le membre supérieur est la localisation la plus fréquente"
+        },
+        {
+          "letter": "B",
+          "text": "Le Streptococcus β hémolytique Groupe A est le plus souvent en cause"
+        },
+        {
+          "letter": "C",
+          "text": "Se manifeste par un placard cutané inflammatoire"
+        },
+        {
+          "letter": "D",
+          "text": "Doivent faire rechercher une porte d'entrée"
+        },
+        {
+          "letter": "E",
+          "text": "Le traitement est basé sur une antibiothérapie associé à un antiinflammatoire"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le membre inférieur est la localisation la plus fréquente. Les anti-inflammatoires sont contre-indiqués dans les infections bactériennes cutanées en raison du risque de diffusion."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

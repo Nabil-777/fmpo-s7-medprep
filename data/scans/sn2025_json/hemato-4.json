@@ -1,0 +1,282 @@
+{
+  "page_header": "EXAMEN HEMATO-ONCO 2025 SN",
+  "questions": [
+    {
+      "question_number": 20,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Devant une anémie hémolytique, quel examen demandez-vous en urgence :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticorps antinucléaires"
+        },
+        {
+          "letter": "B",
+          "text": "Electrophorèse de l'hémoglobine"
+        },
+        {
+          "letter": "C",
+          "text": "Electrophorèse des protéines sériques"
+        },
+        {
+          "letter": "D",
+          "text": "Test de coombs direct"
+        },
+        {
+          "letter": "E",
+          "text": "TDM thoraco abdominale"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le test de Coombs direct est l'examen de première intention pour confirmer une anémie hémolytique auto-immune."
+    },
+    {
+      "question_number": 21,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Une radiothérapie externe comporte quatre étapes majeures :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le repérage de la zone à traiter ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le calcul de la distribution de la dose (dosimétrie)."
+        },
+        {
+          "letter": "C",
+          "text": "Le traitement par rayonnements."
+        },
+        {
+          "letter": "D",
+          "text": "La surveillance pendant et après le traitement par Radiothérapie."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Ces quatre étapes constituent le processus standard de planification et de réalisation d'une radiothérapie externe."
+    },
+    {
+      "question_number": 22,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "En cas de compression des voies excrétrices urinaires : les signes liés au retentissement de l'obstruction sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modifications de la diurèse (polyurie, anurie)"
+        },
+        {
+          "letter": "B",
+          "text": "Insuffisance rénale aigue"
+        },
+        {
+          "letter": "C",
+          "text": "Infection urinaire récidivante"
+        },
+        {
+          "letter": "D",
+          "text": "Hydronéphrose"
+        },
+        {
+          "letter": "E",
+          "text": "Hypertension artérielle"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'obstruction urinaire entraîne une dilatation (hydronéphrose), des troubles de la diurèse, une insuffisance rénale obstructive et favorise les infections."
+    },
+    {
+      "question_number": 23,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les mécanismes principaux de l'hypercalcémie paranéoplasique :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sécrétion d'une protéine homologue à la PTH, présente dans plus de 80% des cas d'hypercalcémie paranéoplasique."
+        },
+        {
+          "letter": "B",
+          "text": "La présence de métastases osseuses avec une importante production locale de cytokines."
+        },
+        {
+          "letter": "C",
+          "text": "Sécrétion inappropriée d'ADH"
+        },
+        {
+          "letter": "D",
+          "text": "La sécrétion tumorale de calcitriol."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "ABD"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "ABD",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypercalcémie paranéoplasique est principalement due à la PTHrP (A), aux métastases ostéolytiques (B) ou à la production de calcitriol (D). L'ADH est liée au syndrome de Schwartz-Bartter."
+    },
+    {
+      "question_number": 24,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les causes de la Douleur liée à la tumeur en oncologie sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le développement d'une tumeur peut causer une pression sur les organes avoisinants."
+        },
+        {
+          "letter": "B",
+          "text": "Les tumeurs sécrètent des médiateurs pro-hyperalgésiques et inflammatoires."
+        },
+        {
+          "letter": "C",
+          "text": "L'infiltration de la tumeur dans les plexus nerveux et les dommages aux tissus nerveux peuvent causer une douleur nociceptive."
+        },
+        {
+          "letter": "D",
+          "text": "La dissémination métastatique aux os constitue l'une des principales causes de douleur provoquée par un cancer."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "ABD"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "neuro pathique",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Toutes ces options sont des mécanismes valides de douleur cancéreuse. L'option C décrit une douleur neuropathique, qui est une composante majeure de la douleur oncologique."
+    },
+    {
+      "question_number": 25,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les principes généraux de la chirurgie carcinologique on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une exérèse complète"
+        },
+        {
+          "letter": "B",
+          "text": "Des marges de type R2"
+        },
+        {
+          "letter": "C",
+          "text": "un curage ganglionnaire"
+        },
+        {
+          "letter": "D",
+          "text": "une décision multidisciplinaire"
+        },
+        {
+          "letter": "E",
+          "text": "une exérèse en monobloc"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La chirurgie carcinologique vise une exérèse complète (R0) en monobloc, incluant un curage ganglionnaire, après une décision en RCP."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

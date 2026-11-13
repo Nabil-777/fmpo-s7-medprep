@@ -1,0 +1,251 @@
+{
+  "page_header": "EXAMEN DERMATO 2025 SN (Dermatologie Q23-52, QCM multi-réponses, marge droite = réponses vertes)",
+  "questions": [
+    {
+      "question_number": 43,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le pemphigus :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dermatose bulleuse auto-immune spécifique d'organe."
+        },
+        {
+          "letter": "B",
+          "text": "Production d'auto-Ac pathogènes dirigés contre les hémidesmosomes."
+        },
+        {
+          "letter": "C",
+          "text": "Cliniquement : Bulles, touchant peau et muqueuses."
+        },
+        {
+          "letter": "D",
+          "text": "Histologiquement : Clivage intra-épidermique superficiel ou profond."
+        },
+        {
+          "letter": "E",
+          "text": "Concernant les pemphigus superficiels, le clivage se fait en intra-épidermique."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le pemphigus est une maladie auto-immune intra-épidermique (clivage par acantholyse). La proposition B est fausse car les anticorps ciblent les desmosomes (desmogléines) et non les hémidesmosomes (qui sont la cible dans la pemphigoïde bulleuse)."
+    },
+    {
+      "question_number": 44,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le pemphigus :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cytodiagnostic de Tzank : Grattage du plancher d'une bulle ou d'une érosion buccale permet d'obtenir des cellules acantholytiques après coloration au MGG : May-Grunwäld-Giemsa."
+        },
+        {
+          "letter": "B",
+          "text": "Au cours des pemphigus superficiels, les muqueuses sont généralement épargnées."
+        },
+        {
+          "letter": "C",
+          "text": "Le pemphigus végétant est une forme fréquente de pemphigus profond."
+        },
+        {
+          "letter": "D",
+          "text": "Le pemphigus peut être paranéoplasique."
+        },
+        {
+          "letter": "E",
+          "text": "La plasmaphérèse risque d'aggraver le pemphigus."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le cytodiagnostic de Tzanck montre l'acantholyse. Le pemphigus superficiel (foliacé/érythémateux) respecte les muqueuses. Le pemphigus végétant est une forme rare de pemphigus vulgaire. La plasmaphérèse est un traitement possible, pas un facteur d'aggravation."
+    },
+    {
+      "question_number": 45,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La pemphigoïde bulleuse:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une dermatose bulleuse intra-épidermique."
+        },
+        {
+          "letter": "B",
+          "text": "Cliniquement, les bulles sont tendues et reposent sur une peau érythémateuse."
+        },
+        {
+          "letter": "C",
+          "text": "Les érosions guérissent en laissant des cicatrices atrophiques et des grains de millium."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être associée à la maladie de Parkinson."
+        },
+        {
+          "letter": "E",
+          "text": "Le prurit peut précéder des mois l'apparition de bulles."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La pemphigoïde bulleuse est sous-épidermique (A faux). Elle est associée à des maladies neurologiques comme Parkinson (D vrai). Le prurit est un signe prodromal fréquent (E vrai). L'étudiant a oublié de cocher E, d'où le X rouge."
+    },
+    {
+      "question_number": 46,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La dermatite herpétiforme :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une dermatose bulleuse auto immune sous épidermique acquise, d'étiologie inconnue."
+        },
+        {
+          "letter": "B",
+          "text": "Peut évoluer de façon chronique par poussées – rémissions."
+        },
+        {
+          "letter": "C",
+          "text": "A l'histologie, le clivage est sous-épidermique."
+        },
+        {
+          "letter": "D",
+          "text": "A l'immunofluorescence direct, on retrouve des dépôts linéaires d'Ig D au sommet des papilles dermiques."
+        },
+        {
+          "letter": "E",
+          "text": "Peut être associer à une entéropathie au gluten."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La dermatite herpétiforme est caractérisée par des dépôts GRANULEUX d'IgA (et non linéaires d'IgD) au sommet des papilles dermiques. Elle est quasi-systématiquement associée à une maladie cœliaque (entéropathie au gluten)."
+    },
+    {
+      "question_number": 47,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Erythème noueux :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une hypodermite nodulaire aigue."
+        },
+        {
+          "letter": "B",
+          "text": "Les nouures siègent préférentiellement au niveau des membres supérieurs."
+        },
+        {
+          "letter": "C",
+          "text": "Est caractérisé cliniquement par des ulcérations douloureuses."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être idiopathique."
+        },
+        {
+          "letter": "E",
+          "text": "Peut être secondaire à une infection."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'érythème noueux siège typiquement sur les faces d'extension des jambes (membres inférieurs) et ne s'ulcère jamais (contrairement à d'autres hypodermites). Il est souvent idiopathique ou secondaire (streptocoque, sarcoïdose, etc.)."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

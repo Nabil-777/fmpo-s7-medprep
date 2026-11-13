@@ -1,0 +1,258 @@
+{
+  "page_header": "EXAMEN APS 2025 SN - Anatomopathologie - Page 6",
+  "questions": [
+    {
+      "question_number": 27,
+      "vignette_text": "L'examen histologique d'une biopsie prostatique d'un patient de 59 ans retrouve un adénocarcinome prostatique dont l'architecture est dominée par une prolifération glandulaire (grade 3) avec focalement des cellules isolées (grade 5).",
+      "question_type": "qcm_group",
+      "stem": "Le score de Gleason est de ?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "6"
+        },
+        {
+          "letter": "b",
+          "text": "7"
+        },
+        {
+          "letter": "c",
+          "text": "8"
+        },
+        {
+          "letter": "d",
+          "text": "9"
+        },
+        {
+          "letter": "e",
+          "text": "10"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a"
+        },
+        {
+          "letter": "B",
+          "text": "b"
+        },
+        {
+          "letter": "C",
+          "text": "c"
+        },
+        {
+          "letter": "D",
+          "text": "d"
+        },
+        {
+          "letter": "E",
+          "text": "e"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le score de Gleason est la somme du grade architectural le plus représenté (primaire) et du second plus représenté (ou le plus élevé en biopsie). Ici, 3 + 5 = 8."
+    },
+    {
+      "question_number": 28,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Parmi les propositions suivantes la (les) quelle (s) fait partie des facteurs histopronotiques des carcinomes mammaires infiltrants :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Type histologique"
+        },
+        {
+          "letter": "b",
+          "text": "Limites d'exérèse"
+        },
+        {
+          "letter": "c",
+          "text": "Les emboles vasculaires"
+        },
+        {
+          "letter": "d",
+          "text": "L'hyperplasie épithéliale"
+        },
+        {
+          "letter": "e",
+          "text": "Taille de la tumeur maligne infiltrante"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,c"
+        },
+        {
+          "letter": "B",
+          "text": "b"
+        },
+        {
+          "letter": "C",
+          "text": "a,b,c"
+        },
+        {
+          "letter": "D",
+          "text": "d"
+        },
+        {
+          "letter": "E",
+          "text": "a,b,c,e"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Les facteurs histopronostiques incluent le type histologique, la taille tumorale, l'état des marges (limites d'exérèse) et la présence d'emboles. L'hyperplasie épithéliale est une lésion bénigne/pré-néoplasique, pas un facteur pronostique du cancer déjà infiltrant."
+    },
+    {
+      "question_number": 29,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Cochez les facteurs pronostiques du cancer de l'endomètre",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Taille de la lésion"
+        },
+        {
+          "letter": "b",
+          "text": "Stade FIGO"
+        },
+        {
+          "letter": "c",
+          "text": "L'envahissement du myomètre"
+        },
+        {
+          "letter": "d",
+          "text": "Type histologique"
+        },
+        {
+          "letter": "e",
+          "text": "Grade"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,c,d"
+        },
+        {
+          "letter": "B",
+          "text": "a,b,c"
+        },
+        {
+          "letter": "C",
+          "text": "a,b,c,d,e"
+        },
+        {
+          "letter": "D",
+          "text": "d"
+        },
+        {
+          "letter": "E",
+          "text": "b,c,d,e"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Pour le cancer de l'endomètre, le stade FIGO, la profondeur de l'invasion du myomètre, le type histologique (ex: endométrioïde vs séreux) et le grade sont les facteurs pronostiques majeurs. La taille brute est moins déterminante que l'invasion relative."
+    },
+    {
+      "question_number": 30,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "L'adénofibrome :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Est une tumeur bénigne du sein"
+        },
+        {
+          "letter": "b",
+          "text": "L'aspect macroscopique est blanchâtre fasciculé et bien limité"
+        },
+        {
+          "letter": "c",
+          "text": "Il est fait histologiquement de deux composantes : épithéliale et mésenchymateuse"
+        },
+        {
+          "letter": "d",
+          "text": "Il envahit le tissu sain avoisinant"
+        },
+        {
+          "letter": "e",
+          "text": "est une tumeur maligne du sein"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b,c,e"
+        },
+        {
+          "letter": "B",
+          "text": "a,b,c,d"
+        },
+        {
+          "letter": "C",
+          "text": "b,c"
+        },
+        {
+          "letter": "D",
+          "text": "a,b,c"
+        },
+        {
+          "letter": "E",
+          "text": "a,c,d"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'adénofibrome est la tumeur bénigne la plus fréquente du sein. Elle est biphasique (épithéliale et conjonctive), bien limitée macroscopiquement et n'est jamais invasive."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

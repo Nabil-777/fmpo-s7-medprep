@@ -1,0 +1,269 @@
+{
+  "page_header": "CAT devant une thrombopénie",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Traitement d'une thrombopénie immunologique",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transfusion de plaquettes"
+        },
+        {
+          "letter": "B",
+          "text": "Transfusion de Plasma frais congelé"
+        },
+        {
+          "letter": "C",
+          "text": "Corticothérapie en bolus ou par voie orale en fonction de la gravité de l'hémorragie"
+        },
+        {
+          "letter": "D",
+          "text": "Immunoglobuline intraveineuses si hémorragie sévère"
+        },
+        {
+          "letter": "E",
+          "text": "Splénectomie si thrombopénie immunologique d'évolution chronique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La transfusion de plaquettes est contre-indiquée dans le PTI car elles sont immédiatement détruites. Le traitement repose sur les corticoïdes, les IVIG en urgence, et la splénectomie en cas de chronicité."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les causes d'une thrombocytose",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syndrome myéloprolifératif"
+        },
+        {
+          "letter": "B",
+          "text": "Carence en B12"
+        },
+        {
+          "letter": "C",
+          "text": "Néoplasic solide"
+        },
+        {
+          "letter": "D",
+          "text": "Asplénie fonctionnelle"
+        },
+        {
+          "letter": "E",
+          "text": "Hémolyse chronique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La carence en vitamine B12 provoque une thrombopénie (par défaut de production médullaire) et non une thrombocytose."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": "Devant une thrombopénie profonde isolée, les examens complémentaires de première intention sont :",
+      "question_type": "qcm_multi",
+      "stem": "Devant une thrombopénie profonde isolée, les examens complémentaires de première intention sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Taux de prothrombine"
+        },
+        {
+          "letter": "B",
+          "text": "Frottis sanguin la recherche de schizocytes"
+        },
+        {
+          "letter": "C",
+          "text": "Fibrinogène"
+        },
+        {
+          "letter": "D",
+          "text": "Temps de saignement"
+        },
+        {
+          "letter": "E",
+          "text": "Echographie abdominale"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Devant une thrombopénie isolée, le frottis sanguin est indispensable pour éliminer un artefact (agrégats plaquettaires) ou une microangiopathie thrombotique (schizocytes)."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le traitement d'urgence d'une thrombopénie profonde avec syndrome hémorragique est :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolus de méthyl prednisolone"
+        },
+        {
+          "letter": "B",
+          "text": "Corticothérapie orale"
+        },
+        {
+          "letter": "C",
+          "text": "Immunoglobulines"
+        },
+        {
+          "letter": "D",
+          "text": "Rituximab"
+        },
+        {
+          "letter": "E",
+          "text": "Splénectomie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "En urgence avec syndrome hémorragique, on utilise les corticoïdes en bolus et les immunoglobulines intraveineuses pour une remontée rapide du taux de plaquettes."
+    },
+    {
+      "question_number": 5,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le traitement de la thrombopénie immunologique peut être basé sur :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La splénectomie"
+        },
+        {
+          "letter": "B",
+          "text": "Les corticoïdes"
+        },
+        {
+          "letter": "C",
+          "text": "Le sérum anti-lymphocytaire"
+        },
+        {
+          "letter": "D",
+          "text": "Les agonistes de thrombopoétine"
+        },
+        {
+          "letter": "E",
+          "text": "Le rituximab"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le sérum anti-lymphocytaire n'est pas une option thérapeutique standard dans le PTI."
+    },
+    {
+      "question_number": 6,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les traitements d'urgence de la thrombopénie immunologiques sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les corticoïdes"
+        },
+        {
+          "letter": "B",
+          "text": "Les immunoglobulines"
+        },
+        {
+          "letter": "C",
+          "text": "L'azathioprine"
+        },
+        {
+          "letter": "D",
+          "text": "Le cyclophosphamide"
+        },
+        {
+          "letter": "E",
+          "text": "Le rituximab"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Les corticoïdes et les immunoglobulines sont les deux piliers du traitement d'urgence pour obtenir une réponse rapide."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

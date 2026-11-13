@@ -1,0 +1,71 @@
+{
+  "page_header": "Royaume du Maroc, Université Mohammed Premier, Faculté de Médecine et de Pharmacie Oujda, EPREUVE DE NEUROCHIRURGIE ET DE NEUROLOGIE, 1ère SESSION du 1er QUADRIMESTRE 2024-2025",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qroc",
+      "stem": "COPIE 1 : Adénome hypophysaire à prolactine: diagnostic et traitement",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "10/10",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Diagnostic clinique (galactorrhée, aménorrhée, syndrome tumoral)",
+        "Diagnostic biologique (hyperprolactinémie)",
+        "Diagnostic radiologique (IRM hypophysaire)",
+        "Traitement médical (agonistes dopaminergiques)",
+        "Traitement chirurgical (adénomectomie transphénoïdale)"
+      ],
+      "explanation": "Le diagnostic repose sur le dosage de la prolactine et l'IRM hypophysaire. Le traitement de première intention est médical par agonistes dopaminergiques (cabergoline)."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": "Une jeune patiente de 35 ans sans antécédents pathologiques issue d'un milieu socioéconomique défavorable dont l'histoire de sa maladie remonte à 03 mois qui se présente aux urgences pour rachialgies dorsales nocturnes fixes rebelles aux traitements antalgiques usuels associées à un amaigrissement asthénie, anorexie, fébricule, sueur nocturne et installation depuis quelques jours d'une difficulté à la marche avec douleurs irradiantes aux membres inférieurs.",
+      "question_type": "qroc",
+      "stem": "Q1 : quel sont vos présomptions diagnostique argumentées ? Q2 : quels sont les examens paracliniques qui sont nécessaire pour confirmer les diagnostics évoqués ? Q3 : sur la base du diagnostic le plus probable quel serait votre prise charge (citez les principes thérapeutiques) ?",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "5/10",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Diagnostic : Mal de Pott (spondylodiscite tuberculeuse)",
+        "Arguments : terrain, signes généraux, rachialgies inflammatoires, signes neurologiques",
+        "Paraclinique : IRM rachis, bilan inflammatoire, prélèvement biopsique",
+        "Traitement : antituberculeux, immobilisation, chirurgie si instabilité"
+      ],
+      "explanation": "Le tableau clinique est évocateur d'un mal de Pott (tuberculose vertébrale) devant le syndrome rachidien inflammatoire, les signes généraux et le contexte socio-économique."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qroc",
+      "stem": "1. Quelles sont les principales étiologies des thrombophlébites cérébrales ? 2. Quelles sont les principales manifestations cliniques de la myasthénie ? 3. Quels sont les examens complémentaires pour confirmer le diagnostiquer de myasthénie ? 4. Quels sont les principaux examens complémentaires pour confirmer le diagnostic de maladie de Parkinson ? 5. Décrivez le tableau clinique d'AVCI sur occlusion de l'artère cérébrale antérieure gauche? 6. Quels sont les principaux examens complémentaires à réaliser dans le cadre du bilan étiologique d'AVCI ? 7. Quelles sont les indications de l'anticoagulation curative en cas d'AVCI ? 8. Quelles sont les contre-indications à la thrombolyse en cas d'AVCI ?",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "20/20",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Thrombophlébite : états prothrombotiques, infections, grossesse",
+        "Myasthénie : ptosis, diplopie, fatigabilité musculaire",
+        "Diagnostic myasthénie : test à la prostigmine, anticorps anti-RACh, EMG",
+        "Parkinson : diagnostic clinique (triade)",
+        "AVCI ACA : déficit moteur crural prédominant",
+        "Bilan AVCI : ECG, écho-doppler TSA, bilan biologique",
+        "Anticoagulation : FA, dissection, thrombus intracardiaque",
+        "Contre-indications thrombolyse : délai > 4h30, risque hémorragique"
+      ],
+      "explanation": "Ces questions couvrent les bases de la neurologie vasculaire, des maladies neuromusculaires et des troubles du mouvement."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

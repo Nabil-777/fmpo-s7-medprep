@@ -1,0 +1,45 @@
+{
+  "page_header": "ADÉNOMES HYPOPHYSAIRES",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "1. LES MANIFESTATIONS CLINIQUES",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Syndrome tumoral : Céphalées, troubles visuels (hémianopsie bitemporale), syndrome d'HTIC, troubles neuro/psy, apoplexie hypophysaire",
+        "Signes d'hypersécrétion : Hyperprolactinémie, Hypersomatotropisme, Hypercortisisme, Adénome gonadotrope, Adénome thyréotrope"
+      ],
+      "explanation": "Cette section détaille la sémiologie des adénomes hypophysaires, divisée entre les effets de masse (syndrome tumoral) et les effets hormonaux (hypersécrétion)."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "2. PROLACTINOME : DIAGNOSTIC POSITIF ET TRAITEMENT",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Clinique femme : Aménorrhée-galactorrhée, infertilité, signes d'hypoestrogénie",
+        "Clinique homme : Baisse libido, dysfonction érectile, gynécomastie, galactorrhée",
+        "Biologie : Hyperprolactinémie > 150-200 ug/L",
+        "Imagerie : IRM hypothalamo-hypophysaire (examen de choix)",
+        "Traitement : Médical (agonistes dopaminergiques) en 1ère intention, Chirurgical (adénectomie sélective par voie endonasale transphénoïdale) en cas d'échec ou résistance"
+      ],
+      "explanation": "Le prolactinome est l'adénome hypophysaire le plus fréquent. Le diagnostic repose sur le dosage de la prolactine et l'IRM, tandis que le traitement de référence est médical par agonistes dopaminergiques."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

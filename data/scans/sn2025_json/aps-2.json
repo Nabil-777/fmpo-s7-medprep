@@ -1,0 +1,384 @@
+{
+  "page_header": "EXAMEN APS 2025 SN - Anatomopathologie - Page 2",
+  "questions": [
+    {
+      "question_number": 5,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Quels sont les facteurs histo-pronostiques à inclure dans le compte rendu anatomopathologique d'un cancer colo-rectale :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La différenciation tumorale"
+        },
+        {
+          "letter": "b",
+          "text": "Emboles vasculaire"
+        },
+        {
+          "letter": "c",
+          "text": "Le curage ganglionnaire"
+        },
+        {
+          "letter": "d",
+          "text": "Le bourgeonnement tumoral"
+        },
+        {
+          "letter": "e",
+          "text": "Les limites de résections chirurgicales"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;c"
+        },
+        {
+          "letter": "B",
+          "text": "a;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "a;b;c;d"
+        },
+        {
+          "letter": "D",
+          "text": "b;d;e"
+        },
+        {
+          "letter": "E",
+          "text": "a,b,c,d,e"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "E",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Tous les éléments cités (différenciation, emboles, statut ganglionnaire, budding/bourgeonnement et marges) sont des paramètres standard du compte-rendu ADICAP/TNM pour le pronostic du cancer colorectal."
+    },
+    {
+      "question_number": 6,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les cancers broncho-pulmonaires :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Sont toujours liés au tabac"
+        },
+        {
+          "letter": "b",
+          "text": "Sont exclusivement des adénocarcinomes"
+        },
+        {
+          "letter": "c",
+          "text": "Ne peuvent être diagnostiqués que sur des pièces opératoires"
+        },
+        {
+          "letter": "d",
+          "text": "Sont caractérisés par des altérations moléculaires spécifiques"
+        },
+        {
+          "letter": "e",
+          "text": "Peuvent être traités par des thérapeutiques ciblées"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,b"
+        },
+        {
+          "letter": "B",
+          "text": "c;d"
+        },
+        {
+          "letter": "C",
+          "text": "c"
+        },
+        {
+          "letter": "D",
+          "text": "d;e"
+        },
+        {
+          "letter": "E",
+          "text": "b;e"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "D",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les cancers bronchiques ne sont pas exclusifs au tabac (ex: adénocarcinome du non-fumeur) et le diagnostic se fait souvent sur biopsie. Les altérations moléculaires (EGFR, ALK, etc.) permettent l'usage de thérapies ciblées."
+    },
+    {
+      "question_number": 7,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "L'adénocarcinome bronchique",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Est une tumeur maligne glandulaire."
+        },
+        {
+          "letter": "b",
+          "text": "Peut avoir plusieurs architectures : acinaire, papillaire..."
+        },
+        {
+          "letter": "c",
+          "text": "Est positif pour la Ck7 et TTF1"
+        },
+        {
+          "letter": "d",
+          "text": "Est positif pour la Ck7 et p40"
+        },
+        {
+          "letter": "e",
+          "text": "Est positif pour la chromogranine et la synaptophysine."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;c"
+        },
+        {
+          "letter": "B",
+          "text": "d;e"
+        },
+        {
+          "letter": "C",
+          "text": "d"
+        },
+        {
+          "letter": "D",
+          "text": "a;b,c"
+        },
+        {
+          "letter": "E",
+          "text": "Toutes les propositions sont justes"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "D",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'adénocarcinome est glandulaire, polymorphe (acinaire, papillaire, lépidique) et exprime CK7/TTF1. Le p40 est un marqueur épidermoïde et la chromogranine est neuroendocrine."
+    },
+    {
+      "question_number": 8,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Le lymphome de burkitt :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Est plus fréquent chez l'enfant et adulte jeune"
+        },
+        {
+          "letter": "b",
+          "text": "Se voie surtout chez le sujet âgé"
+        },
+        {
+          "letter": "c",
+          "text": "Est un lymphome agressif"
+        },
+        {
+          "letter": "d",
+          "text": "Est chimio-sensible"
+        },
+        {
+          "letter": "e",
+          "text": "Est incurable"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a"
+        },
+        {
+          "letter": "B",
+          "text": "b;c"
+        },
+        {
+          "letter": "C",
+          "text": "c;d;a"
+        },
+        {
+          "letter": "D",
+          "text": "e"
+        },
+        {
+          "letter": "E",
+          "text": "a;e"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "C",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le lymphome de Burkitt est un lymphome B de haut grade (très agressif), typique de l'enfant, caractérisé par une forte chimiosensibilité et un potentiel de guérison élevé."
+    },
+    {
+      "question_number": 9,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Le lymphome de hodgkin :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Est défini par la présence de cellules tumorales sur un fond réactionnel."
+        },
+        {
+          "letter": "b",
+          "text": "Est caractérisé par une prolifération de petites cellules non atypiques."
+        },
+        {
+          "letter": "c",
+          "text": "La clé du diagnostic est représentée par les cellules de hodgkin ou de Reed Sternberg"
+        },
+        {
+          "letter": "d",
+          "text": "Est positif pour le CD15 et CD30"
+        },
+        {
+          "letter": "e",
+          "text": "Est un lymphome T"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a"
+        },
+        {
+          "letter": "B",
+          "text": "b;c;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "a;d;e"
+        },
+        {
+          "letter": "D",
+          "text": "c;e"
+        },
+        {
+          "letter": "E",
+          "text": "a;c;d"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "E",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le diagnostic repose sur l'identification des cellules de Reed-Sternberg (CD15+, CD30+) au sein d'un granulome inflammatoire réactionnel. C'est un lymphome B, pas T."
+    },
+    {
+      "question_number": 10,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Dans le cancer colo-rectal :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La présence d'une instabilité micro-satellitaire est de mauvais pronostic."
+        },
+        {
+          "letter": "b",
+          "text": "L'instabilité micro-satellitaire n'est pas un facteur pronostic pour le traitement."
+        },
+        {
+          "letter": "c",
+          "text": "Les patients avec un statut RAS muté peuvent bénéficier d'un traitement par anti-EGFR."
+        },
+        {
+          "letter": "d",
+          "text": "Les analyses moléculaire (statut MSI et RAS) n'ont pas de place."
+        },
+        {
+          "letter": "e",
+          "text": "Aucune réponse correcte."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a;b;c"
+        },
+        {
+          "letter": "B",
+          "text": "b;c;d"
+        },
+        {
+          "letter": "C",
+          "text": "a;d"
+        },
+        {
+          "letter": "D",
+          "text": "c"
+        },
+        {
+          "letter": "E",
+          "text": "e"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "E",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Toutes les propositions sont fausses : le statut MSI est de bon pronostic (stades précoces), les mutations RAS prédisent une résistance aux anti-EGFR, et ces tests sont indispensables en routine."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

@@ -1,0 +1,309 @@
+{
+  "page_header": "EXAMEN HEMATO-ONCO 2025 SN (Hématologie-Oncologie Q26-32)",
+  "questions": [
+    {
+      "question_number": 26,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Quelle est la caractéristique principale d'une anémie ferriprive ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une anémie normocytaire normochrome"
+        },
+        {
+          "letter": "B",
+          "text": "Une anémie macrocytaire arégénérative"
+        },
+        {
+          "letter": "C",
+          "text": "Une anémie microcytaire hypochrome"
+        },
+        {
+          "letter": "D",
+          "text": "Une augmentation de la ferritine sérique"
+        },
+        {
+          "letter": "E",
+          "text": "Une élévation de la concentration corpusculaire moyenne en hémoglobine (CCMH)"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'anémie ferriprive se caractérise par une carence en fer entraînant une microcytose (VGM bas) et une hypochromie (CCMH basse)."
+    },
+    {
+      "question_number": 27,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Quelle est la conséquence neurologique d'une carence prolongée en vitamine B12 ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une neuropathie périphérique avec atteinte des cordons postérieurs de la moelle"
+        },
+        {
+          "letter": "B",
+          "text": "Une polynévrite diabétique"
+        },
+        {
+          "letter": "C",
+          "text": "Une myopathie inflammatoire"
+        },
+        {
+          "letter": "D",
+          "text": "Une dégénérescence graisseuse hépatique"
+        },
+        {
+          "letter": "E",
+          "text": "Une paraplégie flasque aiguë"
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "La carence en vitamine B12 provoque une sclérose combinée de la moelle (atteinte des cordons postérieurs et des voies pyramidales) et une neuropathie périphérique."
+    },
+    {
+      "question_number": 28,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Concernant l'absorption intestinale du fer, quelle affirmation est correcte ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le fer non héminique est mieux absorbé que le fer héminique"
+        },
+        {
+          "letter": "B",
+          "text": "L'absorption du fer est principalement régulée par l'hepcidine"
+        },
+        {
+          "letter": "C",
+          "text": "Le fer est absorbé exclusivement dans le côlon"
+        },
+        {
+          "letter": "D",
+          "text": "La vitamine C inhibe l'absorption du fer"
+        },
+        {
+          "letter": "E",
+          "text": "La gastrine bloque l'absorption du fer"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hepcidine est le régulateur central de l'homéostasie du fer, bloquant son absorption intestinale et sa libération par les macrophages."
+    },
+    {
+      "question_number": 29,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Quelle anomalie biologique est typiquement observée dans la maladie de Biermer ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hyperleucocytose"
+        },
+        {
+          "letter": "B",
+          "text": "Microcytose"
+        },
+        {
+          "letter": "C",
+          "text": "Présence d'anticorps anti-facteur intrinsèque"
+        },
+        {
+          "letter": "D",
+          "text": "Hypersidérémie"
+        },
+        {
+          "letter": "E",
+          "text": "Hyperplaquettose"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La maladie de Biermer est une anémie de Biermer par carence en B12 due à une gastrite atrophique auto-immune, caractérisée par des anticorps anti-facteur intrinsèque."
+    },
+    {
+      "question_number": 30,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Quel traitement est le plus approprié en première intention pour une carence sévère en vitamine B12 ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Administration orale d'acide folique"
+        },
+        {
+          "letter": "B",
+          "text": "Administration IM de 1000 gamma de vitamine B12 pendant 10 jours"
+        },
+        {
+          "letter": "C",
+          "text": "Supplémentation en fer"
+        },
+        {
+          "letter": "D",
+          "text": "Corticothérapie"
+        },
+        {
+          "letter": "E",
+          "text": "Transfusion sanguine immédiate"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le traitement de référence de la carence en B12 est l'administration parentérale (IM) de vitamine B12 pour restaurer les stocks hépatiques."
+    },
+    {
+      "question_number": 31,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le cancer:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une maladie de l'ADN"
+        },
+        {
+          "letter": "B",
+          "text": "Est doté d'une instabilité génétique"
+        },
+        {
+          "letter": "C",
+          "text": "Stimule le phénomène d'apoptose"
+        },
+        {
+          "letter": "D",
+          "text": "Respecte l'homéostasie."
+        },
+        {
+          "letter": "E",
+          "text": "Inhibe l'angiogenèse."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le cancer est une maladie génétique caractérisée par des mutations de l'ADN et une instabilité génomique, échappant à l'apoptose et à l'homéostasie."
+    },
+    {
+      "question_number": 32,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les virus cancérigènes sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le virus de l'hépatite B"
+        },
+        {
+          "letter": "B",
+          "text": "Le Papillomavirus Human"
+        },
+        {
+          "letter": "C",
+          "text": "Les Adénovirus"
+        },
+        {
+          "letter": "D",
+          "text": "Le virus de la fièvre jaune"
+        },
+        {
+          "letter": "E",
+          "text": "L'epstein-barr virus"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le VHB (carcinome hépatocellulaire), le HPV (cancer du col) et l'EBV (lymphomes) sont des virus oncogènes reconnus."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

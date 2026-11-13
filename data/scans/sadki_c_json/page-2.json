@@ -1,0 +1,302 @@
+{
+  "page_header": "QE PR SADKI (Corrigé) (Hématologie)",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les urgences à rechercher en première intention en cas de thrombopénie",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coagulation intra vasculaire disséminée"
+        },
+        {
+          "letter": "B",
+          "text": "Thrombopénie immunologique"
+        },
+        {
+          "letter": "C",
+          "text": "Micro angiopathie thrombotique"
+        },
+        {
+          "letter": "D",
+          "text": "Hypersplénisme"
+        },
+        {
+          "letter": "E",
+          "text": "Anémie de biermer"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La CIVD et la MAT sont des urgences hématologiques graves associées à une thrombopénie de consommation nécessitant une prise en charge immédiate."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les urgences à rechercher devant une thrombopénie périphérique sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La coagulation intravasculaire disséminée"
+        },
+        {
+          "letter": "B",
+          "text": "La leucémie aigüe myéloïde"
+        },
+        {
+          "letter": "C",
+          "text": "La micro angiopathie thrombotique"
+        },
+        {
+          "letter": "D",
+          "text": "L'aplasie médullaire"
+        },
+        {
+          "letter": "E",
+          "text": "L'hypertension portal"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La CIVD et la MAT sont les deux urgences majeures à éliminer devant toute thrombopénie périphérique."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les causes d'une thrombopénie périphérique:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fibrose médullaire"
+        },
+        {
+          "letter": "B",
+          "text": "L a coagulation intravasculaire disséminée"
+        },
+        {
+          "letter": "C",
+          "text": "L'hépatite C"
+        },
+        {
+          "letter": "D",
+          "text": "La carence en vitamine B 12"
+        },
+        {
+          "letter": "E",
+          "text": "La leucémie aigüe"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La CIVD est une cause de consommation périphérique. L'hépatite C est une cause classique de thrombopénie périphérique immunologique."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Causes possibles de thrombopénie périphérique",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carence en B12"
+        },
+        {
+          "letter": "B",
+          "text": "Le lupus"
+        },
+        {
+          "letter": "C",
+          "text": "L'hypersplénisme"
+        },
+        {
+          "letter": "D",
+          "text": "La thrombopénie immunologique"
+        },
+        {
+          "letter": "E",
+          "text": "La myélofibrose"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le lupus, l'hypersplénisme et la PTI sont des causes bien établies de thrombopénie périphérique."
+    },
+    {
+      "question_number": 5,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "N'est ou ne sont pas des causes de thrombopénie périphérique",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La carence en B12"
+        },
+        {
+          "letter": "B",
+          "text": "Le lupus"
+        },
+        {
+          "letter": "C",
+          "text": "L'hypersplénisme"
+        },
+        {
+          "letter": "D",
+          "text": "La thrombopénie immunologique"
+        },
+        {
+          "letter": "E",
+          "text": "La myélofibrose"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La carence en B12 et la myélofibrose sont des causes de thrombopénie centrale (défaut de production médullaire)."
+    },
+    {
+      "question_number": 6,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La thrombopénie de l'hypersplénisme est :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une thrombopénie centrale"
+        },
+        {
+          "letter": "B",
+          "text": "Une thrombopénie de consommation"
+        },
+        {
+          "letter": "C",
+          "text": "Une thrombopénie de séquestration"
+        },
+        {
+          "letter": "D",
+          "text": "Une thrombopénie de destruction"
+        },
+        {
+          "letter": "E",
+          "text": "Une thrombopénie périphérique"
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypersplénisme entraîne une séquestration splénique des plaquettes, ce qui définit une thrombopénie périphérique."
+    },
+    {
+      "question_number": 7,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La thrombopénie du lupus est:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une thrombopénie centrale"
+        },
+        {
+          "letter": "B",
+          "text": "Une thrombopénie de consommation"
+        },
+        {
+          "letter": "C",
+          "text": "Une thrombopénie de séquestration"
+        },
+        {
+          "letter": "D",
+          "text": "Une thrombopénie de destruction"
+        },
+        {
+          "letter": "E",
+          "text": "Une thrombopénie périphérique"
+        }
+      ],
+      "marked_letters": [
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La thrombopénie lupique est une thrombopénie immunologique par destruction périphérique des plaquettes."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

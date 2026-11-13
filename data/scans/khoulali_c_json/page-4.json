@@ -1,0 +1,88 @@
+{
+  "page_header": "HSA SPONTANÉE - PR KHOULALI (Neurochirurgie)",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Décrire le diagnostic positif de l'hémorragie sous-arachnoïdienne (HSA) spontanée (clinique et examens complémentaires).",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Symptomatologie clinique - Signes de début : Début brutal, céphalée brutale, intense, en coup de poignard, inhabituelle, persistante, irritabilité, agitation. Notion de 'Pire céphalée' : coup de tonnerre dans un ciel serein. Nausées, vomissements. Fièvre à 38°C.",
+        "Phase d'état : Troubles de la conscience variables, HTIC, Syndrome méningé (photo-phono phobie, attitude chien de fusil, raideur de la nuque, Brudzinski & Kernig).",
+        "Examens complémentaires : Scanner cérébral en urgence sans injection (hyperdensité spontanée des espaces sous arachnoïdiens, peut être normal).",
+        "PL si scanner normal : LCS uniformément rose-rouge ne coagulant pas."
+      ],
+      "explanation": "Le diagnostic positif repose sur la triade : céphalée brutale explosive, syndrome méningé clinique et confirmation par scanner (hyperdensité) ou ponction lombaire si le scanner est négatif."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Quels sont les diagnostics étiologiques à évoquer devant une HSA spontanée ?",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Anévrismes artériels intracrâniens (85%)",
+        "Malformation artérioveineuse",
+        "Forme compliquant une HTA",
+        "Cause tumorale",
+        "Cause médicale (traitement anticoagulant, coagulopathie)",
+        "Forme idiopathique"
+      ],
+      "explanation": "L'étiologie anévrismale est prédominante (85% des cas). Les autres causes incluent les malformations vasculaires, les causes tumorales ou les troubles de l'hémostase."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Citez les complications majeures de l'HSA spontanée.",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Resaignement : pronostic grave",
+        "Vasospasme artériel : risque d’ischémie cérébrale",
+        "Hydrocéphalie post HSA",
+        "Epilepsie : hypoperfusion cérébrale",
+        "Complications cardio-pulmonaires : insuffisance cardiaque aigu et OAP neurogène"
+      ],
+      "explanation": "Les complications sont à la fois neurologiques (vasospasme, hydrocéphalie, resaignement) et systémiques (OAP neurogène)."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Quels sont les principes de traitement d'une HSA spontanée ?",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Prise en charge multidisciplinaire en milieu spécialisé (USI, environnement calme).",
+        "Traitement médical : Bonne ventilation, Traitement préventif (Anti-épileptiques, Nimodipine, Antalgiques - jamais d’Aspirine), Respecter une HTA réactionnelle protectrice sauf si > 170mmhg.",
+        "Traitement chirurgical : Prévention de récidive hémorragique par exclusion de l’anévrisme (Embolisation endovasculaire ou Clippage chirurgical)."
+      ],
+      "explanation": "Le traitement associe réanimation (contrôle de la PA, Nimodipine contre le vasospasme) et traitement étiologique urgent de l'anévrisme pour éviter le resaignement."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

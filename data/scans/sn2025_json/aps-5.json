@@ -1,0 +1,333 @@
+{
+  "page_header": "EXAMEN APS 2025 SN - Anatomopathologie - Page 5",
+  "questions": [
+    {
+      "question_number": 22,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Parmi les facteurs histo-pronostiques du carcinome prostatique on note :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La taille tumorale"
+        },
+        {
+          "letter": "b",
+          "text": "Score de Gleason"
+        },
+        {
+          "letter": "c",
+          "text": "Les engainements périnerveux"
+        },
+        {
+          "letter": "d",
+          "text": "Le taux de PSA"
+        },
+        {
+          "letter": "e",
+          "text": "L'âge du patient"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(c,d)"
+        },
+        {
+          "letter": "B",
+          "text": "(d,e)"
+        },
+        {
+          "letter": "C",
+          "text": "(c,d)"
+        },
+        {
+          "letter": "D",
+          "text": "(a,b,c)"
+        },
+        {
+          "letter": "E",
+          "text": "(a,c,d)"
+        }
+      ],
+      "marked_letters": [
+        "a",
+        "b",
+        "c",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "D",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les facteurs histo-pronostiques incluent le score de Gleason, le stade T (taille/extension) et l'invasion périnerveuse. Le PSA et l'âge sont des facteurs clinico-biologiques."
+    },
+    {
+      "question_number": 23,
+      "vignette_text": "L'examen histologique d'une tumeur urothéliale bourgeonnante et récidivante trouve une prolifération tumorale d'architecture papillaire, montrant une désorganisation architecturale avec des atypies marquées et des mitoses arrivant en surface, vous concluez à ?",
+      "question_type": "qcm_group",
+      "stem": "L'examen histologique d'une tumeur urothéliale bourgeonnante et récidivante trouve une prolifération tumorale d'architecture papillaire, montrant une désorganisation architecturale avec des atypies marquées et des mitoses arrivant en surface, vous concluez à ?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Un papillome"
+        },
+        {
+          "letter": "b",
+          "text": "Un néoplasie papillaire de faible potentiel de malignité"
+        },
+        {
+          "letter": "c",
+          "text": "Un carcinome papillaire de bas grade"
+        },
+        {
+          "letter": "d",
+          "text": "Un carcinome papillaire de haut grade"
+        },
+        {
+          "letter": "e",
+          "text": "Un carcinome In Situ"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a)"
+        },
+        {
+          "letter": "B",
+          "text": "(b)"
+        },
+        {
+          "letter": "C",
+          "text": "(c)"
+        },
+        {
+          "letter": "D",
+          "text": "(d)"
+        },
+        {
+          "letter": "E",
+          "text": "(e)"
+        }
+      ],
+      "marked_letters": [
+        "d",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "D",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "La présence d'atypies marquées et de mitoses en surface dans une lésion papillaire urothéliale définit le carcinome papillaire de haut grade."
+    },
+    {
+      "question_number": 24,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Cancer invasif du sein",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Le type histologique le plus fréquent est l'adénocarcinome (carcinome de type non spécifique)"
+        },
+        {
+          "letter": "b",
+          "text": "Les sarcomes sont plus rares"
+        },
+        {
+          "letter": "c",
+          "text": "Tous les types histologiques ont le même pronostic"
+        },
+        {
+          "letter": "d",
+          "text": "Le dépistage se fait par cytoponction mammaire"
+        },
+        {
+          "letter": "e",
+          "text": "Le dépistage se fait par mammographie"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a,b,c,d)"
+        },
+        {
+          "letter": "B",
+          "text": "(a,e)"
+        },
+        {
+          "letter": "C",
+          "text": "(c,d)"
+        },
+        {
+          "letter": "D",
+          "text": "(a,b,e)"
+        },
+        {
+          "letter": "E",
+          "text": "(a,c)"
+        }
+      ],
+      "marked_letters": [
+        "a",
+        "b",
+        "e",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "D",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome de type non spécifique (NST) est le plus fréquent, les sarcomes mammaires sont exceptionnels, et le dépistage de masse repose sur la mammographie."
+    },
+    {
+      "question_number": 25,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Cancer de l'endomètre :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Est un cancer de la femme ménopausée"
+        },
+        {
+          "letter": "b",
+          "text": "Le maître symptôme c'est les douleurs pelviennes"
+        },
+        {
+          "letter": "c",
+          "text": "Le maître symptôme c'est les métrorragies post ménopausiques"
+        },
+        {
+          "letter": "d",
+          "text": "Le carcinome endométrioïde est le type histologique le plus fréquent"
+        },
+        {
+          "letter": "e",
+          "text": "Le sarcome du stroma endométrial est le type histologique le plus fréquent"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a,c)"
+        },
+        {
+          "letter": "B",
+          "text": "(a,d)"
+        },
+        {
+          "letter": "C",
+          "text": "(a,c,e)"
+        },
+        {
+          "letter": "D",
+          "text": "(a,b,d)"
+        },
+        {
+          "letter": "E",
+          "text": "(a,c,d)"
+        }
+      ],
+      "marked_letters": [
+        "a",
+        "c",
+        "d",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "E",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le cancer de l'endomètre touche typiquement la femme ménopausée, se manifeste par des métrorragies, et le type endométrioïde est prédominant (80%)."
+    },
+    {
+      "question_number": 26,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant l'adénocarcinome prostatique, quels sont les critères cytologiques majeurs de malignité ?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La présence d'un nucléole proéminent"
+        },
+        {
+          "letter": "b",
+          "text": "La disparition de l'assise basale"
+        },
+        {
+          "letter": "c",
+          "text": "La présence de Cristalloïdes"
+        },
+        {
+          "letter": "d",
+          "text": "La présence de Micronodules collagènes"
+        },
+        {
+          "letter": "e",
+          "text": "Le contenu mucoïde des lumières glandulaires"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a,b,c)"
+        },
+        {
+          "letter": "B",
+          "text": "(a,b)"
+        },
+        {
+          "letter": "C",
+          "text": "(c,d)"
+        },
+        {
+          "letter": "D",
+          "text": "(b,e)"
+        },
+        {
+          "letter": "E",
+          "text": "(a,c)"
+        }
+      ],
+      "marked_letters": [
+        "a",
+        "b",
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "B",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le nucléole proéminent est le critère cytologique majeur. La disparition de l'assise basale est un critère architectural/immunohistochimique majeur souvent regroupé dans les critères diagnostiques."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

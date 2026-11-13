@@ -1,0 +1,321 @@
+{
+  "page_header": "EXAMEN APS 2025 SN - Anatomopathologie - Page 3",
+  "questions": [
+    {
+      "question_number": 11,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Parmi les propositions suivantes concernant le Cancer thyroïdien, lesquelles sont justes :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Le carcinome papillaire est le type histologique le plus fréquent."
+        },
+        {
+          "letter": "b",
+          "text": "Le carcinome vésiculaire est le type histologique le plus fréquent."
+        },
+        {
+          "letter": "c",
+          "text": "La cytoponction thyroïdienne n'a pas de place dans la démarche diagnostique."
+        },
+        {
+          "letter": "d",
+          "text": "Pour un nodule thyroïdien classé EU-TIRADS 5, La cytoponction thyroïdienne n'est jamais indiquée."
+        },
+        {
+          "letter": "e",
+          "text": "Pour un nodule thyroïdien classé EU-TIRADS 3, la cytoponction est indiquée quand la taille du nodule dépasse 20 mm."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a;e)"
+        },
+        {
+          "letter": "B",
+          "text": "(b;c)"
+        },
+        {
+          "letter": "C",
+          "text": "(a;c)"
+        },
+        {
+          "letter": "D",
+          "text": "(a;b;d)"
+        },
+        {
+          "letter": "E",
+          "text": "(a;d;e)"
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome papillaire est effectivement le plus fréquent (80%). Selon les critères EU-TIRADS, la cytoponction est indiquée pour un score 3 si le nodule dépasse 20 mm."
+    },
+    {
+      "question_number": 12,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant la Cytoponction thyroïdienne, lesquelles de ces propositions sont justes :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La classification cytologique de Bethesda comporte 6 catégories diagnostiques"
+        },
+        {
+          "letter": "b",
+          "text": "Pour La catégorie 5 : Suspect de malignité, une surveillance est indiquée."
+        },
+        {
+          "letter": "c",
+          "text": "Pour la catégorie 2 : Bénin, une surveillance est indiquée."
+        },
+        {
+          "letter": "d",
+          "text": "Pour être représentative, la cytoponction doit comporter au moins 5 amas cellulaires comptant plus de 10 cellules épithéliales"
+        },
+        {
+          "letter": "e",
+          "text": "La cytoponction thyroïdienne n'a toujours pas de place dans la démarche diagnostique."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a;b;d;e)"
+        },
+        {
+          "letter": "B",
+          "text": "(b;c)"
+        },
+        {
+          "letter": "C",
+          "text": "(a;c;d)"
+        },
+        {
+          "letter": "D",
+          "text": "(aucune)"
+        },
+        {
+          "letter": "E",
+          "text": "Toutes les proposition sont justes"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La classification de Bethesda est la référence (6 catégories). La catégorie 2 (bénin) nécessite une surveillance simple, tandis que la catégorie 5 impose souvent une chirurgie."
+    },
+    {
+      "question_number": 13,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Pour le Carcinome Papillaire de la Thyroïde :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La diffusion métastatique se fait essentiellement par voie sanguine"
+        },
+        {
+          "letter": "b",
+          "text": "La diffusion métastatique se fait essentiellement par voie lymphatique"
+        },
+        {
+          "letter": "c",
+          "text": "Il est de bon pronostic"
+        },
+        {
+          "letter": "d",
+          "text": "Les noyaux clarifiés en verre dépoli sont caractéristiques."
+        },
+        {
+          "letter": "e",
+          "text": "Les pseudo inclusion nucléaires sont typiquement absents."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a;c;d)"
+        },
+        {
+          "letter": "B",
+          "text": "(b;c;e)"
+        },
+        {
+          "letter": "C",
+          "text": "(a;e)"
+        },
+        {
+          "letter": "D",
+          "text": "(b;c;d)"
+        },
+        {
+          "letter": "E",
+          "text": "Toutes les propositions sont justes"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le carcinome papillaire diffuse par voie lymphatique (ganglions), présente des noyaux en verre dépoli et des pseudo-inclusions (qui ne sont donc pas absentes)."
+    },
+    {
+      "question_number": 14,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les MICI :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La plasmocytose basale est un signe histologique commun entre la maladie de Crohn et la rectocolite hémorragique"
+        },
+        {
+          "letter": "b",
+          "text": "Les anomalies architecturales sont retrouvées exclusivement dans la maladie de Crohn"
+        },
+        {
+          "letter": "c",
+          "text": "L'inflammation superficielle est caractéristique de la maladie de Crohn."
+        },
+        {
+          "letter": "d",
+          "text": "L'inflammation pan-pariétale est caractéristique de la rectocolite hémorragique."
+        },
+        {
+          "letter": "e",
+          "text": "Les Cryptites et les abcès cryptiques sont des signes d'activité des MICI"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a;c;e)"
+        },
+        {
+          "letter": "B",
+          "text": "(c;d)"
+        },
+        {
+          "letter": "C",
+          "text": "(c)"
+        },
+        {
+          "letter": "D",
+          "text": "(a;d;e)"
+        },
+        {
+          "letter": "E",
+          "text": "(a;e)"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La plasmocytose basale et les abcès cryptiques sont des signes communs de chronicité et d'activité. L'inflammation de Crohn est transmurale (pan-pariétale) alors que celle de la RCH est superficielle."
+    },
+    {
+      "question_number": 15,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les MICI et le risque de cancer",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Il n'y a pas de risque d'une dégénérescence cancéreuse au cours d'une MICI."
+        },
+        {
+          "letter": "b",
+          "text": "Une Surveillance endoscopique et biopsique régulière à la recherche d'une dysplasie est nécessaire."
+        },
+        {
+          "letter": "c",
+          "text": "Les DALM sont des lésions surélevées survenant sur une muqueuse inflammatoire et dysplasique."
+        },
+        {
+          "letter": "d",
+          "text": "Les ALM sont des lésions polypoïdes survenant sur une muqueuse inflammatoire et non dysplasique."
+        },
+        {
+          "letter": "e",
+          "text": "Les adénomes sporadiques surviennent sur une muqueuse non inflammatoire."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "(b;c;d)"
+        },
+        {
+          "letter": "B",
+          "text": "(b;c;d;e)"
+        },
+        {
+          "letter": "C",
+          "text": "(a;b;c;d)"
+        },
+        {
+          "letter": "D",
+          "text": "(b;d;e)"
+        },
+        {
+          "letter": "E",
+          "text": "(a)"
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "L'étudiant a fait une erreur (X dans la marge). La réponse correcte est B car les adénomes sporadiques (e) surviennent effectivement sur une muqueuse saine, contrairement aux DALM/ALM liés à la colite."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

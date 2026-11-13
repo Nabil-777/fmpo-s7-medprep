@@ -1,0 +1,257 @@
+{
+  "page_header": "Epreuve d'Endocrinologie 1er semestre 1ère session 2025 Durée 25 min Une ou plusieurs réponses justes",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les facteurs de risque d'un diabète gestationnel, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'obésité"
+        },
+        {
+          "letter": "B",
+          "text": "Un antécédent familial d'un diabète type 2 chez un parent au 1er degré"
+        },
+        {
+          "letter": "C",
+          "text": "L'âge au-delà de 20 ans"
+        },
+        {
+          "letter": "D",
+          "text": "Une hyperglycémie modérée à jeun"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les facteurs de risque de diabète gestationnel incluent l'obésité (IMC > 25), l'âge maternel > 35 ans (et non 20 ans), les antécédents familiaux de diabète de type 2 et les antécédents personnels de dysglycémie."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Pour prévenir la survenue d'un pied diabétique, on conseille au patient :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "d'inspecter chaque jour le pied et de signaler toute lésion suspecte"
+        },
+        {
+          "letter": "B",
+          "text": "d'utiliser des crèmes hydratantes neutres"
+        },
+        {
+          "letter": "C",
+          "text": "de contrôler l'absence corps étrangers avant de se chausser"
+        },
+        {
+          "letter": "D",
+          "text": "de couper les ongles à vifs"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La prévention du pied diabétique repose sur l'inspection quotidienne, l'hydratation cutanée et la vérification des chaussures. Couper les ongles à vifs est dangereux car cela peut provoquer des plaies."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les causes d'hyperprolactinémie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "une hypothyroïdie centrale"
+        },
+        {
+          "letter": "B",
+          "text": "la prise de psychotrope"
+        },
+        {
+          "letter": "C",
+          "text": "l'insuffisance rénale chronique"
+        },
+        {
+          "letter": "D",
+          "text": "la grossesse"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "C'est l'hypothyroïdie primaire (et non centrale) qui cause une hyperprolactinémie par augmentation de la TRH. La grossesse, l'IRC et les médicaments (neuroleptiques) sont des causes classiques."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les agonistes dopaminergiques :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "ont une action anti-tumorale"
+        },
+        {
+          "letter": "B",
+          "text": "ont une action anti- hormonale"
+        },
+        {
+          "letter": "C",
+          "text": "sont le traitement de 1ère intention d'un prolactinome"
+        },
+        {
+          "letter": "D",
+          "text": "sont le traitement de 1ère intention d'une acromégalie"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Les agonistes dopaminergiques réduisent la sécrétion de prolactine et le volume tumoral. Ils sont le traitement de choix des prolactinomes, contrairement à l'acromégalie où la chirurgie prime."
+    },
+    {
+      "question_number": 5,
+      "vignette_text": "Patiente de 26 ans sans antécédent particulier, consultant pour une asthénie, une sécheresse cutanée, et une prise de poids. Vous suspectez une hypothyroïdie.",
+      "question_type": "qcm_multi",
+      "stem": "Quel examen paraclinique demandez-vous en 1ère intention?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticorps anti- Thyroglobuline"
+        },
+        {
+          "letter": "B",
+          "text": "TSHus"
+        },
+        {
+          "letter": "C",
+          "text": "FT3"
+        },
+        {
+          "letter": "D",
+          "text": "FT4"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "La TSH ultra-sensible est l'examen de première intention pour le diagnostic d'une hypothyroïdie primaire."
+    },
+    {
+      "question_number": 6,
+      "vignette_text": "TSHus : 30 uUI/l (N :0.25- 4.5), FT4 : 3 pmol/l (N :12-22). Anticorps anti-TPO : 109 UI/l (N<35)",
+      "question_type": "qcm_multi",
+      "stem": "Vous évoquez une hypothyroïdie :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iatrogène"
+        },
+        {
+          "letter": "B",
+          "text": "auto-immune"
+        },
+        {
+          "letter": "C",
+          "text": "périphérique"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "TSHus : élevé , FT4 : bas Ac anti - TPO : élevés",
+      "verified_correct_letters": [
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "La TSH élevée avec FT4 basse confirme une hypothyroïdie périphérique (primaire). La positivité des anticorps anti-TPO indique une origine auto-immune (thyroïdite de Hashimoto)."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

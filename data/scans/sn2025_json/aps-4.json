@@ -1,0 +1,384 @@
+{
+  "page_header": "EXAMEN APS 2025 SN - Anatomopathologie - Faculté de Médecine d'Oujda - Page 4",
+  "questions": [
+    {
+      "question_number": 16,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant le Cancer primitif du Foie :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Un nodule sur un foie de cirrhose n'est pas inquiétant."
+        },
+        {
+          "letter": "b",
+          "text": "L'hépatoblastome se voit chez l'enfant"
+        },
+        {
+          "letter": "c",
+          "text": "Le Carcinome hépatocellulaire est le type histologique le plus fréquent chez l'adulte"
+        },
+        {
+          "letter": "d",
+          "text": "L'hémochromatose ne constitue pas un facteur de risque."
+        },
+        {
+          "letter": "e",
+          "text": "La dysplasie à petite cellules constitue un précurseur au carcinome hépato-cellulaire"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a;c;e"
+        },
+        {
+          "letter": "B",
+          "text": "a;b;c"
+        },
+        {
+          "letter": "C",
+          "text": "c;d;e"
+        },
+        {
+          "letter": "D",
+          "text": "b;c;e"
+        },
+        {
+          "letter": "E",
+          "text": "b;c;d;e"
+        }
+      ],
+      "marked_letters": [
+        "D"
+      ],
+      "margin_correct_letters": [
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les propositions b, c et e sont vraies. Tout nodule sur cirrhose est suspect de CHC (a faux) et l'hémochromatose est un facteur de risque majeur (d faux)."
+    },
+    {
+      "question_number": 17,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant le cancer du rein de l'adulte :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "L'oncocytome est une tumeur maligne."
+        },
+        {
+          "letter": "b",
+          "text": "Macroscopiquement, une lésion rénale bien limitée de couleur jaune chamois doit faire penser au carcinome rénale à cellules claires."
+        },
+        {
+          "letter": "c",
+          "text": "L'envahissement de la veine rénale est un facteur pronostic important à inclure dans le compte rendu."
+        },
+        {
+          "letter": "d",
+          "text": "Il est souvent de pronostic sombre."
+        },
+        {
+          "letter": "e",
+          "text": "Le carcinome papillaire est le type histologique le plus fréquent."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a;b;c;e"
+        },
+        {
+          "letter": "B",
+          "text": "b;c;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "b;c;d"
+        },
+        {
+          "letter": "D",
+          "text": "c;e"
+        },
+        {
+          "letter": "E",
+          "text": "a;b"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'oncocytome est bénin (a faux) et le carcinome à cellules claires est le plus fréquent (e faux). Les propositions b, c et d sont retenues comme vraies."
+    },
+    {
+      "question_number": 18,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les Tumeurs stromales Gastro-intestinales ( GIST) :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Ce sont des néoplasies de phénotype épithélial"
+        },
+        {
+          "letter": "b",
+          "text": "Ce sont des néoplasies de phénotype mésenchymateux"
+        },
+        {
+          "letter": "c",
+          "text": "Elles se développent à partir des cellules musculaires lisses"
+        },
+        {
+          "letter": "d",
+          "text": "Elles se développent à partir des cellules de Cajal"
+        },
+        {
+          "letter": "e",
+          "text": "Le CD117 et le DOG1 en sont des marqueurs immunohistochimiques spécifiques"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a;c"
+        },
+        {
+          "letter": "B",
+          "text": "b;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "a;d;e"
+        },
+        {
+          "letter": "D",
+          "text": "b;c;e"
+        },
+        {
+          "letter": "E",
+          "text": "a;c;e"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Les GIST sont des tumeurs mésenchymateuses (b) issues des cellules de Cajal (d) exprimant CD117 et DOG1 (e)."
+    },
+    {
+      "question_number": 19,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant le Rhabdomyosarcome :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Il s'agit d'un carcinome à différentiation musculaire"
+        },
+        {
+          "letter": "b",
+          "text": "Il s'agit d'un sarcome à différentiation musculaire lisse"
+        },
+        {
+          "letter": "c",
+          "text": "Il s'agit d'un sarcome à différentiation adipeuse"
+        },
+        {
+          "letter": "d",
+          "text": "Il s'agit d'un sarcome à différentiation musculaire strié"
+        },
+        {
+          "letter": "e",
+          "text": "Il se caractérise par des cellules appelé des Rhabdomyoblastes, qui ressemblent à des têtards"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;e"
+        },
+        {
+          "letter": "B",
+          "text": "c;e"
+        },
+        {
+          "letter": "C",
+          "text": "a;e"
+        },
+        {
+          "letter": "D",
+          "text": "aucune proposition n'est juste"
+        },
+        {
+          "letter": "E",
+          "text": "d;e"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le rhabdomyosarcome est un sarcome à différenciation musculaire striée (d) avec présence de rhabdomyoblastes caractéristiques (e)."
+    },
+    {
+      "question_number": 20,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant le liposarcome bien différencié :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Il s'agit d'un sarcome à différenciation incertaine"
+        },
+        {
+          "letter": "b",
+          "text": "Il s'agit d'un sarcome à différentiation cartilagineuse"
+        },
+        {
+          "letter": "c",
+          "text": "Il s'agit d'un sarcome à différentiation adipeuse"
+        },
+        {
+          "letter": "d",
+          "text": "La cuisse constitue une localisation fréquente de ce sarcome"
+        },
+        {
+          "letter": "e",
+          "text": "Il est caractérisé par des amplifications géniques du MDM2 et CDK4"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;d;e"
+        },
+        {
+          "letter": "B",
+          "text": "c;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "a;d;e"
+        },
+        {
+          "letter": "D",
+          "text": "aucune proposition n'est juste"
+        },
+        {
+          "letter": "E",
+          "text": "Toutes les propositions sont justes"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le liposarcome bien différencié présente une différenciation adipeuse (c), siège souvent à la cuisse (d) et présente l'amplification MDM2/CDK4 (e)."
+    },
+    {
+      "question_number": 21,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "L'évaluation du grade SBR de Scarff Bloom Richardson est basé sur",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "La différentiation glandulaire"
+        },
+        {
+          "letter": "b",
+          "text": "L'évaluation du ki67 par étude immunohistochimique"
+        },
+        {
+          "letter": "c",
+          "text": "Le nombre de mitoses"
+        },
+        {
+          "letter": "d",
+          "text": "Les atypies cyto-nucléaires"
+        },
+        {
+          "letter": "e",
+          "text": "Le statut HER2 du cancer du sein"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,b,c,d"
+        },
+        {
+          "letter": "B",
+          "text": "d,e"
+        },
+        {
+          "letter": "C",
+          "text": "c,d"
+        },
+        {
+          "letter": "D",
+          "text": "a,b"
+        },
+        {
+          "letter": "E",
+          "text": "a,c,d"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le grade SBR repose sur trois critères : formation de tubules (différenciation), pléomorphisme nucléaire (atypies) et index mitotique. Le Ki67 et HER2 ne font pas partie du score SBR."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

@@ -1,0 +1,351 @@
+{
+  "page_header": "EXAMEN ENDOCRINO 2025 SN (Endocrinologie, QCM multi-réponses)",
+  "questions": [
+    {
+      "question_number": 14,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les étiologies de l'hypogonadisme hypogonadotrope chez la fille :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tuberculose hypophysaire"
+        },
+        {
+          "letter": "B",
+          "text": "Craniopharyngiome"
+        },
+        {
+          "letter": "C",
+          "text": "Syndrome de turner"
+        },
+        {
+          "letter": "D",
+          "text": "Radiothérapie cérébrale"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypogonadisme hypogonadotrope est d'origine centrale (hypophyse/hypothalamus). La tuberculose, le craniopharyngiome et la radiothérapie sont des causes centrales. Le syndrome de Turner est une cause périphérique (hypergonadotrope)."
+    },
+    {
+      "question_number": 15,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les signes d'hypocalcémie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "des paresthésies"
+        },
+        {
+          "letter": "B",
+          "text": "un amaigrissement"
+        },
+        {
+          "letter": "C",
+          "text": "un allongement de l'espace QT"
+        },
+        {
+          "letter": "D",
+          "text": "une cataracte"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypocalcémie se manifeste par une hyperexcitabilité neuromusculaire (paresthésies), des signes ECG (allongement du QT) et des complications trophiques chroniques (cataracte)."
+    },
+    {
+      "question_number": 16,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les signes cliniques de l'hypercalcémie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hypertension artérielle"
+        },
+        {
+          "letter": "B",
+          "text": "Extrasystole ventriculaire"
+        },
+        {
+          "letter": "C",
+          "text": "Bloc auriculo-ventriculaire"
+        },
+        {
+          "letter": "D",
+          "text": "Allongement de l'espace QT à l'ECG"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hypercalcémie peut provoquer une HTA et des troubles du rythme ou de la conduction (ESV, BAV). À l'ECG, elle raccourcit l'espace QT (contrairement à l'hypocalcémie)."
+    },
+    {
+      "question_number": 17,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'adénome parathyroïdien peut être responsable des anomalies biologiques suivantes :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elévation de la calcémie"
+        },
+        {
+          "letter": "B",
+          "text": "Diminution de la calciurie de 24h"
+        },
+        {
+          "letter": "C",
+          "text": "Elévation de la parathormone 1-84"
+        },
+        {
+          "letter": "D",
+          "text": "Taux normal de la parathormone 1-84"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hyperparathyroïdie primaire (adénome) se définit par une hypercalcémie avec une PTH élevée ou 'inappropriément normale'. La calciurie est généralement augmentée."
+    },
+    {
+      "question_number": 18,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "On évoque un cancer papillaire de la thyroïde devant :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Age de moins de 16 ans"
+        },
+        {
+          "letter": "B",
+          "text": "Antécédents d'irradiation cervicale"
+        },
+        {
+          "letter": "C",
+          "text": "Hérédité familiale de néoplasie endocrinienne multiple type 2"
+        },
+        {
+          "letter": "D",
+          "text": "Calcitonine élevée"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "Le cancer papillaire est favorisé par l'irradiation et survient souvent chez le sujet jeune. La NEM2 et l'élévation de la calcitonine sont spécifiques du cancer médullaire de la thyroïde."
+    },
+    {
+      "question_number": 19,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'hypercholestérolémie pure est une dyslipidémie primaire :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "A transmission monogénique familiale"
+        },
+        {
+          "letter": "B",
+          "text": "Elle peut être causée par des erreurs nutritionnels"
+        },
+        {
+          "letter": "C",
+          "text": "Est responsable d'une augmentation exclusive du LDL"
+        },
+        {
+          "letter": "D",
+          "text": "Est responsable d'une augmentation du LDL et des Triglycérides"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'étudiant a fait une erreur (X rouge). L'hypercholestérolémie pure (Type IIa) peut être monogénique ou polygénique (liée à l'alimentation). Elle se caractérise par une hausse isolée du LDL. L'option D correspond à une dyslipidémie mixte (IIb)."
+    },
+    {
+      "question_number": 20,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'index glycémique d'un aliment est :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elevé pour un jus d'orange"
+        },
+        {
+          "letter": "B",
+          "text": "Diminué pour le miel"
+        },
+        {
+          "letter": "C",
+          "text": "Diminué pour une pomme non épluchée"
+        },
+        {
+          "letter": "D",
+          "text": "Elevé pour une salade de légumes"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Le jus de fruit a un IG plus élevé que le fruit entier car il manque de fibres. La peau des fruits (pomme non épluchée) abaisse l'IG. Le miel a un IG élevé et les légumes un IG bas."
+    },
+    {
+      "question_number": 21,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Pour une alimentation enrichie en acides gras polyinsaturés, on propose de rajouter :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les noix"
+        },
+        {
+          "letter": "B",
+          "text": "Huile de colza"
+        },
+        {
+          "letter": "C",
+          "text": "Huile d'olive"
+        },
+        {
+          "letter": "D",
+          "text": "Produits marins"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Les noix, l'huile de colza et les poissons (produits marins) sont riches en acides gras polyinsaturés (Oméga 3 et 6). L'huile d'olive est principalement composée d'acides gras mono-insaturés (Oméga 9)."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

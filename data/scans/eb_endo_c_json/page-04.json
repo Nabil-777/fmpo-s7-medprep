@@ -1,0 +1,132 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 7,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'insuline basale :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "peut être administrée par une insuline NPH"
+        },
+        {
+          "letter": "B",
+          "text": "peut être administrée par une insuline analogue longue"
+        },
+        {
+          "letter": "C",
+          "text": "peut être initiée à la dose de 0.3 mg/kg/jour"
+        },
+        {
+          "letter": "D",
+          "text": "peut être initiée chez un diabétique type 2 après échec d'un traitement oral maximal"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "UI / Kg/jour",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'insuline basale peut être de type NPH ou analogue lent. La dose d'initiation recommandée est généralement de 0,1 à 0,2 UI/kg/jour, et non 0,3 mg/kg/jour (erreur d'unité et de dose). Elle est indiquée après échec des antidiabétiques oraux."
+    },
+    {
+      "question_number": 8,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La neuropathie périphérique est :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "est la plus fréquente des neuropathies"
+        },
+        {
+          "letter": "B",
+          "text": "elle touche essentiellement le membre inférieur de façon symétrique"
+        },
+        {
+          "letter": "C",
+          "text": "se manifeste essentiellement par une atrophie des muscles interosseux"
+        },
+        {
+          "letter": "D",
+          "text": "son diagnostic nécessite la réalisation d'un électromyogramme"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "et bilatérale; rarement; est clinique",
+      "verified_correct_letters": [
+        "A",
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "La neuropathie diabétique est la plus fréquente. Elle est typiquement distale, symétrique et bilatérale (en chaussettes). Le diagnostic est avant tout clinique, l'EMG n'est pas systématique."
+    },
+    {
+      "question_number": 9,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les traitements efficaces de la neuropathie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le paracétamol"
+        },
+        {
+          "letter": "B",
+          "text": "Les anti-inflammatoires non-stéroïdiens"
+        },
+        {
+          "letter": "C",
+          "text": "L'équilibre glycémique"
+        },
+        {
+          "letter": "D",
+          "text": "Les antidépresseurs type Duloxétine"
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "Inefficace; Inefficace; + Les Neuroleptiques",
+      "verified_correct_letters": [
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le paracétamol et les AINS sont inefficaces sur les douleurs neuropathiques. L'équilibre glycémique est le traitement de fond, et la duloxétine est un traitement symptomatique validé."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

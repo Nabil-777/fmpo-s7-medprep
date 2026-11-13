@@ -1,0 +1,156 @@
+{
+  "page_header": "QE PR SADKI (Corrigé) (Hématologie)",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les traitements d'une thrombopénie immunologique corticodépendante:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Splénectomie"
+        },
+        {
+          "letter": "B",
+          "text": "Immunoglobulines intraveineuses"
+        },
+        {
+          "letter": "C",
+          "text": "Anti CD20"
+        },
+        {
+          "letter": "D",
+          "text": "Transfusion plaquettaire"
+        },
+        {
+          "letter": "E",
+          "text": "Agonistes des récepteurs de la thrombopotétine"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "=> Rituximab",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La splénectomie, le rituximab (anti-CD20) et les agonistes du récepteur de la TPO sont des traitements de deuxième ligne validés. La transfusion plaquettaire est inutile en dehors d'une urgence hémorragique vitale."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Concernant la thrombopénie immunologique :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un diagnostic d'élimination"
+        },
+        {
+          "letter": "B",
+          "text": "Peut-être compliquée d'hémorragies graves"
+        },
+        {
+          "letter": "C",
+          "text": "La bulle hémorragique est un signe de gravité de la maladie"
+        },
+        {
+          "letter": "D",
+          "text": "L'objectif du traitement est d'avoir un taux de plaquette >30 000 éléments/mm³"
+        },
+        {
+          "letter": "E",
+          "text": "En l'absence du syndrome hémorragique, le traitement est systématique quel que soit le taux de plaquette"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "Plaquettes < 30.000 éléments /mm³",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le PTI est un diagnostic d'exclusion. Les bulles hémorragiques buccales sont un signe de gravité. Le traitement n'est pas systématique si le taux est > 30 G/L sans syndrome hémorragique."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les propositions thérapeutiques utilisées dans la thrombopénie immunologique",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corticothérapie"
+        },
+        {
+          "letter": "B",
+          "text": "Les agonistes de la thrombopoïétine"
+        },
+        {
+          "letter": "C",
+          "text": "Le plasma frais congelé"
+        },
+        {
+          "letter": "D",
+          "text": "Les immunoglobulines"
+        },
+        {
+          "letter": "E",
+          "text": "L'abstention thérapeutique"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "en l'absence d'indication",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La corticothérapie et les IVIG sont des traitements de première ligne. L'abstention est possible si le taux est stable et asymptomatique. Le PFC n'a aucune place dans le traitement du PTI."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

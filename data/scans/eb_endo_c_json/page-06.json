@@ -1,0 +1,86 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 12,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les signes d'une acromégalie, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des paresthésies"
+        },
+        {
+          "letter": "B",
+          "text": "Une saillie des arcades sourcilières"
+        },
+        {
+          "letter": "C",
+          "text": "Un prognathisme"
+        },
+        {
+          "letter": "D",
+          "text": "Des ronflements"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "L'acromégalie se manifeste par une hypertrophie des tissus mous et osseux (prognathisme, arcades sourcilières), des complications neurologiques comme le syndrome du canal carpien (paresthésies) et des troubles respiratoires liés à l'hypertrophie des tissus pharyngés (ronflements/SAOS)."
+    },
+    {
+      "question_number": 13,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La maladie de Cushing :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "est un hypercortisolisme ACTH dépendant"
+        },
+        {
+          "letter": "B",
+          "text": "est une cause rare du syndrome de Cushing"
+        },
+        {
+          "letter": "C",
+          "text": "est liée à la présence d'une tumeur pulmonaire secrétant l'ACTH"
+        },
+        {
+          "letter": "D",
+          "text": "son traitement est chirurgical après une préparation médicale par le kétoconazole"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "la cause plus fréquente; d'un Adénome hypophysaire",
+      "verified_correct_letters": [
+        "A",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "La maladie de Cushing est la cause la plus fréquente de syndrome de Cushing endogène (adénome hypophysaire à ACTH). Elle est ACTH-dépendante. Le traitement de référence est l'adénomectomie transphénoïdale, souvent préparée médicalement."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

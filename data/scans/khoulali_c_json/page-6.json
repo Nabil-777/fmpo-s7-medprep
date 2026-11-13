@@ -1,0 +1,26 @@
+{
+  "page_header": "TRAUMATISMES VERTEBROMEDULLAIRES - 1. PRISE EN CHARGE AUX URGENCES",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "Prise en charge aux urgences des traumatismes vertébromédullaires",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Sur les lieux de l'accident : Immobilisation, respect de l'axe rachidien, maintien des fonctions vitales, ramassage en monobloc, examen clinique initial consigné et daté.",
+        "A l'hôpital - Interrogatoire : Circonstances, mécanismes, ATCD, fiche de transport, traitement instauré, notion d'aggravation clinique.",
+        "A l'hôpital - Examen clinique : Fonctions vitales (troubles hémodynamiques/respiratoires), examen du rachis (colonne, courbures, épineuses), examen neurologique complet (motricité, tonus, réflexes, sensibilité, signes végétatifs, périnéale), examen somatique général.",
+        "Synthèse : Distinguer l'absence de troubles neurologiques de la présence de signes neurologiques (niveau lésionnel et sévérité)."
+      ],
+      "explanation": "Ce document est une fiche de synthèse structurée pour la prise en charge initiale des traumatismes vertébromédullaires, soulignant l'importance cruciale de l'immobilisation pré-hospitalière et de l'évaluation neurologique exhaustive (notamment le niveau sensitif et les fonctions sphinctériennes)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

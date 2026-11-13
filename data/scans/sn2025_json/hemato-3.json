@@ -1,0 +1,329 @@
+{
+  "page_header": "EXAMEN HEMATO-ONCO 2025 SN",
+  "questions": [
+    {
+      "question_number": 13,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le traitement de la Leucémie lymphoïde chronique dépend de :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stade de la maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Taux de lymphocytes"
+        },
+        {
+          "letter": "C",
+          "text": "La présence ou non de la délétion 17 p"
+        },
+        {
+          "letter": "D",
+          "text": "Score de Matutes"
+        },
+        {
+          "letter": "E",
+          "text": "Le nombre d'aires ganglionnaires atteints"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "ABCE",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le traitement de la LLC repose sur le stade (Binet), les critères de progression (taux de lymphocytes), les facteurs pronostiques génétiques (del 17p) et l'extension ganglionnaire."
+    },
+    {
+      "question_number": 14,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'autogreffe est indiquée dans le myélome :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "En première intention chez le sujet jeune"
+        },
+        {
+          "letter": "B",
+          "text": "En premier intention chez le sujet âgé"
+        },
+        {
+          "letter": "C",
+          "text": "En 2ème intention chez le sujet jeune"
+        },
+        {
+          "letter": "D",
+          "text": "En 2ème intention chez le sujet âgé"
+        },
+        {
+          "letter": "E",
+          "text": "N'est jamais indiquée"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'autogreffe de cellules souches hématopoïétiques est le standard de traitement en première intention pour les patients éligibles (sujets jeunes) et peut être utilisée en deuxième intention en cas de rechute."
+    },
+    {
+      "question_number": 15,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les complications du myélome multiples sont:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'amylose AA"
+        },
+        {
+          "letter": "B",
+          "text": "Compression médullaire"
+        },
+        {
+          "letter": "C",
+          "text": "Anémie"
+        },
+        {
+          "letter": "D",
+          "text": "Fracture pathologique"
+        },
+        {
+          "letter": "E",
+          "text": "Infections à répétition"
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Toutes ces options sont des complications classiques du myélome multiple (amylose AL, complications osseuses, infectieuses, hématologiques et neurologiques)."
+    },
+    {
+      "question_number": 16,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les traitements de la myélofibrose primitive :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruxolitinib"
+        },
+        {
+          "letter": "B",
+          "text": "Hydroxyurée"
+        },
+        {
+          "letter": "C",
+          "text": "Autogreffe"
+        },
+        {
+          "letter": "D",
+          "text": "Érythropoïétine pour l'anémie"
+        },
+        {
+          "letter": "E",
+          "text": "Allogreffe de CSH"
+        }
+      ],
+      "marked_letters": [],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "ABDE",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le Ruxolitinib, l'hydroxyurée, l'EPO et l'allogreffe sont des options thérapeutiques. L'autogreffe n'est pas un traitement standard de la myélofibrose."
+    },
+    {
+      "question_number": 17,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le diagnostic de la myélofibrose primitive peut être évoqué devant :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une énorme splénomégalie"
+        },
+        {
+          "letter": "B",
+          "text": "Une insuffisance rénale"
+        },
+        {
+          "letter": "C",
+          "text": "Présence de dacryocytes sur le frottis sanguin"
+        },
+        {
+          "letter": "D",
+          "text": "Présence de la mutation CALR"
+        },
+        {
+          "letter": "E",
+          "text": "Une dystrophie mégacaryocytaire à la biopsie ostéomédullaire"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La myélofibrose se caractérise par une splénomégalie, une myélémie avec dacryocytes, des mutations drivers (JAK2, CALR, MPL) et une fibrose médullaire avec dystrophie mégacaryocytaire."
+    },
+    {
+      "question_number": 18,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le bilan à demander en cas de thrombopénie :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Taux de prothrombine"
+        },
+        {
+          "letter": "B",
+          "text": "Un frottis sanguin"
+        },
+        {
+          "letter": "C",
+          "text": "Un bilan infectieux"
+        },
+        {
+          "letter": "D",
+          "text": "Une sérologie VIH"
+        },
+        {
+          "letter": "E",
+          "text": "Un temps de saignement"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "ABCD",
+      "verified_correct_letters": [
+        "B",
+        "C",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le bilan de thrombopénie inclut frottis, bilan infectieux et sérologies (VIH, VHC). Le TP et le temps de saignement ne sont pas des examens de première intention pour une thrombopénie isolée."
+    },
+    {
+      "question_number": 19,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le diagnostic de purpura vasculaire repose sur :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Purpura déclive membre inférieur"
+        },
+        {
+          "letter": "B",
+          "text": "Temps de saignement allongé"
+        },
+        {
+          "letter": "C",
+          "text": "Taux de prothrombine bas"
+        },
+        {
+          "letter": "D",
+          "text": "Thrombopénie"
+        },
+        {
+          "letter": "E",
+          "text": "Bilan d'hémostase normal"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le purpura vasculaire est un purpura non thrombopénique, donc le bilan d'hémostase est normal et la numération plaquettaire est normale."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

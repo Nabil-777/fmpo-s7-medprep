@@ -1,0 +1,258 @@
+{
+  "page_header": "Université Mohammed Premier, Faculté de Médecine et de Pharmacie Oujda. Epreuve d’Anatomie pathologique 2 et 3. Première session Premier Quadrimestre. 4ème année de médecine, 2024-2025. Durée : 60 min",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les gastrites :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Elles correspondent à une atteinte vasculaire de la muqueuse gastrique"
+        },
+        {
+          "letter": "b",
+          "text": "Leur diagnostic se fait sur pièce de gastrectomie"
+        },
+        {
+          "letter": "c",
+          "text": "Leur étiologie la plus fréquente est l'infection à l'HP"
+        },
+        {
+          "letter": "d",
+          "text": "Ont des aspects endoscopiques différents"
+        },
+        {
+          "letter": "e",
+          "text": "évoluent toutes vers un cancer"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;d;e"
+        },
+        {
+          "letter": "B",
+          "text": "c;d;e"
+        },
+        {
+          "letter": "C",
+          "text": "d;c"
+        },
+        {
+          "letter": "D",
+          "text": "aucune proposition n'est juste"
+        },
+        {
+          "letter": "E",
+          "text": "e"
+        }
+      ],
+      "marked_letters": [
+        "C"
+      ],
+      "margin_correct_letters": [
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "29/30 = 19,33/20",
+      "verified_correct_letters": [
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "Les gastrites sont des processus inflammatoires (non vasculaires). L'étiologie dominante est Helicobacter pylori (c). Le diagnostic repose sur la biopsie endoscopique et non la gastrectomie (b). L'aspect endoscopique est variable (d). Seule une minorité évolue vers un cancer (e)."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant l'HP",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Sécrète des enzymes capables de détruire la musculeuse gastrique"
+        },
+        {
+          "letter": "b",
+          "text": "Possède des enzymes capables d'altérer les mucines"
+        },
+        {
+          "letter": "c",
+          "text": "Entraine une inflammation aigue puis chronique"
+        },
+        {
+          "letter": "d",
+          "text": "Peut être mis en évidence sur l'étude histologique de la biopsie"
+        },
+        {
+          "letter": "e",
+          "text": "sécrète des auto-anticorps capables de détruire la paroi gastrique"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "b;d;e"
+        },
+        {
+          "letter": "B",
+          "text": "b,c,d"
+        },
+        {
+          "letter": "C",
+          "text": "c,d"
+        },
+        {
+          "letter": "D",
+          "text": "a,b"
+        },
+        {
+          "letter": "E",
+          "text": "d,e,a"
+        }
+      ],
+      "marked_letters": [
+        "B"
+      ],
+      "margin_correct_letters": [
+        "B"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B"
+      ],
+      "rubric_points": [],
+      "explanation": "H. pylori altère le mucus via des protéases/lipases (b), induit une gastrite chronique active (c) et est identifié par l'examen histologique (d). Il ne détruit pas directement la musculeuse et ne sécrète pas d'auto-anticorps (mécanisme de la gastrite de Biermer)."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Le lymphome gastrique de type MALT :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Dérivent des lymphocytes B de la zone marginale"
+        },
+        {
+          "letter": "b",
+          "text": "Peut survenir au décours d'une gastrite chronique à HP"
+        },
+        {
+          "letter": "c",
+          "text": "est un lymphome B de bas grade"
+        },
+        {
+          "letter": "d",
+          "text": "Est un lymphome T"
+        },
+        {
+          "letter": "e",
+          "text": "Est traité uniquement par chimiothérapie"
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,b,c"
+        },
+        {
+          "letter": "B",
+          "text": "b,c,d"
+        },
+        {
+          "letter": "C",
+          "text": "d;e"
+        },
+        {
+          "letter": "D",
+          "text": "a,c"
+        },
+        {
+          "letter": "E",
+          "text": "a,c,e"
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "Le lymphome MALT est un lymphome B (non T) de bas grade issu de la zone marginale, fortement associé à l'infection chronique par H. pylori. L'éradication de HP peut suffire au traitement des stades précoces."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_group",
+      "stem": "Concernant les lymphomes :",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Les lymphomes B sont plus fréquents que les lymphomes T."
+        },
+        {
+          "letter": "b",
+          "text": "les lymphomes non hodgkiniens sont plus fréquents que les lymphomes de hodgkin"
+        },
+        {
+          "letter": "c",
+          "text": "Le diagnostic nécessite toujours le recours à l'immunohistochimie."
+        },
+        {
+          "letter": "d",
+          "text": "La taille de la cellule est un élément important pour le diagnostic histologique"
+        },
+        {
+          "letter": "e",
+          "text": "aucune réponse correcte."
+        }
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "a,b,c,d"
+        },
+        {
+          "letter": "B",
+          "text": "b,d"
+        },
+        {
+          "letter": "C",
+          "text": "c"
+        },
+        {
+          "letter": "D",
+          "text": "c,d"
+        },
+        {
+          "letter": "E",
+          "text": "e"
+        }
+      ],
+      "marked_letters": [
+        "A"
+      ],
+      "margin_correct_letters": [
+        "A"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A"
+      ],
+      "rubric_points": [],
+      "explanation": "En pathologie lymphoïde, les lignées B et les formes non-hodgkiniennes sont statistiquement prédominantes. L'IHC est indispensable pour le phénotypage et la taille cellulaire est un critère morphologique clé de classification."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

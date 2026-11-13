@@ -1,0 +1,227 @@
+{
+  "page_header": "PATHOLOGIE HÉMATOLOGIQUE ( PR.SADKI )",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Devant un syndrome hémorragique, les examens de première intention sont :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "TCA"
+        },
+        {
+          "letter": "B",
+          "text": "Taux de plaquettes"
+        },
+        {
+          "letter": "C",
+          "text": "Fibrinogène"
+        },
+        {
+          "letter": "D",
+          "text": "Temps de saignement"
+        },
+        {
+          "letter": "E",
+          "text": "Taux de prothrombine"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le bilan d'hémostase de première intention comprend systématiquement la numération plaquettaire, le TP et le TCA. Le temps de saignement est également un examen classique de première intention pour explorer l'hémostase primaire."
+    },
+    {
+      "question_number": 2,
+      "vignette_text": "Patient de 68ans, qui se présente avec hématome spontané du bras . Quels sont les examens à demander en première intention ?",
+      "question_type": "qcm_multi",
+      "stem": "Quels sont les examens à demander en première intention ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "TP"
+        },
+        {
+          "letter": "B",
+          "text": "TCA"
+        },
+        {
+          "letter": "C",
+          "text": "Facteur V"
+        },
+        {
+          "letter": "D",
+          "text": "Taux de plaquette"
+        },
+        {
+          "letter": "E",
+          "text": "Fibrinogène"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Devant un hématome, il faut explorer les deux voies de la coagulation (TP et TCA) ainsi que le taux de plaquettes et le fibrinogène pour éliminer une coagulopathie ou une thrombopénie."
+    },
+    {
+      "question_number": 3,
+      "vignette_text": "Un syndrome hémorragique avec un taux de plaquette normal, TP normal et TCA normal doit faire évoquer :",
+      "question_type": "qcm_multi",
+      "stem": "Un syndrome hémorragique avec un taux de plaquette normal, TP normal et TCA normal doit faire évoquer :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hémophilie"
+        },
+        {
+          "letter": "B",
+          "text": "Malabsorption"
+        },
+        {
+          "letter": "C",
+          "text": "Maladie de Willebrand"
+        },
+        {
+          "letter": "D",
+          "text": "Coagulation intravasculaire disséminée"
+        },
+        {
+          "letter": "E",
+          "text": "Déficit en facteur XIII"
+        }
+      ],
+      "marked_letters": [
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "A: TCA allongé, B: TP bas, C: TCA allongé",
+      "verified_correct_letters": [
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le déficit en facteur XIII est une anomalie rare de la coagulation qui ne modifie pas les tests de routine (TP, TCA, plaquettes) mais provoque des hémorragies sévères."
+    },
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'hémophilie est caractérisée par :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Allongement isolé du TCA"
+        },
+        {
+          "letter": "B",
+          "text": "L'allongement du TCA et la thrombopénie"
+        },
+        {
+          "letter": "C",
+          "text": "Un TP bas et un TCA allongé"
+        },
+        {
+          "letter": "D",
+          "text": "Une diminution du facteur VIII ou IX"
+        },
+        {
+          "letter": "E",
+          "text": "La substitution en facteur déficitaire constitue l'une des thérapeutiques utilisées"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hémophilie (A ou B) est un déficit en facteur VIII ou IX entraînant un allongement isolé du TCA. Le traitement repose sur la substitution du facteur manquant."
+    },
+    {
+      "question_number": 5,
+      "vignette_text": "Patiente de 45 ans, admise pour purpura des deux membres inférieurs. Le bilan réalisé a objectivé un taux de Plaquettes à 15 000/mm3 sans autres anomalies. Quels sont les signes de gravité à rechercher ?",
+      "question_type": "qcm_multi",
+      "stem": "Quels sont les signes de gravité à rechercher ?",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "État de choc hémorragique"
+        },
+        {
+          "letter": "B",
+          "text": "Bulle hémorragique"
+        },
+        {
+          "letter": "C",
+          "text": "Céphalées"
+        },
+        {
+          "letter": "D",
+          "text": "Gingivorragies"
+        },
+        {
+          "letter": "E",
+          "text": "Flou visuel"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "En cas de thrombopénie sévère (15 000/mm3), les signes de gravité sont ceux d'une hémorragie viscérale ou neurologique (céphalées, flou visuel, bulles buccales, choc hémorragique)."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

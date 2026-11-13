@@ -1,0 +1,138 @@
+{
+  "page_header": "EXAMEN HEMATO-ONCO 2025 SN (Hématologie-Oncologie Q33-35)",
+  "questions": [
+    {
+      "question_number": 33,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La chimiothérapie anti tumorale:",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un traitement non spécifique."
+        },
+        {
+          "letter": "B",
+          "text": "Peut être associée à une Radiothérapie."
+        },
+        {
+          "letter": "C",
+          "text": "Agit uniquement sur les cellules tumorales."
+        },
+        {
+          "letter": "D",
+          "text": "Est administrée exclusivement par voie intraveineuse."
+        },
+        {
+          "letter": "E",
+          "text": "Est responsable d'une toxicité hématologique."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La chimiothérapie est un traitement systémique non spécifique qui agit sur les cellules à division rapide (d'où la toxicité hématologique). Elle peut être combinée à la radiothérapie et administrée par diverses voies (orale, intraveineuse, etc.)."
+    },
+    {
+      "question_number": 34,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'angiogenèse est :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "La formation de nouveaux vaisseaux."
+        },
+        {
+          "letter": "B",
+          "text": "Un phénomène qui permet à la tumeur de croître."
+        },
+        {
+          "letter": "C",
+          "text": "Un phénomène dont le principal facteur est le FGF."
+        },
+        {
+          "letter": "D",
+          "text": "Un phénomène qui diminue le pouvoir invasif et métastatique des tumeurs."
+        },
+        {
+          "letter": "E",
+          "text": "Bloquée par l'hormonothérapie."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'angiogenèse tumorale est la formation de nouveaux vaisseaux sanguins favorisant la croissance tumorale et les métastases, stimulée notamment par le VEGF et le FGF. Elle n'est pas bloquée par l'hormonothérapie."
+    },
+    {
+      "question_number": 35,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "L'hormonothérapie anti tumorale :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est utilisée pour traiter le cancer de la prostate"
+        },
+        {
+          "letter": "B",
+          "text": "Est utilisée pour traiter le cancer du colon"
+        },
+        {
+          "letter": "C",
+          "text": "Peut agir sur l'axe hypothalamo - hypophysaire"
+        },
+        {
+          "letter": "D",
+          "text": "Peut agir sur le récepteur HER2"
+        },
+        {
+          "letter": "E",
+          "text": "Est utilisée pour traiter le cancer du sein"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "E"
+      ],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'hormonothérapie est un traitement standard pour les cancers hormono-dépendants comme le cancer du sein (via modulateurs des récepteurs aux œstrogènes) et de la prostate (via blocage de l'axe hypothalamo-hypophysaire). HER2 est une cible pour les thérapies ciblées, pas pour l'hormonothérapie."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

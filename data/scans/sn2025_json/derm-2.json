@@ -1,0 +1,296 @@
+{
+  "page_header": "EXAMEN DERMATO 2025 SN (Dermatologie Q23-52, QCM multi-réponses, marge droite = réponses vertes)",
+  "questions": [
+    {
+      "question_number": 27,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La syphilis primaire :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut être associée au chancre mou."
+        },
+        {
+          "letter": "B",
+          "text": "Est caractérisée cliniquement par un chancre et des adénopathies satellites."
+        },
+        {
+          "letter": "C",
+          "text": "Au Maroc, en pratique, le diagnostic est posé par la mise en évidence du spirochète au microscope à fond noir."
+        },
+        {
+          "letter": "D",
+          "text": "Le chancre est douloureux."
+        },
+        {
+          "letter": "E",
+          "text": "Une seule injection intramusculaire de Benzathine Benzyl pénicilline en constitue le traitement."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le chancre syphilitique est classiquement indolore (D faux). En pratique courante, le diagnostic repose sur la sérologie car le microscope à fond noir est peu disponible (C faux). Le traitement de référence est l'Extencilline en dose unique (E vrai)."
+    },
+    {
+      "question_number": 28,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "La syphilis secondaire :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est caractérisée cliniquement par une ulcération génitale."
+        },
+        {
+          "letter": "B",
+          "text": "Est une infection bactérienne immunisante."
+        },
+        {
+          "letter": "C",
+          "text": "Est contagieuse."
+        },
+        {
+          "letter": "D",
+          "text": "Le TPHA est positif."
+        },
+        {
+          "letter": "E",
+          "text": "Peut s'accompagner d'ulcère génital."
+        }
+      ],
+      "marked_letters": [
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "La syphilis n'est pas immunisante (B faux). Bien que la phase secondaire soit cutanéo-muqueuse, elle peut débuter alors que le chancre initial (ulcération) n'est pas encore cicatrisé (A et E vrais). Le TPHA est toujours positif à ce stade (D vrai)."
+    },
+    {
+      "question_number": 29,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le chancre mou :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une infection sexuellement transmissible."
+        },
+        {
+          "letter": "B",
+          "text": "Peut être une porte d'entrée aux infections sexuellement transmissibles."
+        },
+        {
+          "letter": "C",
+          "text": "Cliniquement, le chancre est induré."
+        },
+        {
+          "letter": "D",
+          "text": "L'adénopathie est douloureuse."
+        },
+        {
+          "letter": "E",
+          "text": "Sa localisation préférentielle est la muqueuse buccale."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "D"
+      ],
+      "rubric_points": [],
+      "explanation": "Le chancre mou est, comme son nom l'indique, non induré (C faux) et s'accompagne d'une adénopathie inflammatoire douloureuse (D vrai). Sa localisation est quasi exclusivement génitale (E faux)."
+    },
+    {
+      "question_number": 30,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Le chancre mou :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cliniquement, on retrouve une ulcération indolore."
+        },
+        {
+          "letter": "B",
+          "text": "Peut être compliqué de phimosis."
+        },
+        {
+          "letter": "C",
+          "text": "Son traitement repose sur Fluconazole."
+        },
+        {
+          "letter": "D",
+          "text": "Est secondaire à l'infection par Haemophilus Ducreyi."
+        },
+        {
+          "letter": "E",
+          "text": "Peut être associé au chancre syphilitique."
+        }
+      ],
+      "marked_letters": [
+        "B",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "B",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "B",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "Le chancre mou est très douloureux (A faux). Il est causé par le bacille de Ducrey (D vrai). Le Fluconazole est un antifongique, inefficace ici (C faux). La co-infection avec la syphilis est possible (E vrai)."
+    },
+    {
+      "question_number": 31,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les urétrites :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correspondent à des écoulements anormaux issus des orifices génitaux."
+        },
+        {
+          "letter": "B",
+          "text": "Seul le Chlamydia en est le germe en cause."
+        },
+        {
+          "letter": "C",
+          "text": "Sont définit par leur aspect clinique et cytologique."
+        },
+        {
+          "letter": "D",
+          "text": "Sont toujours aigues."
+        },
+        {
+          "letter": "E",
+          "text": "A l'examen clinique, on retrouve souvent une ulcération génitale associée."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C"
+      ],
+      "rubric_points": [],
+      "explanation": "L'urétrite est plurimicrobienne (Gonocoque, Chlamydia, etc., donc B faux). Elle peut être subaiguë ou chronique (D faux). L'ulcération n'est pas un signe classique d'urétrite isolée (E faux)."
+    },
+    {
+      "question_number": 32,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Les urétrites :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secondaires à l'infection par le Gonocoque sont le plus souvent d'installation aigue."
+        },
+        {
+          "letter": "B",
+          "text": "Secondaires à l'infection par le Chlamydia sont d'installation brutale en général."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent se compliquer de stérilité."
+        },
+        {
+          "letter": "D",
+          "text": "Sont considérées comme des infections sexuellement transmissibles."
+        },
+        {
+          "letter": "E",
+          "text": "Peuvent être traité par Ceftriaxone 250 mg en monodose associé à la Doxycycline 100 mg*2/j pendant 7 j."
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "rubric_points": [],
+      "explanation": "L'urétrite à Chlamydia est typiquement subaiguë ou insidieuse, contrairement au Gonocoque (B faux). Le traitement probabiliste associe effectivement une dose de Ceftriaxone et un cycle de Doxycycline (E vrai)."
+    }
+  ],
+  "model_used": "gemini-3-flash-preview"
+}

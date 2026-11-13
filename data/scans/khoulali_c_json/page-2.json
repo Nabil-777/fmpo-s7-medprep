@@ -1,0 +1,25 @@
+{
+  "page_header": "3. ACROMEGALIE : DIAGNOSTIC POSITIF ET TRAITEMENT",
+  "questions": [
+    {
+      "question_number": 1,
+      "vignette_text": null,
+      "question_type": "synthesis",
+      "stem": "ACROMEGALIE : DIAGNOSTIC POSITIF ET TRAITEMENT",
+      "statements": [],
+      "options": [],
+      "marked_letters": [],
+      "margin_correct_letters": [],
+      "student_mistake_flag": false,
+      "handwritten_notes": "",
+      "verified_correct_letters": [],
+      "rubric_points": [
+        "Symptomatologie clinique : Signes fonctionnels (asthénie, douleurs articulaires, paresthésies, céphalées) et syndrome dystrophique (tête allongée, prognathisme, mains/pieds élargis, organomégalie, ronflement).",
+        "Examens complémentaires : Biologie (IGF1 élevée, test de freinage HGPO si doute), Imagerie (IRM hypothalamo-hypophysaire est l'examen de choix).",
+        "Traitement : Chirurgical (adénomectomie sélective par voie endonasale transphénoïdale en 1ère intention) et Médical (analogues de la somatostatine)."
+      ],
+      "explanation": "L'acromégalie est due à une hypersécrétion de GH. Le diagnostic repose sur l'élévation de l'IGF1 et l'absence de freinage de la GH après HGPO. L'IRM est l'examen clé pour localiser l'adénome hypophysaire."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}

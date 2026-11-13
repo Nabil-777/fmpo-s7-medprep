@@ -1,0 +1,55 @@
+{
+  "page_header": "CORRECTION EXAMEN BLANC ENDOCRINO",
+  "questions": [
+    {
+      "question_number": 4,
+      "vignette_text": null,
+      "question_type": "qcm_multi",
+      "stem": "Parmi les indications d'une insulinothérapie chez un diabétique type 2, on retrouve :",
+      "statements": [],
+      "options": [
+        {
+          "letter": "A",
+          "text": "un échec d'un traitement oral maximal"
+        },
+        {
+          "letter": "B",
+          "text": "la présence de signe d'insulino-carence"
+        },
+        {
+          "letter": "C",
+          "text": "lors d'une grossesse"
+        },
+        {
+          "letter": "D",
+          "text": "systématiquement dès le diagnostic du diabète"
+        }
+      ],
+      "marked_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "margin_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "student_mistake_flag": true,
+      "handwritten_notes": "=> AMG (à côté de B), + Episode infectieux, + En per-opératoire, + Au cours d'une corticothérapie, + En cas de traumatisme",
+      "verified_correct_letters": [
+        "A",
+        "B",
+        "C"
+      ],
+      "rubric_points": [
+        "Échec du traitement oral",
+        "Signes d'insulino-carence (AMG)",
+        "Grossesse",
+        "Situations de stress métabolique (infections, chirurgie, corticoïdes, traumatisme)"
+      ],
+      "explanation": "L'insulinothérapie est indiquée en cas d'échec des ADO, de signes cliniques d'insulino-carence (amaigrissement, syndrome polyuro-polydipsique), de grossesse ou lors de situations de stress métabolique aigu. L'option D est fausse car l'insulinothérapie n'est pas systématique au diagnostic du diabète de type 2."
+    }
+  ],
+  "model_used": "gemini-3.1-flash-lite-preview"
+}
