@@ -89,7 +89,11 @@ CREATE TABLE IF NOT EXISTS questions (
     verification_status TEXT NOT NULL DEFAULT 'unverified',
     scan_page_image TEXT,
     recurrence_count INTEGER NOT NULL DEFAULT 1,
-    frequency_tag TEXT NOT NULL DEFAULT 'standard'
+    frequency_tag TEXT NOT NULL DEFAULT 'standard',
+    is_predicted INTEGER NOT NULL DEFAULT 0,
+    difficulty_tier TEXT NOT NULL DEFAULT 'standard',
+    likelihood_score INTEGER NOT NULL DEFAULT 75,
+    doc_evidence TEXT NOT NULL DEFAULT ''
 );
 
 CREATE TABLE IF NOT EXISTS question_attempts (
@@ -117,7 +121,9 @@ CREATE TABLE IF NOT EXISTS clinical_cases (
     patient_summary TEXT NOT NULL,
     vitals_json TEXT NOT NULL DEFAULT '{}',
     steps_json TEXT NOT NULL,
-    takeaway_points TEXT NOT NULL DEFAULT '[]'
+    takeaway_points TEXT NOT NULL DEFAULT '[]',
+    is_predicted INTEGER NOT NULL DEFAULT 0,
+    doc_evidence TEXT NOT NULL DEFAULT ''
 );
 
 CREATE TABLE IF NOT EXISTS clinical_case_attempts (
@@ -167,6 +173,19 @@ def init_db(db_path: Path | None = None) -> None:
     conn = get_conn(db_path)
     try:
         conn.executescript(SCHEMA_SQL)
+        migrations = [
+            ("questions", "is_predicted", "INTEGER NOT NULL DEFAULT 0"),
+            ("questions", "difficulty_tier", "TEXT NOT NULL DEFAULT 'standard'"),
+            ("questions", "likelihood_score", "INTEGER NOT NULL DEFAULT 75"),
+            ("questions", "doc_evidence", "TEXT NOT NULL DEFAULT ''"),
+            ("clinical_cases", "is_predicted", "INTEGER NOT NULL DEFAULT 0"),
+            ("clinical_cases", "doc_evidence", "TEXT NOT NULL DEFAULT ''"),
+        ]
+        for table, col, ddl in migrations:
+            cols = {r[1] for r in conn.execute(f"PRAGMA table_info({table})").fetchall()}
+            if col not in cols:
+                conn.execute(f"ALTER TABLE {table} ADD COLUMN {col} {ddl}")
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_q_predicted ON questions(is_predicted)")
         conn.commit()
     finally:
         conn.close()

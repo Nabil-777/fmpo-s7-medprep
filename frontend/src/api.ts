@@ -49,6 +49,13 @@ export const api = {
   radar: () => req<any>('/api/analytics/radar'),
   clinicalCases: (module_id?: string) =>
     req<any>(`/api/clinical-cases${module_id && module_id !== 'all' ? `?module_id=${module_id}` : ''}`),
+  possibleQuestions: (params?: Record<string, string | number | boolean>) => {
+    const qs = new URLSearchParams();
+    Object.entries(params || {}).forEach(([k, v]) => {
+      if (v !== undefined && v !== null && v !== '' && v !== 'all') qs.set(k, String(v));
+    });
+    return req<any>(`/api/possible-questions?${qs.toString()}`);
+  },
   clinicalCase: (slug: string) => req<any>(`/api/clinical-cases/${slug}`),
   recordCaseAttempt: (caseId: number, score: number, max_score: number, answers: Record<string, unknown>) =>
     req<any>(`/api/clinical-cases/${caseId}/attempt`, {

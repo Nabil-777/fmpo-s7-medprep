@@ -1,4 +1,4 @@
-export type NavTab = 'dashboard' | 'courses' | 'clinical' | 'exams' | 'radar' | 'scans';
+export type NavTab = 'dashboard' | 'courses' | 'clinical' | 'exams' | 'possible' | 'radar' | 'scans';
 
 export interface ModuleInfo {
   id: string;
@@ -84,6 +84,11 @@ export interface QuestionItem {
   verification_status: string;
   scan_page_image: string | null;
   frequency_tag: string;
+  is_predicted?: number | boolean;
+  difficulty_tier?: 'piege_jury' | 'wa3ra' | 'standard' | string;
+  likelihood_score?: number;
+  doc_evidence?: string;
+  course_annale_cnt?: number;
 }
 
 export interface AttemptResult {
@@ -98,6 +103,9 @@ export interface AttemptResult {
   explanation: string;
   verification_status: string;
   scan_page_image: string | null;
+  doc_evidence?: string;
+  difficulty_tier?: string;
+  likelihood_score?: number;
 }
 
 export interface ClinicalStep {
@@ -129,4 +137,38 @@ export interface ClinicalCaseItem {
   takeaway_points: string[];
   best_ratio?: number | null;
   attempt_count?: number;
+  is_predicted?: number | boolean;
+  doc_evidence?: string;
+}
+
+export interface PossibleQuestionsResponse {
+  summary: {
+    total_questions: number;
+    filtered_questions: number;
+    total_cases: number;
+    piege_jury_count: number;
+    zero_annale_questions: number;
+    docs_analyzed: number;
+    doc_backed_courses: number;
+  };
+  by_module: {
+    module_id: string;
+    short_name: string;
+    name: string;
+    q_count: number;
+    case_count: number;
+  }[];
+  courses: {
+    id: number;
+    module_id: string;
+    sub_discipline: string;
+    professor: string | null;
+    canonical_title: string;
+    promo_status: string;
+    annale_cnt: number;
+    predicted_cnt: number;
+    doc_cnt: number;
+  }[];
+  questions: QuestionItem[];
+  cases: ClinicalCaseItem[];
 }

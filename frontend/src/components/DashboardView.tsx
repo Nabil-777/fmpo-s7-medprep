@@ -85,6 +85,12 @@ export const DashboardView: React.FC<Props> = ({ data, onNavigate }) => {
               </button>
             )}
             <button
+              onClick={() => onNavigate('possible')}
+              className="px-5 py-2.5 rounded-[5px] bg-[#241116] border border-[#9A7438] hover:bg-[#3A1C24] text-[#FBF9F5] text-xs font-semibold transition cursor-pointer"
+            >
+              Possible Question ({summary.possible_questions ?? 0} Q · {summary.possible_cases ?? 0} Cas)
+            </button>
+            <button
               onClick={() => onNavigate('scans')}
               className="px-5 py-2.5 rounded-[5px] bg-[#F3EFE7] border border-[#D2C9B8] hover:bg-[#E9E2D4] text-[#161615] text-xs font-semibold transition cursor-pointer"
             >

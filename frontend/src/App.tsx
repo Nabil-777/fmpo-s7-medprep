@@ -5,6 +5,7 @@ import { ClinicalSimView } from './components/ClinicalSimView';
 import { DashboardView } from './components/DashboardView';
 import { ExamSimulatorView } from './components/ExamSimulatorView';
 import { KnowledgeHubView } from './components/KnowledgeHubView';
+import { PossibleQuestionsView } from './components/PossibleQuestionsView';
 import { ScanDigitizerView } from './components/ScanDigitizerView';
 import { StrikeRadarView } from './components/StrikeRadarView';
 import { ModuleBadge } from './components/shared';
@@ -15,6 +16,7 @@ const NAV_ITEMS: { id: NavTab; label: string }[] = [
   { id: 'courses', label: 'Cours & Fiches' },
   { id: 'clinical', label: 'Clinique' },
   { id: 'exams', label: 'Examens' },
+  { id: 'possible', label: 'Possible Question' },
   { id: 'radar', label: 'Radar' },
   { id: 'scans', label: 'Scans' },
 ];
@@ -98,14 +100,14 @@ export default function App() {
           </button>
 
           {/* Center Navigation */}
-          <nav className="flex items-center gap-5 sm:gap-7 overflow-x-auto h-full no-scrollbar">
+          <nav className="flex items-center gap-4 lg:gap-5 overflow-x-auto h-full no-scrollbar">
             {NAV_ITEMS.map((item) => {
               const active = tab === item.id;
               return (
                 <button
                   key={item.id}
                   onClick={() => navigate(item.id)}
-                  className={`relative h-full inline-flex items-center text-[12.5px] whitespace-nowrap transition-colors cursor-pointer ${
+                  className={`relative h-full inline-flex items-center text-[12px] whitespace-nowrap transition-colors cursor-pointer ${
                     active
                       ? 'font-bold text-[#6B1D2F]'
                       : 'font-medium text-[#6F6A61] hover:text-[#161615]'
@@ -121,13 +123,13 @@ export default function App() {
           </nav>
 
           {/* Right Search Trigger + Tabular Corpus Status */}
-          <div className="hidden md:flex items-center gap-4 shrink-0">
+          <div className="hidden md:flex items-center gap-3.5 shrink-0">
             <button
               onClick={() => {
                 setSearchQuery('');
                 setSearchOpen(true);
               }}
-              className="w-[184px] h-[32px] px-2.5 rounded-[5px] bg-[#FBF9F5] border border-[#E5DFD3] hover:border-[#D2C9B8] flex items-center justify-between text-[11px] text-[#6F6A61] cursor-pointer transition"
+              className="w-[164px] h-[32px] px-2.5 rounded-[5px] bg-[#FBF9F5] border border-[#E5DFD3] hover:border-[#D2C9B8] flex items-center justify-between text-[11px] text-[#6F6A61] cursor-pointer transition"
             >
               <span className="flex items-center gap-2">
                 <Search className="w-3.5 h-3.5 text-[#8C857A]" />
@@ -154,6 +156,9 @@ export default function App() {
         )}
         {tab === 'exams' && (
           <ExamSimulatorView key={`ex-${presetKey}`} initialPreset={preset} />
+        )}
+        {tab === 'possible' && (
+          <PossibleQuestionsView key={`pq-${presetKey}`} initialPreset={preset} onNavigate={navigate} />
         )}
         {tab === 'radar' && <StrikeRadarView onNavigate={navigate} />}
         {tab === 'scans' && <ScanDigitizerView />}

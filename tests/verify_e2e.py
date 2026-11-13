@@ -174,8 +174,45 @@ async def cdp_verify() -> None:
                 assert has_studio_img, "Studio original scan PNG did not load"
                 await save_shot("06_scan_studio.png")
 
+                # 7. Possible Question (Wa3rin QCM/QROC + Complex Clinical Cases)
+                await click_text("Possible Question")
+                await asyncio.sleep(0.9)
+                txt7 = await eval_js("document.body.innerText")
+                assert "questions prédites" in txt7.lower(), f"Possible Question KPI missing in: {txt7[:300]}"
+                # Select first option if QCM or type into textarea if QROC, then validate
+                answered = await eval_js(
+                    """(() => {
+                        const ta = document.querySelector('textarea');
+                        if (ta) {
+                            const setter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype, 'value').set;
+                            setter.call(ta, 'Biopsie diagnostic seuil positif critere urgence');
+                            ta.dispatchEvent(new Event('input', { bubbles: true }));
+                            return true;
+                        }
+                        const opt = Array.from(document.querySelectorAll('button')).find(b => b.querySelector('span.font-mono-tabular')?.textContent?.trim() === 'A');
+                        if (opt) { opt.click(); return true; }
+                        return false;
+                    })()"""
+                )
+                assert answered, "Could not fill/select answer in Possible Question"
+                await asyncio.sleep(0.3)
+                await click_text("Valider ma réponse")
+                await asyncio.sleep(0.7)
+                txt7b = await eval_js("document.body.innerText")
+                assert "appui document" in txt7b.lower() or "réponse exacte" in txt7b.lower() or "barème" in txt7b.lower()
+                await save_shot("07_possible_questions.png")
+
+                # Switch to Cas Cliniques Complexes & open first complex case
+                await click_text("Cas Cliniques Complexes")
+                await asyncio.sleep(0.7)
+                await click_text("Prendre en charge")
+                await asyncio.sleep(0.7)
+                txt8 = await eval_js("document.body.innerText")
+                assert "éléments séméiologiques" in txt8.lower(), f"Complex clinical case did not open: {txt8[:300]}"
+                await save_shot("08_possible_cases.png")
+
                 assert not errors, f"Browser runtime/network errors detected: {errors}"
-                print("CDP HEADLESS BROWSER E2E VERIFICATION PASSED: 0 runtime/network errors, 6 screenshots saved.")
+                print("CDP HEADLESS BROWSER E2E VERIFICATION PASSED: 0 runtime/network errors, 8 screenshots saved.")
         finally:
             chrome.terminate()
             try:
@@ -216,6 +253,21 @@ def main() -> None:
         _, r2 = post_json(f"/api/questions/{neu_q['id']}/attempt", {"session_id": "api_chk", "mode": "practice", "written_answer": "AVC ischemique < 3 mois hemorragique glycemie PA > 185/110 UGD"})
         assert r2["partial_score"] > 0
 
+        poss = json.loads(get("/api/possible-questions?limit=5")[2].decode())
+        assert poss["summary"]["total_questions"] >= 150, f"Too few predicted questions: {poss['summary']}"
+        assert poss["summary"]["total_cases"] >= 15, f"Too few predicted cases: {poss['summary']}"
+        pq0 = poss["questions"][0]
+        _, r3 = post_json(
+            f"/api/questions/{pq0['id']}/attempt",
+            {
+                "session_id": "api_chk",
+                "mode": pq0["question_type"],
+                "selected_answers": pq0["correct_answers_json"] if pq0["question_type"] != "qroc" else [],
+                "written_answer": " ".join(pq0.get("rubric_json", {}).get("points", [])) if pq0["question_type"] == "qroc" else "",
+            },
+        )
+        assert r3["is_predicted"] is True
+
         # Clean up synthetic api_chk attempt so user telemetry starts fresh
         conn = sqlite3.connect(str(ROOT / "data" / "s7_platform.db"))
         conn.execute("DELETE FROM question_attempts WHERE session_id = 'api_chk'")
@@ -224,6 +276,10 @@ def main() -> None:
 
         print("API & grading verification passed.")
         asyncio.run(cdp_verify())
+        conn = sqlite3.connect(str(ROOT / "data" / "s7_platform.db"))
+        conn.execute("DELETE FROM question_attempts WHERE session_id = 'possible_question'")
+        conn.commit()
+        conn.close()
     finally:
         proc.terminate()
         try:
