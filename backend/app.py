@@ -651,12 +651,14 @@ def list_clinical_cases(module_id: str | None = None, predicted: str = "exclude"
 @app.get("/api/possible-questions")
 def get_possible_questions(
     module_id: str | None = None,
+    sub_discipline: str | None = None,
+    professor: str | None = None,
     course_id: int | None = None,
     difficulty_tier: str | None = None,
     question_type: str | None = None,
     zero_annale_only: bool = False,
     q: str | None = None,
-    limit: int = Query(150, ge=1, le=400),
+    limit: int = Query(700, ge=1, le=1000),
     offset: int = Query(0, ge=0),
 ) -> dict[str, Any]:
     """Return high-yield AI-predicted exam questions & complex multi-step clinical cases mined from all S7 docs."""
@@ -706,6 +708,12 @@ def get_possible_questions(
         if module_id and module_id != "all":
             q_where.append("qn.module_id = ?")
             q_params.append(module_id)
+        if sub_discipline and sub_discipline != "all":
+            q_where.append("qn.sub_discipline = ?")
+            q_params.append(sub_discipline)
+        if professor and professor != "all":
+            q_where.append("qn.professor = ?")
+            q_params.append(professor)
         if course_id:
             q_where.append("qn.course_id = ?")
             q_params.append(course_id)

@@ -76,8 +76,12 @@ def improved_match_score(course_title: str, file_path: str, file_name: str, cour
     fn_norm = norm(file_name)
     cn_norm = norm(course_title)
     for f_hint, c_hint in EXPLICIT_FILE_COURSE_HINTS:
-        if f_hint in fn_norm and c_hint in cn_norm:
-            base = max(base, 0.95)
+        fh = norm(f_hint)
+        ch = norm(c_hint)
+        if fh in fn_norm:
+            if ch in cn_norm:
+                return 1.5
+            return 0.05
     return base
 
 
